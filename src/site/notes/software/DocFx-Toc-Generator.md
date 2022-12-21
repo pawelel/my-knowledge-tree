@@ -3,7 +3,4 @@
 ---
 
 
-
-# DocFx Toc Generator
-
 Generates a Table of Contents (TOC) in YAML format for DocFX. A useful extension for those who create documentation with DocFX
