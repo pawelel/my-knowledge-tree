@@ -1,5 +1,5 @@
 ---
-{"title":"With syntax","dg-publish":true,"tags":"coding/power-apps","language":"en","permalink":"/coding/with-syntax/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/coding/with-syntax/"}
 ---
 
 up:: [[coding/Power Apps\|Power Apps]]
