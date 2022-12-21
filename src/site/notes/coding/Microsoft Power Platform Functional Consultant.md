@@ -1,6 +1,8 @@
 ---
-{"title":"Microsoft Power Platform Functional Consultant","dg-publish":true,"tags":null,"permalink":"/coding/microsoft-power-platform-functional-consultant/","dgPassFrontmatter":true}
+{"title":"Microsoft Power Platform Functional Consultant","dg-publish":true,"tags":"coding/power-apps","language":"pl","permalink":"/coding/microsoft-power-platform-functional-consultant/","dgPassFrontmatter":true}
 ---
+
+up:: [[coding/Power Apps\|Power Apps]]
 
 
 Egzamin składa się z 6 grup o różnym stopniu nasycenia.  
@@ -18,30 +20,19 @@ Egzamin składa się z 6 grup o różnym stopniu nasycenia.  
 
 ## Konfiguracja Microsoft Dataverse
 
-  
-
 ### 1. Zarządzanie modelem danych
-
-  
 
 Dataverse zawiera zestaw standardowych tabel z metadanymi, które zapewniają wsparcie dla kluczowych elementów aplikacji. Zalecane jest użycie właśnie tych tabel, jeśli to tylko możliwe, ponieważ są gotowe do działania bez dodatkowego wysiłku.
 
 Możliwe jest ukrycie tabeli poprzez usunięcie uprawnień odczytu dla organizacji. Standardowych tabel nie można usunąć lub edytować, można zmienić nazwy wyświetlane.
 
-  
-
 #### Typy tabel
 
 - Standard - out-of-the-box, domyślne w Dataverse
-
 - Managed
-
   - Zaimportowane do środowiska jako część zadządzanego rozwiązania
-
   - Nie są modyfikowalne
-
 - Custom tables - Standard, Activity lub Virtual
-
   - Virtual zawierają dane z zewnętrznych źródeł
 
 #### Typy Ownership
@@ -49,14 +40,9 @@ Możliwe jest ukrycie tabeli poprzez usunięcie uprawnień odczytu dla organizac
 Istnieją 4 różne typy właśicielstwa tabel:
 
 - User or Team
-
 - Organization
-
 - Business-owned
-
 - None
-
-  
 
 ### 2. Tworzenie i zarządzanie logiką
 
