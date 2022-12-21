@@ -1,5 +1,5 @@
 ---
-{"title":"Affinity Designer","dg-publish":true,"tags":"software","language":"en","permalink":"/software/affinity-designer/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/software/affinity-designer/"}
 ---
 
 up:: [[Home/Software\|Software]]
