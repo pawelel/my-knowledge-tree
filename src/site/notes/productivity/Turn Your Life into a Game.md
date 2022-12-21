@@ -1,5 +1,5 @@
 ---
-{"title":"Turn Your Life into a Game","dg-publish":true,"tags":"productivity","language":"en","permalink":"/productivity/turn-your-life-into-a-game/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/productivity/turn-your-life-into-a-game/"}
 ---
 
 up:: [[Home/Productivity\|productivity]]
