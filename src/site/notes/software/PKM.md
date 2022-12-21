@@ -1,10 +1,17 @@
 ---
-{"title":"PKM","dg-publish":true,"permalink":"/software/pkm/","dgPassFrontmatter":true}
+{"title":"PKM","dg-publish":true,"tags":"Software","language":"en","permalink":"/software/pkm/","dgPassFrontmatter":true}
 ---
+
 
 Personal Knowledge Management Software can improve your [[productivity/Productivity\|Productivity]].
 
-## Obsidian
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
 
 -  [Obisidian core principles](https://tfthacker.medium.com/obsidian-understanding-its-core-design-principles-7f3fafbd6e36)
 -  [How to insert chart](https://www.youtube.com/watch?v=rXhUeV5Ko7g)
@@ -19,6 +26,9 @@ Personal Knowledge Management Software can improve your [[productivity/Productiv
 -  [Automatically Move Files on Creation to a Folder](https://www.youtube.com/watch?v=9V5stavM5qQ)
 -  [Templater Daily note setup](https://dannb.org/blog/2022/obsidian-daily-note-template/)
 -  [How to use QuickAdd plugin](https://www.youtube.com/watch?v=LrQVQ37y6IU)
+
+
+</div></div>
 
 ## Logseq
 
