@@ -1,5 +1,5 @@
 ---
-{"title":"Prawo Parkinsona","dg-publish":true,"tags":"productivity","language":"pl","permalink":"/productivity/prawo-parkinsona/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/productivity/prawo-parkinsona/"}
 ---
 
 up:: [[Home/Productivity\|Productivity]]
