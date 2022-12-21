@@ -1,5 +1,5 @@
 ---
-{"title":"DocFx Toc Generator","dg-publish":true,"permalink":"/software/doc-fx-toc-generator/","dgPassFrontmatter":true}
+{"title":"DocFx Toc Generator","dg-publish":true,"tags":"Software","permalink":"/software/doc-fx-toc-generator/","dgPassFrontmatter":true}
 ---
 
 
