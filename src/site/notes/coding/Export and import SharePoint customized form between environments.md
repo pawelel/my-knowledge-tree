@@ -1,5 +1,5 @@
 ---
-{"title":"Export and import SharePoint customized form between environments","dg-publish":true,"tags":"coding/power-apps","language":"en","permalink":"/coding/export-and-import-share-point-customized-form-between-environments/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/coding/export-and-import-share-point-customized-form-between-environments/"}
 ---
 
 up:: [[coding/Power Apps\|Power Apps]]
