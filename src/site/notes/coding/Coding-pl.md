@@ -2,8 +2,6 @@
 {"title":"Coding-pl","dg-publish":true,"permalink":"/coding/coding-pl/","dgPassFrontmatter":true}
 ---
 
-
-
 More articles about coding you can find here: [[coding/Coding\|Coding]]
 
 ## C \#
