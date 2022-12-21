@@ -1,5 +1,5 @@
 ---
-{"title":"PowerToys","dg-publish":true,"tags":"software","language":"en","permalink":"/software/power-toys/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/software/power-toys/"}
 ---
 
 up:: [[Home/Software\|Software]]
