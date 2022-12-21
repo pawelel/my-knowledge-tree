@@ -1,5 +1,5 @@
 ---
-{"title":"How to learn faster","dg-publish":true,"tags":"productivity","language":"en","permalink":"/productivity/how-to-learn-faster/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/productivity/how-to-learn-faster/"}
 ---
 
 up:: [[Home/Productivity\|productivity]]
