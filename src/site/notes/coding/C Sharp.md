@@ -1,5 +1,5 @@
 ---
-{"title":"C Sharp","dg-publish":true,"tags":"coding","permalink":"/coding/c-sharp/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/coding/c-sharp/"}
 ---
 
 up:: [[Home/Coding\|Coding]]
