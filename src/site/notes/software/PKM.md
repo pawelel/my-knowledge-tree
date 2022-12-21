@@ -1,5 +1,5 @@
 ---
-{"title":"PKM","dg-publish":true,"tags":"software","language":"en","permalink":"/software/pkm/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/software/pkm/"}
 ---
 
 up:: [[Home/Software\|Software]]
