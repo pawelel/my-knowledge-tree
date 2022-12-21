@@ -1,5 +1,5 @@
 ---
-{"title":"Software","dg-publish":true,"language":"en","permalink":"/home/software/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/home/software/"}
 ---
 
 up:: [[Home/My Knowledge Tree\|My Knowledge Tree]]
