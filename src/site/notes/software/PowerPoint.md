@@ -1,5 +1,5 @@
 ---
-{"title":"PowerPoint","dg-publish":true,"tags":"software","language":"en","permalink":"/software/power-point/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/software/power-point/"}
 ---
 
 up:: [[Home/Software\|Software]]
