@@ -1,5 +1,5 @@
 ---
-{"title":"Angular","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/angular/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/coding/angular/"}
 ---
 
 up:: [[Home/Coding\|Coding]]
