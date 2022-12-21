@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/home/moje-drzewo-wiedzy/","dgPassFrontmatter":true}
+{"title":"Moje Drzewo Wiedzy","dg-publish":true,"language":"pl","permalink":"/home/moje-drzewo-wiedzy/","dgPassFrontmatter":true}
 ---
+
 
 
  >[!DANGER] UWAGA
