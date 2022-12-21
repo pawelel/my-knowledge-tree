@@ -1,8 +1,11 @@
 ---
-{"title":"Obsidian","dg-publish":true,"tags":"Software/PKM","language":"en","permalink":"/software/obsidian/","dgPassFrontmatter":true}
+{"title":"Obsidian","dg-publish":true,"tags":"software/PKM","language":"en","permalink":"/software/obsidian/","dgPassFrontmatter":true}
 ---
 
+up:: [[Home/Software\|Software]]
 
+
+## Additional links
 
 -  [Obisidian core principles](https://tfthacker.medium.com/obsidian-understanding-its-core-design-principles-7f3fafbd6e36)
 -  [How to insert chart](https://www.youtube.com/watch?v=rXhUeV5Ko7g)
