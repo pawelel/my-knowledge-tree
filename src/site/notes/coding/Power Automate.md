@@ -1,5 +1,5 @@
 ---
-{"title":"Power Automate","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/power-automate/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/coding/power-automate/"}
 ---
 
 up:: [[Home/Coding\|Coding]]
