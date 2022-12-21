@@ -1,6 +1,7 @@
 ---
-{"title":"PowerPoint","dg-publish":true,"permalink":"/software/power-point/","dgPassFrontmatter":true}
+{"title":"PowerPoint","dg-publish":true,"tags":"Software","language":"en","permalink":"/software/power-point/","dgPassFrontmatter":true}
 ---
+
 
 ## How to change proofing language of all slides at once?
 
