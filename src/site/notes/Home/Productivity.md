@@ -1,5 +1,5 @@
 ---
-{"title":"Productivity","dg-publish":true,"language":"en","permalink":"/home/productivity/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/home/productivity/"}
 ---
 
 up:: [[Home/My Knowledge Tree\|My Knowledge Tree]]
