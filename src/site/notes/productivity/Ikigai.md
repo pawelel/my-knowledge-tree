@@ -1,5 +1,5 @@
 ---
-{"title":"Ikigai","dg-publish":true,"tags":"productivity","language":"pl","permalink":"/productivity/ikigai/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/productivity/ikigai/"}
 ---
 
 up:: [[Home/Productivity\|Productivity]]
