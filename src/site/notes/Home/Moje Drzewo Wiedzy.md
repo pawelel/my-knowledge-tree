@@ -1,9 +1,7 @@
 ---
-{"title":"Moje Drzewo Wiedzy","dg-publish":true,"permalink":"/home/moje-drzewo-wiedzy/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/home/moje-drzewo-wiedzy/","dgPassFrontmatter":true}
 ---
 
-
-# Moje Drzewo Wiedzy
 
  >[!DANGER] UWAGA
  >Strona zawiera przede wszystkim materiały w języku angielskim, ale niektóre wpisy są po polsku.
