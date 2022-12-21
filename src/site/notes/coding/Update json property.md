@@ -1,5 +1,5 @@
 ---
-{"title":"Update json property","dg-publish":true,"tags":"coding/power-automate","language":"en","permalink":"/coding/update-json-property/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/coding/update-json-property/"}
 ---
 
 up:: [[coding/Power Automate\|Power Automate]]
