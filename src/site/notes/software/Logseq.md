@@ -1,5 +1,5 @@
 ---
-{"title":"Logseq","dg-publish":true,"tags":"software/PKM","language":"en","permalink":"/software/logseq/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/software/logseq/"}
 ---
 
 up:: [[Home/Software\|Software]]
