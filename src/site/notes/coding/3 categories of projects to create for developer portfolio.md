@@ -1,5 +1,5 @@
 ---
-{"title":"3 categories of projects to create for developer portfolio","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/3-categories-of-projects-to-create-for-developer-portfolio/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/coding/3-categories-of-projects-to-create-for-developer-portfolio/"}
 ---
 
 up:: [[Home/Coding\|Coding]]
