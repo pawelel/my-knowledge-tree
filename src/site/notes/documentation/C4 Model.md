@@ -1,5 +1,5 @@
 ---
-{"title":"C4 Model","dg-publish":true,"tags":"documentation","language":"en","permalink":"/documentation/c4-model/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/documentation/c4-model/"}
 ---
 
 up:: [[Home/Documentation\|Documentation]]
