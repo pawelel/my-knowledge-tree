@@ -1,5 +1,5 @@
 ---
-{"title":"Coding","dg-publish":true,"permalink":"/home/coding/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/home/coding/"}
 ---
 
 up:: [[Home/My Knowledge Tree\|My Knowledge Tree]]
