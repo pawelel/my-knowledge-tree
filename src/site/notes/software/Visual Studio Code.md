@@ -1,5 +1,5 @@
 ---
-{"title":"Visual Studio Code","dg-publish":true,"permalink":"/software/visual-studio-code/","dgPassFrontmatter":true}
+{"title":"Visual Studio Code","dg-publish":true,"tags":"Software","permalink":"/software/visual-studio-code/","dgPassFrontmatter":true}
 ---
 
 ## C4-PlantUML - a VS Code extension for C4 Model
