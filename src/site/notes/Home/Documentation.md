@@ -1,5 +1,5 @@
 ---
-{"title":"Documentation","dg-publish":true,"permalink":"/home/documentation/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/home/documentation/"}
 ---
 
 up:: [[Home/My Knowledge Tree\|My Knowledge Tree]]
