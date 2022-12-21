@@ -1,5 +1,5 @@
 ---
-{"title":"<% tp.file.title %>","dg-publish":true,"tags":"<% tp.file.folder(true) %>","language":"en","permalink":"/templates/post/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/templates/post/"}
 ---
 
 up:: [[<% tp.file.folder(true) %>\|<% tp.file.folder(true) %>]]
