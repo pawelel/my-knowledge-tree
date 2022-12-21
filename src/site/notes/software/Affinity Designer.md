@@ -1,5 +1,5 @@
 ---
-{"title":"Affinity Designer","dg-publish":true,"permalink":"/software/affinity-designer/","dgPassFrontmatter":true}
+{"title":"Affinity Designer","dg-publish":true,"tags":"Software","permalink":"/software/affinity-designer/","dgPassFrontmatter":true}
 ---
 
 ## How to save Text frame settings in Affinity Designer
