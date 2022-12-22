@@ -27,6 +27,12 @@ If you want to run code made in typescript (e.g. `name.ts`), first convert it to
 
 Before using boolean in TypeScript, you need to assign a value to it. Other way you'll get an error.
 
+To calculate numbers in array you can use `reduce` function.
+```typescript
+let numList = [1,2,3];
+let result = numList.reduce((a, b) => a + b);
+```
+
 ## Articles
 | Title                                                    | Language |
 | -------------------------------------------------------- | -------- |
