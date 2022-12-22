@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/productivity/locke-s-goal-setting-theory/"}
+{"title":"Locke's Goal-Setting Theory","dg-publish":true,"tags":"productivity","language":"en","permalink":"/productivity/locke-s-goal-setting-theory/","dgPassFrontmatter":true}
 ---
 
 up:: [[Home/Productivity\|productivity]]
