@@ -8,7 +8,7 @@ up:: [[Home/Coding\|coding]]
 
 Typescript is a strongly typed language, created and maintained by Microsoft as subset of JavaScript. It compiles to JavaScript. It is supported by all major libraries and frameworks.
 
-Typescript is used by Vue, React, [[coding/Angular\|Angular]].
+Typescript is used by Vue, [[coding/React\|React]], [[coding/Angular\|Angular]].
 
 It keeps application free from type errors, undefined and null values.
 
@@ -29,11 +29,44 @@ Before using boolean in TypeScript, you need to assign a value to it. Other way 
 
 ## Functions
 
+It is possible to create functions in various ways, for example:
+
+- by declaration
+  ```typescript
+	function add(num1:number,num2: number): number{
+	return num1 + num2
+	```
+
+- using lambda expression
+	```typescript
+	  const sub = (num1: number, num2: number): number => num1 - num2;
+	```
+
+- using function keyword
+	```typescript
+	  const mult = function(num1: number, num2: number) : number {
+	  return num1 * num2
+	  }
+	```
+## React parameter
+
+```typescript
+function add(num1: number, num2: number, ...num3: number[]): number {
+return num1 + num2 + num3.reduce((a, b) => a + b, 0);
+}
+let numbers = [1,2,3];
+console.log(add(1, 2, ...numbers));
+```
+
+## Reduce
 
 To calculate numbers in array you can use `reduce` function.
 ```typescript
-let numList = [1,2,3];
-let result = numList.reduce((a, b) => a + b);
+function add(num1: number, num2: number, ...num3: number[]): number {
+  return num1 + num2 + num3.reduce((a, b) => a + b, 0);
+}
+
+console.log(add(1, 2, ...[1,2,3]));
 ```
 
 ## Articles
