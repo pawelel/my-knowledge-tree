@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coding/better-forms-in-power-apps/"}
+{"title":"Better forms in Power Apps","dg-publish":true,"tags":"coding/power-apps","language":"en","permalink":"/coding/better-forms-in-power-apps/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/Power Apps\|Power Apps]]
