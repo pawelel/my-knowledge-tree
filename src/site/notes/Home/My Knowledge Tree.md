@@ -48,10 +48,10 @@ This base is organised with categories - productivity, coding, documentation and
 ## Software
 
 - [[software/Obsidian\|Obsidian]]
-- [[software/Visual Studio Code\|Visual Studio Code]]
 - [[software/PowerToys\|PowerToys]]
 - [[software/PKM\|PKM]]
 - [[software/PowerPoint\|PowerPoint]]
 - [[software/Logseq\|Logseq]]
 - [[software/Affinity Designer\|Affinity Designer]]
+- [[software/Visual Studio Code\|Visual Studio Code]]
 
