@@ -4,7 +4,7 @@
 
 ---
 I needed an easily accessible place - a personal knowledge base where links and solutions needed to perform various tasks could be stored. 
-This base is organised with categories - productivity, coding, documentation and software.
+This base is organised with categories - productivity, coding, documentation and software. Current version of this page is created with [[software/Obsidian\|Obsidian]], [Netlify](https://app.netlify.com/) and [Obsidian Digital Garden](https://github.com/oleeskild/obsidian-digital-garden)
 
 ## Productivity
 
