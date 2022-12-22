@@ -12,8 +12,6 @@ Typescript is used by Vue, [[coding/React\|React]], [[coding/Angular\|Angular]].
 
 It keeps application free from type errors, undefined and null values.
 
-
-
 To install typescript on Windows, you can use command:
 
 ```powershell
@@ -92,6 +90,9 @@ john.name = "John";
 john.address = "Burkina Faso 13";
 console.log(john);
 ```
+By default, all parameters are public.
+You can define them private with `private` keyword or `#` symbol. It is also possible to declare protected properties.
+
 ## Constructors
 In TypeScript you can't have multiple constructors. Instead, you can use either parameterless or with parameters.
 ```typescript
