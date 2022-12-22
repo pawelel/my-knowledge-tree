@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/productivity/smart-goals/"}
+{"title":"SMART Goals","dg-publish":true,"tags":"productivity","language":"en","permalink":"/productivity/smart-goals/","dgPassFrontmatter":true}
 ---
 
 up:: [[Home/Productivity\|productivity]]
