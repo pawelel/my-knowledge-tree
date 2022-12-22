@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/obsidian/"}
+{"title":"Obsidian","dg-publish":true,"tags":"software/PKM","language":"en","permalink":"/software/obsidian/","dgPassFrontmatter":true}
 ---
 
 up:: [[Home/Software\|Software]]
