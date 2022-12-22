@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coding/person-or-group-in-power-apps/"}
+{"title":"Person or Group in Power Apps","dg-publish":true,"tags":"coding/power-apps","language":"en","permalink":"/coding/person-or-group-in-power-apps/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/Power Apps\|Power Apps]]
