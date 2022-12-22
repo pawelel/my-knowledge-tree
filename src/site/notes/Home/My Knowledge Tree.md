@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/my-knowledge-tree/","tags":"gardenEntry"}
+{"title":"My Knowledge Tree","dg-home":true,"dg-publish":true,"permalink":"/home/my-knowledge-tree/","tags":"gardenEntry","dgPassFrontmatter":true}
 ---
 
 ---
@@ -7,49 +7,48 @@ I needed an easily accessible place - a personal knowledge base where links and 
 
 This base is organised with categories - productivity, coding, documentation and software.
 
-## [[Home/Productivity\|Productivity]]
+## Productivity
 
-- [[productivity/Ikigai\|Ikigai]]
-- [[productivity/Jak studiować przy pracy na pełnym etacie\|Jak studiować przy pracy na pełnym etacie]]
+- [[productivity/Turn Your Life into a Game\|Turn Your Life into a Game]]
+- [[productivity/SMART Goals\|SMART Goals]]
 - [[productivity/Prawo Parkinsona\|Prawo Parkinsona]]
 - [[productivity/Prawo Galla\|Prawo Galla]]
-- [[productivity/Gall's Law\|Gall's Law]]
-- [[productivity/How to Feel Less Anxious\|How to Feel Less Anxious]]
-- [[productivity/Conquer Prokrastination\|Conquer Prokrastination]]
-- [[productivity/How to learn faster\|How to learn faster]]
-- [[productivity/IKIGAI Your Purpose of Life\|IKIGAI Your Purpose of Life]]
-- [[productivity/Locke's Goal-Setting Theory\|Locke's Goal-Setting Theory]]
 - [[productivity/Parkinson's Law\|Parkinson's Law]]
-- [[productivity/SMART Goals\|SMART Goals]]
-- [[productivity/Turn Your Life into a Game\|Turn Your Life into a Game]]
+- [[productivity/Locke's Goal-Setting Theory\|Locke's Goal-Setting Theory]]
+- [[productivity/Jak studiować przy pracy na pełnym etacie\|Jak studiować przy pracy na pełnym etacie]]
+- [[productivity/Ikigai\|Ikigai]]
+- [[productivity/IKIGAI Your Purpose of Life\|IKIGAI Your Purpose of Life]]
+- [[productivity/How to Feel Less Anxious\|How to Feel Less Anxious]]
+- [[productivity/How to learn faster\|How to learn faster]]
+- [[productivity/Gall's Law\|Gall's Law]]
+- [[productivity/Conquer Prokrastination\|Conquer Prokrastination]]
 
 
-## [[Home/Coding\|Coding]]
+## Coding
 
-- [[coding/C Sharp\|C Sharp]]
-- [[coding/React\|React]]
-- [[coding/PowerShell\|PowerShell]]
-- [[coding/Power Automate\|Power Automate]]
-- [[coding/Power Apps\|Power Apps]]
-- [[coding/Angular\|Angular]]
 - [[coding/3 categories of projects to create for developer portfolio\|3 categories of projects to create for developer portfolio]]
 - [[coding/72 Tricks for .NET Developers\|72 Tricks for .NET Developers]]
+- [[coding/Angular\|Angular]]
+- [[coding/C Sharp\|C Sharp]]
+- [[coding/Power Apps\|Power Apps]]
+- [[coding/Power Automate\|Power Automate]]
+- [[coding/PowerShell\|PowerShell]]
+- [[coding/React\|React]]
 
 
-## [[Home/Documentation\|Documentation]]
+## Documentation
 
-- [[documentation/C4 Model\|C4 Model]]
 - [[documentation/Markdown\|Markdown]]
+- [[documentation/C4 Model\|C4 Model]]
 
 
-## [[Home/Software\|Software]]
+## Software
 
-- [[software/Affinity Designer\|Affinity Designer]]
-- [[software/Logseq\|Logseq]]
-- [[software/Obsidian\|Obsidian]]
-- [[software/PKM\|PKM]]
-- [[software/PowerPoint\|PowerPoint]]
-- [[software/PowerToys\|PowerToys]]
 - [[software/Visual Studio Code\|Visual Studio Code]]
-
+- [[software/PowerToys\|PowerToys]]
+- [[software/PowerPoint\|PowerPoint]]
+- [[software/PKM\|PKM]]
+- [[software/Obsidian\|Obsidian]]
+- [[software/Logseq\|Logseq]]
+- [[software/Affinity Designer\|Affinity Designer]]
 
