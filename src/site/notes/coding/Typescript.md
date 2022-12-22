@@ -4,6 +4,8 @@
 
 up:: [[Home/Coding\|coding]]
 
+## About Typescript
+
 Typescript is a strongly typed language, created and maintained by Microsoft as subset of JavaScript. It compiles to JavaScript. It is supported by all major libraries and frameworks.
 
 Typescript is used by Vue, React, [[coding/Angular\|Angular]].
@@ -23,4 +25,10 @@ Global option reduces the risk of appearing this error:
 
 If you want to run code made in typescript (e.g. `name.ts`), first convert it to javascript by using `tsc` command. Then you can type and execute `node name` command, which will execute converted JavaScript code.
 
-Before using boolean in TypeScript, you have to assign a value to it. Other way you'll get an error.
+Before using boolean in TypeScript, you need to assign a value to it. Other way you'll get an error.
+
+## Articles
+| Title                                                    | Language |
+| -------------------------------------------------------- | -------- |
+| [[coding/Typescript questions\|Typescript questions]] | en       |
+
