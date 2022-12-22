@@ -4,7 +4,7 @@
 
 up:: [[Home/Software\|Software]]
 
-
+Visual Studio Code can be used as default text editor and IDE for apps written in JavaScript, [[coding/Typescript\|TypeScript]] [[coding/C Sharp\|C Sharp]] and other languages.
 
 ## C4-PlantUML - a VS Code extension for C4 Model
 
@@ -15,3 +15,6 @@ PlantUML is a plugin for VS Code, that supports rendering of C4 Model.  
 ## DocFx Toc Generator
 
 Generates a Table of Contents (TOC) in YAML format for DocFX. A useful extension for those who create documentation with DocFX
+
+## Switch to terminal/editor
+To switch between terminal and editor you can use `Ctrl` + `J` or `TAB` + \`.
