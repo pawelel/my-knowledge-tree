@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/productivity/prawo-galla/"}
+{"title":"Prawo Galla","dg-publish":true,"tags":"productivity","language":"pl","permalink":"/productivity/prawo-galla/","dgPassFrontmatter":true}
 ---
 
 up:: [[Home/Productivity\|Productivity]]
