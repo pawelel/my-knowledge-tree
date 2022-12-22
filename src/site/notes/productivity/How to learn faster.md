@@ -45,5 +45,5 @@ Ask youself this question:
 - What is the reality of the situation?
 When planning to learn hard topic, give yourself more time.
 
-Based on YouTube video of Elizabeth Filips - [You're Not Slow: Become a Speed Learner in 20 Minutes](https://www.youtube.com/watch?v=_wzJnWCBWkI)  
+>Based on YouTube video of Elizabeth Filips - [You're Not Slow: Become a Speed Learner in 20 Minutes](https://www.youtube.com/watch?v=_wzJnWCBWkI)  
 and [How to Learn Insanely Difficult Subjects Easily](https://www.youtube.com/watch?v=yG7z8XtZGMk) from Cajun Koi Academy.
