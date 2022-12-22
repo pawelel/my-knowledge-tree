@@ -15,7 +15,17 @@ It features:
 
 Angular also supports server side rendering (SSR).
 
+## Installation
+In order to install Angular 13, use command:
 
+```powershell
+npm i @angular/cli@13.2.1 -g
+```
+If you want to create simple workspace without additional components, use:
+
+```typescript
+ng new workspacename --create-application false
+```
 
 ## Additional links
 
