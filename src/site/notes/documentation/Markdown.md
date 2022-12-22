@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/documentation/markdown/"}
+{"title":"Markdown","dg-publish":true,"tags":"documentation","language":"en","permalink":"/documentation/markdown/","dgPassFrontmatter":true}
 ---
 
 up:: [[Home/Documentation\|documentation]]
