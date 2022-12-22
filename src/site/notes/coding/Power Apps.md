@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coding/power-apps/"}
+{"title":"Power Apps","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/power-apps/","dgPassFrontmatter":true}
 ---
 
 up:: [[Home/Coding\|Coding]]
@@ -8,9 +8,9 @@ up:: [[Home/Coding\|Coding]]
 
 | Title                                                                                                                                              | Language |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [[coding/Microsoft Power Platform Functional Consultant\|Microsoft Power Platform Functional Consultant]]                                       | pl       |
 | [[coding/Better forms in Power Apps\|Better forms in Power Apps]]                                                                               | en       |
 | [[coding/Export and import SharePoint customized form between environments\|Export and import SharePoint customized form between environments]] | en       |
+| [[coding/Microsoft Power Platform Functional Consultant\|Microsoft Power Platform Functional Consultant]]                                       | pl       |
 | [[coding/Person or Group in Power Apps\|Person or Group in Power Apps]]                                                                         | en       |
 | [[coding/With syntax\|With syntax]]                                                                                                             | en       |
 
