@@ -117,11 +117,29 @@ Within a class you can add not only the constructor, but also methods. Example b
 `${}` 
 ```
 
-
 ```typescript
 getNameWithAdress(): string {
 	return `${this.name} ${this.address}`;
 }
+```
+## Extending types
+The `extends` keyword on an `interface` allows you to effectively copy members from other named types, and add whatever new members you want.
+
+```typescript
+interface Colorful {
+  color: string;
+}
+ 
+interface Circle {
+  radius: number;
+}
+ 
+interface ColorfulCircle extends Colorful, Circle {}
+ 
+const cc: ColorfulCircle = {
+  color: "red",
+  radius: 42,
+};
 ```
 
 ## Articles
