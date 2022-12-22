@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coding/72-tricks-for-net-developers/"}
+{"title":"72 Tricks for .NET Developers","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/72-tricks-for-net-developers/","dgPassFrontmatter":true}
 ---
 
 up:: [[Home/Coding\|Coding]]
