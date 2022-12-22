@@ -22,7 +22,7 @@ Additional helper questions to ask:
 11. So, do you mean that when this happens then this happens?
 Start from simple explaination, omit complex definitions. Then get information about the knowledge - what is possible and not possible even you have it. To remember it for longer period, make the topic important to you, use mental associations, feel connection to it.
 
-##  Learn like a painter
+## Learn like a painter
 Learn subject in layers, but remember about **The Anchoring Effect**  
 Start from simple explaination and skip more difficult topics until they will be understandable.
 If something takes you more than a few minutes to embrace it in your mind, skip it for now, try to change perspective.
