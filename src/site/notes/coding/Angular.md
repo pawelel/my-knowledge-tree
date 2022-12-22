@@ -26,7 +26,16 @@ If you want to create simple workspace without additional components, use:
 ```typescript
 ng new workspacename --create-application false
 ```
-## mono-repo
+To create app, you can use command
+```typescript
+ng new applicationname
+```
+To run application locally, use:
+```typescript
+ng serve -o
+```
+
+## Mono-repo
 You can have multiple applications and libraries in one workspace. Applications can share code, which reduces repeating.
 
 ## Additional links
