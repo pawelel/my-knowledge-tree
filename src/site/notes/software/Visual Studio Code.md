@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software/visual-studio-code/"}
+{"title":"Visual Studio Code","dg-publish":true,"tags":"software","language":"en","permalink":"/software/visual-studio-code/","dgPassFrontmatter":true}
 ---
 
 up:: [[Home/Software\|Software]]
