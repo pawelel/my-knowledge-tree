@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/productivity/gall-s-law/"}
+{"title":"Gall's Law","dg-publish":true,"tags":"productivity","language":"en","permalink":"/productivity/gall-s-law/","dgPassFrontmatter":true}
 ---
 
 up:: [[Home/Productivity\|productivity]]
