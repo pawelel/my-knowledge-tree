@@ -5,3 +5,5 @@
 up:: [[coding/Typescript\|Typescript]]
 
 What is default value of user input? Should be inserted number parsed to int/number?
+
+What is the limit in a tuple?
