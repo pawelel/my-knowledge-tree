@@ -12,11 +12,11 @@ This base is organised with categories - productivity, coding, documentation and
 | -------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------- |
 | [[productivity/Turn Your Life into a Game\|Turn Your Life into a Game]]                               | en       | \-                                                                           |
 | [[productivity/SMART Goals\|SMART Goals]]                                                             | en       | \-                                                                           |
-| [[productivity/Locke's Goal-Setting Theory\|Locke's Goal-Setting Theory]]                             | en       | \-                                                                           |
 | [[productivity/Parkinson's Law\|Parkinson's Law]]                                                     | en       | [[productivity/Prawo Parkinsona\|Prawo Parkinsona]]                       |
-| [[productivity/How to Feel Less Anxious\|How to Feel Less Anxious]]                                   | en       | \-                                                                           |
+| [[productivity/Locke's Goal-Setting Theory\|Locke's Goal-Setting Theory]]                             | en       | \-                                                                           |
 | [[productivity/IKIGAI Your Purpose of Life\|IKIGAI Your Purpose of Life]]                             | en       | [[productivity/Ikigai\|Ikigai]]                                           |
 | [[productivity/How to learn faster\|How to learn faster]]                                             | en       | \-                                                                           |
+| [[productivity/How to Feel Less Anxious\|How to Feel Less Anxious]]                                   | en       | \-                                                                           |
 | [[productivity/Gall's Law\|Gall's Law]]                                                               | en       | [[productivity/Prawo Galla\|Prawo Galla]]                                 |
 | [[productivity/Conquer Prokrastination\|Conquer Prokrastination]]                                     | en       | \-                                                                           |
 | [[productivity/Prawo Parkinsona\|Prawo Parkinsona]]                                                   | pl       | \-                                                                           |
@@ -35,8 +35,8 @@ This base is organised with categories - productivity, coding, documentation and
 - [[coding/Power Automate\|Power Automate]]
 - [[coding/PowerShell\|PowerShell]]
 - [[coding/React\|React]]
-- [[coding/Typescript\|Typescript]]
 - [[coding/SPA\|SPA]]
+- [[coding/Typescript\|Typescript]]
 
 
 ## Documentation
@@ -47,11 +47,11 @@ This base is organised with categories - productivity, coding, documentation and
 
 ## Software
 
-- [[software/Obsidian\|Obsidian]]
+- [[software/Visual Studio Code\|Visual Studio Code]]
 - [[software/PowerToys\|PowerToys]]
-- [[software/PKM\|PKM]]
 - [[software/PowerPoint\|PowerPoint]]
+- [[software/PKM\|PKM]]
+- [[software/Obsidian\|Obsidian]]
 - [[software/Logseq\|Logseq]]
 - [[software/Affinity Designer\|Affinity Designer]]
-- [[software/Visual Studio Code\|Visual Studio Code]]
 
