@@ -22,6 +22,6 @@ up:: [[Home/My Knowledge Tree\|My Knowledge Tree]]
 | [[coding/Power Automate\|Power Automate]]                                                                                         | en       |
 | [[coding/PowerShell\|PowerShell]]                                                                                                 | en       |
 | [[coding/React\|React]]                                                                                                           | en       |
-| [[coding/Typescript\|Typescript]]                                                                                                 | en       |
 | [[coding/SPA\|SPA]]                                                                                                               | en       |
+| [[coding/Typescript\|Typescript]]                                                                                                 | en       |
 
