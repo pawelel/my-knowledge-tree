@@ -13,16 +13,16 @@ This category contains definitions, theories and advices somehow connected with 
 | [[productivity/SMART Goals\|SMART Goals]]                                                             | en       | \-                                                                           |
 | [[productivity/Turn Your Life into a Game\|Turn Your Life into a Game]]                               | en       | \-                                                                           |
 | [[productivity/Locke's Goal-Setting Theory\|Locke's Goal-Setting Theory]]                             | en       | \-                                                                           |
-| [[productivity/Prawo Parkinsona\|Prawo Parkinsona]]                                                   | pl       | \-                                                                           |
-| [[productivity/Jak studiować przy pracy na pełnym etacie\|Jak studiować przy pracy na pełnym etacie]] | pl       | \-                                                                           |
-| [[productivity/Prawo Galla\|Prawo Galla]]                                                             | pl       | [[productivity/Gall's Law\|Gall's Law]]                                   |
 | [[productivity/Parkinson's Law\|Parkinson's Law]]                                                     | en       | [[productivity/Prawo Parkinsona\|Prawo Parkinsona]]                       |
-| [[productivity/Ikigai\|Ikigai]]                                                                       | pl       | [[productivity/IKIGAI Your Purpose of Life\|IKIGAI Your Purpose of Life]] |
 | [[productivity/IKIGAI Your Purpose of Life\|IKIGAI Your Purpose of Life]]                             | en       | [[productivity/Ikigai\|Ikigai]]                                           |
 | [[productivity/How to Feel Less Anxious\|How to Feel Less Anxious]]                                   | en       | \-                                                                           |
 | [[productivity/Gall's Law\|Gall's Law]]                                                               | en       | [[productivity/Prawo Galla\|Prawo Galla]]                                 |
 | [[productivity/How to learn faster\|How to learn faster]]                                             | en       | \-                                                                           |
 | [[productivity/Conquer Prokrastination\|Conquer Prokrastination]]                                     | en       | \-                                                                           |
+| [[productivity/Prawo Parkinsona\|Prawo Parkinsona]]                                                   | pl       | \-                                                                           |
+| [[productivity/Jak studiować przy pracy na pełnym etacie\|Jak studiować przy pracy na pełnym etacie]] | pl       | \-                                                                           |
+| [[productivity/Prawo Galla\|Prawo Galla]]                                                             | pl       | [[productivity/Gall's Law\|Gall's Law]]                                   |
+| [[productivity/Ikigai\|Ikigai]]                                                                       | pl       | [[productivity/IKIGAI Your Purpose of Life\|IKIGAI Your Purpose of Life]] |
 
 
 ## Additional Links
