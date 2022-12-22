@@ -70,6 +70,59 @@ function add(num1: number, num2: number, ...num3: number[]): number {
 
 console.log(add(1, 2));
 ```
+## Generic parameter
+
+```typescript
+function getItems<Type>(items: Type[]): Type[] {
+return new Array<Type>().concat(items);
+}
+```
+## Classes
+
+```typescript
+class Employee {
+    id!: number;
+    name!: string;
+    address!: string;
+}
+
+let john = new Employee();
+john.id = 1;
+john.name = "John";
+john.address = "Burkina Faso 13";
+console.log(john);
+```
+## Constructors
+In TypeScript you can't have multiple constructors. Instead, you can use either parameterless or with parameters.
+```typescript
+class Employee {
+  id: number;
+  name: string;
+  address: string;
+
+  constructor(id: number, name: string, address: string) {
+    this.id = id;
+    this.name = name;
+    this.address = address;
+  }
+}
+
+let john = new Employee(1, "John", "123 Main St");
+
+console.log(john);
+```
+## Methods
+Within a class you can add not only the constructor, but also methods. Example below includes interpolation   
+```
+`${}` 
+```
+
+
+```typescript
+getNameWithAdress(): string {
+	return `${this.name} ${this.address}`;
+}
+```
 
 ## Articles
 | Title                                                    | Language |
