@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/productivity/ikigai-your-purpose-of-life/"}
+{"title":"IKIGAI Your Purpose of Life","dg-publish":true,"tags":"productivity","language":"en","permalink":"/productivity/ikigai-your-purpose-of-life/","dgPassFrontmatter":true}
 ---
 
 up:: [[Home/Productivity\|productivity]]
+alt:: [[productivity/Ikigai\|Ikigai]]
 
 Your professional life could be described as a set of areas, that is:
 
