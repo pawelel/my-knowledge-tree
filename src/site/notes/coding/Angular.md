@@ -26,7 +26,10 @@ If you want to create simple workspace without additional components, use:
 ```typescript
 ng new workspacename --create-application false
 ```
+## mono-repo
+You can have multiple applications and libraries in one workspace. Applications can share code, which reduces repeating.
 
 ## Additional links
 
 [Angular for Beginners Course (Full Front End Tutorial with Type Script)](https://www.youtube.com/watch?v=3qBXWUpoPHo)
+[Add Angular 15 Missing Files. Add Angular 15 Missing Files… | by Robert Isaac | Nov, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/add-angular-15-missing-files-b90a1dbcea89)
