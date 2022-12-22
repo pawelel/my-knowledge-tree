@@ -27,7 +27,7 @@ Learn subject in layers, but remember about **The Anchoring Effect**
 Start from simple explaination and skip more difficult topics until they will be understandable.
 If something takes you more than a few minutes to embrace it in your mind, skip it for now, try to change perspective.
 
-[!NOTE] The Anchoring Effect - the tendency to latch onto the first thing that you learn about something, even if there's new evidence that it might be incorrect.
+>[!NOTE] The Anchoring Effect - the tendency to latch onto the first thing that you learn about something, even if there's new evidence that it might be incorrect.
 
 ## Learn like a hunter
 Become fascinated about the topic you are going to learn. Imagine yourself as a person, who already uses the power of knowledge. Ask questions like:
