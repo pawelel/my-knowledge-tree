@@ -46,10 +46,23 @@ ng serve -o
 ## Mono-repo
 You can have multiple applications and libraries in one workspace. Applications can share code, which reduces repeating.
 
-## Interpolation
+## Using variables
 In Angular you can use interpolation with double curly braces:
 ```typescript
 <h1>Hello {{variableName}}</h1>
+```
+You can also use HTML properties with variables:
+```typescript
+<div [innerText]="numberOfRooms"></div>
+```
+Which is an equivalent of JavaScripts:
+```javascript
+document.getElementById('numberOfRooms').innerText = numberOfRooms;
+```
+## Events
+Angular uses `banana syntax` in event names (rounded braces):
+```typescript
+<button (click)="toggle()">Toggle</button>
 ```
 
 ## Additional links
