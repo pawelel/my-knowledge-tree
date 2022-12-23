@@ -30,6 +30,14 @@ To create app, you can use command
 ```typescript
 ng new applicationname
 ```
+To create component:
+```typescript
+ng g c componentname
+```
+- ng - angular
+- g - generate
+- c - component
+
 To run application locally, use:
 ```typescript
 ng serve -o
@@ -38,7 +46,13 @@ ng serve -o
 ## Mono-repo
 You can have multiple applications and libraries in one workspace. Applications can share code, which reduces repeating.
 
-## Additional links
+## Interpolation
+In Angular you can use interpolation with double curly braces:
+```typescript
+<h1>Hello {{variableName}}</h1>
+```
 
+## Additional links
+[Angular - Getting started with Angular](https://angular.io/start)
 [Angular for Beginners Course (Full Front End Tutorial with Type Script)](https://www.youtube.com/watch?v=3qBXWUpoPHo)
 [Add Angular 15 Missing Files. Add Angular 15 Missing Files… | by Robert Isaac | Nov, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/add-angular-15-missing-files-b90a1dbcea89)
