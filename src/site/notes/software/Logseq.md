@@ -2,7 +2,7 @@
 {"title":"Logseq","dg-publish":true,"tags":"software/PKM","language":"en","permalink":"/software/logseq/","dgPassFrontmatter":true}
 ---
 
-up:: [[Home/Software\|Software]]
+up:: [[software/PKM\|PKM]]
 
 
 ### How to enable unordered lists inside in a block
