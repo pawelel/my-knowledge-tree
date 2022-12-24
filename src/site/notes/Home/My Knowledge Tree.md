@@ -44,8 +44,8 @@ This base is organised with categories - productivity, coding, documentation and
 
 ## Software
 - [[software/PowerToys\|PowerToys]]
-- [[software/Visual Studio Code\|Visual Studio Code]]
 - [[software/PowerPoint\|PowerPoint]]
 - [[software/Affinity Designer\|Affinity Designer]]
 - [[software/PKM\|PKM]]
+- [[software/Visual Studio Code\|Visual Studio Code]]
 
