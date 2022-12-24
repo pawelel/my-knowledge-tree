@@ -18,3 +18,6 @@ Generates a Table of Contents (TOC) in YAML format for DocFX. A useful extension
 
 ## Switch to terminal/editor
 To switch between terminal and editor you can use `Ctrl` + `J` or `TAB` + \`.
+
+## Find file
+Press `Ctrl`+ `P` and start typing file name.
