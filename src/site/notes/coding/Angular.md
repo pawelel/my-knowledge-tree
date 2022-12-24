@@ -82,6 +82,22 @@ Instead of using `hidden`, you can use `*ngIf`, which can remove content from DO
     <h2>Available rooms</h2>
 </div>
 ```
+```ts
+<div [ngSwitch]="role">
+  <div *ngSwitchCase="'admin'">
+    <h2>Hello Admin!</h2>
+    <hotelinv-rooms></hotelinv-rooms>
+    </div>
+  <div *ngSwitchCase="'user'">
+    <h2>Hello User!</h2>
+    <p>Users can view and edit their profile</p>
+    </div>
+  <div *ngSwitchDefault>
+    <h2>Hello Guest!</h2>
+ <p>You are not authorised to view content of this page.</p>
+  </div>
+</div>
+```
 
 ## Interfaces
 An interface is defined using the `interface` keyword
