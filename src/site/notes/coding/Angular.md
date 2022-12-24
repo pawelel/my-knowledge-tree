@@ -64,6 +64,40 @@ Angular uses `banana syntax` in event names (rounded braces):
 ```typescript
 <button (click)="toggle()">Toggle</button>
 ```
+## Directives
+Directivves are used to change behavior and appearance of DOM elements. They can implement all lifecycle hooks and cannot have templates. They can be reusable.
+>[!INFO] There are two types of directives:
+>- structural
+>- attribute
+
+Examples of built-in directives:
+- \*ngIf
+- \*ngFor
+- \*ngSwitch
+- ngClass
+- ngStyle
+Instead of using `hidden`, you can use `*ngIf`, which can remove content from DOM until condition is met:
+```ts
+<div *ngIf="rooms.availableRooms > 0">
+    <h2>Available rooms</h2>
+</div>
+```
+
+## Interfaces
+An interface is defined using the `interface` keyword
+The `export` keyword allows to implement an interface by Classes elseware. 
+```typescript
+export interface IPerson {
+fName: string;
+}
+```
+Properties and methods created in the interface, *must* be created in the business object that uses this interface.
+Implementation uses `implements` keyword:
+```typescript
+class Person implements IPerson {
+public fName: string;
+}
+```
 
 ## Additional links
 [Angular - Getting started with Angular](https://angular.io/start)
