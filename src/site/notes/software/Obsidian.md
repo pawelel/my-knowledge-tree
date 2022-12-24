@@ -2,7 +2,7 @@
 {"title":"Obsidian","dg-publish":true,"tags":"software/PKM","language":"en","permalink":"/software/obsidian/","dgPassFrontmatter":true}
 ---
 
-up:: [[Home/Software\|Software]]
+up:: [[software/PKM\|PKM]]
 
 
 ## Additional links
