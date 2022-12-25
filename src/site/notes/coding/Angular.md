@@ -98,6 +98,10 @@ Instead of using `hidden`, you can use `*ngIf`, which can remove content from DO
   </div>
 </div>
 ```
+Directives have two types:
+	attribute
+	structural
+Attribute directives can't modify DOM.
 
 ## Interfaces
 An interface is defined using the `interface` keyword
@@ -114,6 +118,28 @@ class Person implements IPerson {
 public fName: string;
 }
 ```
+## Pipes
+They are used for data transformation without changing actual object.
+Built-in pipes:
+- DatePipe
+- UpperCasePipe
+- LowerCasePipe
+- CurrencyPipe
+- DecimalPipe
+- PercentPipe
+- JsonPipe
+- SlicePipe
+- AsyncPipe
+
+## Lifecycle hooks
+- ngOnChanges
+- ngOnInit
+- ngDoCheck
+- ngAfterContentInit
+- ngAfterContentChecked
+- ngAfterViewInit
+- ngAgterViewChecked
+- ngOnDestroy
 
 ## Additional links
 [Angular - Getting started with Angular](https://angular.io/start)
