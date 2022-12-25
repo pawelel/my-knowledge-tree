@@ -9,32 +9,32 @@ This base is organised with categories - productivity, coding, documentation and
 ## Productivity
 | Title                                                                                                    | Language | Alternative                                                                  |
 | -------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------- |
-| [[productivity/Locke's Goal-Setting Theory\|Locke's Goal-Setting Theory]]                             | en       | \-                                                                           |
-| [[productivity/SMART Goals\|SMART Goals]]                                                             | en       | \-                                                                           |
-| [[productivity/IKIGAI Your Purpose of Life\|IKIGAI Your Purpose of Life]]                             | en       | [[productivity/Ikigai\|Ikigai]]                                           |
 | [[productivity/Turn Your Life into a Game\|Turn Your Life into a Game]]                               | en       | \-                                                                           |
+| [[productivity/SMART Goals\|SMART Goals]]                                                             | en       | \-                                                                           |
+| [[productivity/Locke's Goal-Setting Theory\|Locke's Goal-Setting Theory]]                             | en       | \-                                                                           |
 | [[productivity/Parkinson's Law\|Parkinson's Law]]                                                     | en       | [[productivity/Prawo Parkinsona\|Prawo Parkinsona]]                       |
+| [[productivity/IKIGAI Your Purpose of Life\|IKIGAI Your Purpose of Life]]                             | en       | [[productivity/Ikigai\|Ikigai]]                                           |
 | [[productivity/How to Feel Less Anxious\|How to Feel Less Anxious]]                                   | en       | \-                                                                           |
-| [[productivity/How to learn faster\|How to learn faster]]                                             | en       | \-                                                                           |
 | [[productivity/Gall's Law\|Gall's Law]]                                                               | en       | [[productivity/Prawo Galla\|Prawo Galla]]                                 |
 | [[productivity/Conquer Prokrastination\|Conquer Prokrastination]]                                     | en       | \-                                                                           |
+| [[productivity/How to learn faster\|How to learn faster]]                                             | en       | \-                                                                           |
+| [[productivity/Jak studiować przy pracy na pełnym etacie\|Jak studiować przy pracy na pełnym etacie]] | pl       | \-                                                                           |
 | [[productivity/Prawo Parkinsona\|Prawo Parkinsona]]                                                   | pl       | \-                                                                           |
 | [[productivity/Prawo Galla\|Prawo Galla]]                                                             | pl       | [[productivity/Gall's Law\|Gall's Law]]                                   |
 | [[productivity/Ikigai\|Ikigai]]                                                                       | pl       | [[productivity/IKIGAI Your Purpose of Life\|IKIGAI Your Purpose of Life]] |
-| [[productivity/Jak studiować przy pracy na pełnym etacie\|Jak studiować przy pracy na pełnym etacie]] | pl       | \-                                                                           |
 
 
 ## Coding
-- [[coding/C Sharp\|C Sharp]]
-- [[coding/72 Tricks for .NET Developers\|72 Tricks for .NET Developers]]
 - [[coding/Angular\|Angular]]
 - [[coding/3 categories of projects to create for developer portfolio\|3 categories of projects to create for developer portfolio]]
+- [[coding/72 Tricks for .NET Developers\|72 Tricks for .NET Developers]]
+- [[coding/C Sharp\|C Sharp]]
 - [[coding/Power Apps\|Power Apps]]
 - [[coding/Power Automate\|Power Automate]]
 - [[coding/SPA\|SPA]]
 - [[coding/React\|React]]
-- [[coding/Typescript\|Typescript]]
 - [[coding/PowerShell\|PowerShell]]
+- [[coding/Typescript\|Typescript]]
 
 
 ## Documentation
@@ -43,9 +43,9 @@ This base is organised with categories - productivity, coding, documentation and
 
 
 ## Software
+- [[software/Visual Studio Code\|Visual Studio Code]]
 - [[software/PowerToys\|PowerToys]]
 - [[software/PowerPoint\|PowerPoint]]
-- [[software/Affinity Designer\|Affinity Designer]]
 - [[software/PKM\|PKM]]
-- [[software/Visual Studio Code\|Visual Studio Code]]
+- [[software/Affinity Designer\|Affinity Designer]]
 
