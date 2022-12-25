@@ -15,6 +15,20 @@ It features:
 
 Angular also supports server side rendering (SSR).
 
+## Articles
+
+| Title                                                        | Language |
+| ------------------------------------------------------------ | -------- |
+| [[coding/Cannot find name Input\|Cannot find name Input]] | en       |
+
+---
+title: Angular
+dg-publish: true
+tags: coding
+language: en
+---
+up:: [[Home/Coding\|coding]]
+
 ## Installation
 In order to install Angular 13, use command:
 
@@ -140,6 +154,25 @@ Built-in pipes:
 - ngAfterViewInit
 - ngAgterViewChecked
 - ngOnDestroy
+
+Constructor should be used for services injection, lifecycle hook for any blocking code.
+
+## Component interaction
+Components can interact using:
+- `@Input` and `@Output`
+- `@ViewChild` and `@ContentChild`
+- Services
+
+Properties shouldn't be mutated.
+Instead of pushing an array:
+```ts
+ this.roomList.push(newRoom);
+```
+use:
+```ts
+this.roomList = [...this.roomList, newRoom];
+```
+which creates a new object.
 
 ## Additional links
 [Angular - Getting started with Angular](https://angular.io/start)
