@@ -174,6 +174,9 @@ this.roomList = [...this.roomList, newRoom];
 ```
 which creates a new object.
 
+## ChangeDirectionStrategy
+By default detection strategy is set to CheckAlways, which in some cases can impact on applications performance. You can use CheckOnce strategy using `OnPush`. OnPush deactivates automatic change detection and applies to all child directives. It cannot be overriden, however change detection can be explicitly invoked.
+
 ## Additional links
 [Angular - Getting started with Angular](https://angular.io/start)
 [Angular for Beginners Course (Full Front End Tutorial with Type Script)](https://www.youtube.com/watch?v=3qBXWUpoPHo)
