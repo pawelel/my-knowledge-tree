@@ -1,5 +1,5 @@
 ---
-{"title":"Typescript","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/typescript/","dgPassFrontmatter":true}
+{"title":"Typescript","dg-publish":true,"tags":"coding/typescript","language":"en","permalink":"/coding/typescript/","dgPassFrontmatter":true}
 ---
 
 up:: [[Home/Coding\|coding]]
@@ -146,6 +146,7 @@ const cc: ColorfulCircle = {
 ## Articles
 | Title                                                    | Language |
 | -------------------------------------------------------- | -------- |
+| [[coding/Typescript\|Typescript]]                     | en       |
 | [[coding/Typescript questions\|Typescript questions]] | en       |
 
 ## Additional Links
