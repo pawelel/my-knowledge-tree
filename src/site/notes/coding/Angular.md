@@ -17,9 +17,10 @@ Angular also supports server side rendering (SSR).
 
 ## Articles
 
-| Title                                                        | Language |
-| ------------------------------------------------------------ | -------- |
-| [[coding/Cannot find name Input\|Cannot find name Input]] | en       |
+| Title                                                                                                      | Language |
+| ---------------------------------------------------------------------------------------------------------- | -------- |
+| [[coding/Cannot find name Input\|Cannot find name Input]]                                               | en       |
+| [[coding/Angular for beginners Course by Santosh Yadav\|Angular for beginners Course by Santosh Yadav]] | en       |
 
 ---
 title: Angular
@@ -177,7 +178,59 @@ which creates a new object.
 ## ChangeDirectionStrategy
 By default detection strategy is set to CheckAlways, which in some cases can impact on applications performance. You can use CheckOnce strategy using `OnPush`. OnPush deactivates automatic change detection and applies to all child directives. It cannot be overriden, however change detection can be explicitly invoked.
 
+## On Changes
+`ngOnChanges` lifecycle hook can be applied with `@Input` decorator. It can be used whenever you want to control updated data or change direction strategy through a service.
+
+## Do Check
+`ngDoCheck` listens every change, which is costly for an application. Also shouldn't be used along with ngOnChanges.
+
+```ngAfterViewInit() {
+console.log()
+}
+```
+
+## View Child
+It is possible to use child component inside of another one using `@ViewChild` instead of `@Input` decorator. It requires additional import and implement - `AfterViewInit`
+```ts
+import { Component, OnInit, ViewChild, AfterViewInit } from '@angular/core';
+```
+```ts
+export class RoomsComponent implements OnInit, AfterViewInit {
+```
+```ts
+ @ViewChild(HeaderComponent) headerComponent: HeaderComponent | undefined;
+```
+```ts
+  ngAfterViewInit() {
+    console.log(this.headerComponent);
+  }
+```
+By default `@VievChild` is set to `{static: false}`
+
+## Dependency injection
+In Angular dependency can be a class or an object which you can inject inside a component or service. It is one of the Angulars core features.
+There are class based providers, value providers and factories.
+
+> [!INFO] It is recommended to keep components a small as possible and try to split code into multiple services.
+
+To generate services, use:
+```ts
+ng g s rooms
+```
+where g stands for genarate, s for service, rooms - service name
+
+Services should not be accessible from template. Therefore you should use `private` access modifier:
+```ts
+constructor(private roomsService: RoomsService) {}
+```
+And then
+```ts
+  ngOnInit(): void {
+  this.roomList = this.roomsService.getRooms();
+  }
+```
+
+
 ## Additional links
 [Angular - Getting started with Angular](https://angular.io/start)
-[Angular for Beginners Course (Full Front End Tutorial with Type Script)](https://www.youtube.com/watch?v=3qBXWUpoPHo)
 [Add Angular 15 Missing Files. Add Angular 15 Missing Files… | by Robert Isaac | Nov, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/add-angular-15-missing-files-b90a1dbcea89)
