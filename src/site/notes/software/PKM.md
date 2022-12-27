@@ -11,6 +11,6 @@ Personal Knowledge Management Software can improve your [[Home/Productivity\|Pro
 
 | Title                              | Language |
 | ---------------------------------- | -------- |
-| [[software/Logseq\|Logseq]]     | en       |
 | [[software/Obsidian\|Obsidian]] | en       |
+| [[software/Logseq\|Logseq]]     | en       |
 
