@@ -11,10 +11,10 @@ Here you can find tips, links to tutorials about software I use, sometimes revie
 ## Articles
 | Title                                                  | Language |
 | ------------------------------------------------------ | -------- |
-| [[software/PowerToys\|PowerToys]]                   | en       |
 | [[software/Visual Studio Code\|Visual Studio Code]] | en       |
+| [[software/PowerToys\|PowerToys]]                   | en       |
+| [[software/Obsidian\|Obsidian]]                     | en       |
 | [[software/PowerPoint\|PowerPoint]]                 | en       |
 | [[software/PKM\|PKM]]                               | en       |
-| [[software/Affinity Designer\|Affinity Designer]]   | en       |
-| [[software/Obsidian\|Obsidian]]                     | en       |
 | [[software/Logseq\|Logseq]]                         | en       |
+| [[software/Affinity Designer\|Affinity Designer]]   | en       |
