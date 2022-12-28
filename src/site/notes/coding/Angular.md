@@ -19,8 +19,8 @@ Angular also supports server side rendering (SSR).
 
 | Title                                                                                                      | Language |
 | ---------------------------------------------------------------------------------------------------------- | -------- |
-| [[coding/Cannot find name Input\|Cannot find name Input]]                                               | en       |
 | [[coding/Angular for beginners Course by Santosh Yadav\|Angular for beginners Course by Santosh Yadav]] | en       |
+| [[coding/Cannot find name Input\|Cannot find name Input]]                                               | en       |
 
 ---
 title: Angular
@@ -219,7 +219,7 @@ ng g s rooms
 ```
 where g stands for genarate, s for service, rooms - service name
 
-Services should not be accessible from template. Therefore you should use `private` access modifier:
+Services should not be accessible from template. Therefore you should use `private` access modifier in a component:
 ```ts
 constructor(private roomsService: RoomsService) {}
 ```
@@ -229,7 +229,17 @@ And then
   this.roomList = this.roomsService.getRooms();
   }
 ```
+Component should not have access to services logic.
 
+If you need to use annother service instance, add providers to a `@Component`:
+```ts
+@Component({
+  selector: 'hotelinv-rooms',
+  templateUrl: './rooms.component.html',
+  styleUrls: ['./rooms.component.scss'],
+  providers: [RoomsService]
+})
+```
 
 ## Additional links
 [Angular - Getting started with Angular](https://angular.io/start)
