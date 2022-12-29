@@ -16,8 +16,8 @@ This base is organised with categories - productivity, coding, documentation and
 | [[productivity/IKIGAI Your Purpose of Life\|IKIGAI Your Purpose of Life]]                             | en       | [[productivity/Ikigai\|Ikigai]]                                           |
 | [[productivity/How to learn faster\|How to learn faster]]                                             | en       | \-                                                                           |
 | [[productivity/How to Feel Less Anxious\|How to Feel Less Anxious]]                                   | en       | \-                                                                           |
-| [[productivity/Gall's Law\|Gall's Law]]                                                               | en       | [[productivity/Prawo Galla\|Prawo Galla]]                                 |
 | [[productivity/Conquer Prokrastination\|Conquer Prokrastination]]                                     | en       | \-                                                                           |
+| [[productivity/Gall's Law\|Gall's Law]]                                                               | en       | [[productivity/Prawo Galla\|Prawo Galla]]                                 |
 | [[productivity/Prawo Parkinsona\|Prawo Parkinsona]]                                                   | pl       | \-                                                                           |
 | [[productivity/Prawo Galla\|Prawo Galla]]                                                             | pl       | [[productivity/Gall's Law\|Gall's Law]]                                   |
 | [[productivity/Jak studiować przy pracy na pełnym etacie\|Jak studiować przy pracy na pełnym etacie]] | pl       | \-                                                                           |
@@ -31,10 +31,10 @@ This base is organised with categories - productivity, coding, documentation and
 - [[coding/C Sharp\|C Sharp]]
 - [[coding/Power Apps\|Power Apps]]
 - [[coding/Power Automate\|Power Automate]]
-- [[coding/React\|React]]
 - [[coding/PowerShell\|PowerShell]]
-- [[coding/SPA\|SPA]]
+- [[coding/React\|React]]
 - [[coding/SOLID\|SOLID]]
+- [[coding/SPA\|SPA]]
 
 
 ## Documentation
