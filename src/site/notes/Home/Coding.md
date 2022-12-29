@@ -20,8 +20,8 @@ up:: [[Home/My Knowledge Tree\|My Knowledge Tree]]
 | [[coding/C Sharp\|C Sharp]]                                                                                                       | \-       |
 | [[coding/Power Apps\|Power Apps]]                                                                                                 | en       |
 | [[coding/Power Automate\|Power Automate]]                                                                                         | en       |
-| [[coding/React\|React]]                                                                                                           | en       |
 | [[coding/PowerShell\|PowerShell]]                                                                                                 | en       |
+| [[coding/React\|React]]                                                                                                           | en       |
+| [[coding/SOLID\|SOLID]]                                                                                                           | \-       |
 | [[coding/SPA\|SPA]]                                                                                                               | en       |
-| [[coding/SOLID\|SOLID]]                                                                                                           | en       |
 
