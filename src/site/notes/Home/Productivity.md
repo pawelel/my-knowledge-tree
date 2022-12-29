@@ -17,8 +17,8 @@ This category contains definitions, theories and advices somehow connected with 
 | [[productivity/IKIGAI Your Purpose of Life\|IKIGAI Your Purpose of Life]]                             | en       | [[productivity/Ikigai\|Ikigai]]                                           |
 | [[productivity/How to learn faster\|How to learn faster]]                                             | en       | \-                                                                           |
 | [[productivity/How to Feel Less Anxious\|How to Feel Less Anxious]]                                   | en       | \-                                                                           |
-| [[productivity/Gall's Law\|Gall's Law]]                                                               | en       | [[productivity/Prawo Galla\|Prawo Galla]]                                 |
 | [[productivity/Conquer Prokrastination\|Conquer Prokrastination]]                                     | en       | \-                                                                           |
+| [[productivity/Gall's Law\|Gall's Law]]                                                               | en       | [[productivity/Prawo Galla\|Prawo Galla]]                                 |
 | [[productivity/Prawo Parkinsona\|Prawo Parkinsona]]                                                   | pl       | \-                                                                           |
 | [[productivity/Prawo Galla\|Prawo Galla]]                                                             | pl       | [[productivity/Gall's Law\|Gall's Law]]                                   |
 | [[productivity/Jak studiować przy pracy na pełnym etacie\|Jak studiować przy pracy na pełnym etacie]] | pl       | \-                                                                           |
