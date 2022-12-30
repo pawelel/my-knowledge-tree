@@ -13,13 +13,15 @@ In order to change Person or Group in Power Apps, you should use record data in 
   }
   ```
 
-  [How to update Single or Multi person field in SharePoint from Power Apps Canvas apps](https://debajmecrm.com/how-to-update-single-or-multi-person-field-in-sharepoint-from-power-apps-canvas-apps/)
 
-  [Default values for complex SharePoint types](https://powerapps.microsoft.com/en-us/blog/default-values-for-complex-sharepoint-types/)
 
   ```json
   {
   'Created by'.Claims = "i:0#.f|membership|"&User().Email
   }
   ```
+## Additional Links
 
+[Default values for complex SharePoint types](https://powerapps.microsoft.com/en-us/blog/default-values-for-complex-sharepoint-types/)
+[How to update Single or Multi person field in SharePoint from Power Apps Canvas apps](https://debajmecrm.com/how-to-update-single-or-multi-person-field-in-sharepoint-from-power-apps-canvas-apps/)
+[Solved: Set People Picker with current user and another list - Power Platform Community](https://powerusers.microsoft.com/t5/Building-Power-Apps/Set-People-Picker-with-current-user-and-another-list/td-p/787729)
