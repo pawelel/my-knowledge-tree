@@ -15,7 +15,7 @@ up:: [[Home/Coding\|Coding]]
 | [[coding/With syntax\|With syntax]]                                                                                                             | en       |
 
 
-## Additional links
+## Additional Links
 
 [3 Tips for Better Forms in Power Apps](https://www.youtube.com/watch?v=bxKavfThYwY)
 [Power Apps usage examples on **spguides**](https://www.spguides.com/)
