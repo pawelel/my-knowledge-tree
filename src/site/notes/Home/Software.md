@@ -9,13 +9,21 @@ up:: [[Home/My Knowledge Tree\|My Knowledge Tree]]
 Here you can find tips, links to tutorials about software I use, sometimes reviews of plugins or applications.
 
 ## Articles
+
 | Title                                                  | Language |
 | ------------------------------------------------------ | -------- |
 | [[software/Visual Studio Code\|Visual Studio Code]] | en       |
 | [[software/SharePoint\|SharePoint]]                 | en       |
 | [[software/PowerToys\|PowerToys]]                   | en       |
 | [[software/PowerPoint\|PowerPoint]]                 | en       |
-| [[software/Obsidian\|Obsidian]]                     | en       |
 | [[software/PKM\|PKM]]                               | en       |
+| [[software/Obsidian\|Obsidian]]                     | en       |
 | [[software/Logseq\|Logseq]]                         | en       |
 | [[software/Affinity Designer\|Affinity Designer]]   | en       |
+
+
+## Additional Links
+
+| Website                                                                                                                                                                        | Purpose |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
+| [Przewodnik po UX (User Experience): porady, kompendium wiedzy i dobre praktyki w projektowaniu](https://cyrekdigital.com/pl/blog/ux-porady-i-dobre-praktyki-w-projektowaniu/) | Polish article about UX and UI |
