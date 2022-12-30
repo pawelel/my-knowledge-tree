@@ -22,7 +22,7 @@ up:: [[Home/Websites\|websites]]
 | [Grammarly](https://www.grammarly.com/)                                                                                  | Gramarly is a tool to check grammar and spelling                                                                                                                                                   |
 | [Google Translate](https://translate.google.com/) | Google Translate is a free multilingual machine translation service developed by Google, to translate text. |
 
-## Reading
+## Reading English
 
 | Website                                                          | Purpose                                                                                                     |
 | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -32,3 +32,12 @@ up:: [[Home/Websites\|websites]]
 | [GetComics](https://getcomics.info/)                             | Website with comics                                                                                         |
 | [Hot Comic - Read and download comic](https://www.zipcomic.com/) | Website with comics                                                                                         |
 | [The Guardian](https://www.theguardian.com/international)        | News, sport and opinion from the Guardian's global edition                                                  |
+
+## Reading Polish
+
+| Website                                                                            | Purpose                                                          |
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| [Docer.pl - odkrywaj, dziel się z innymi i publikuj dokumenty!](https://docer.pl/) | Docer.pl is a website where you can share documents with others. |
+| [Wolne Lektury](https://wolnelektury.pl/)                                          | Free e-books in Polish language.                                 |
+| [https://www.ebooks43.pl/](https://www.ebooks43.pl/)                               | Website with e-books in Polish language.                         |
+| [Numer tygodnia](https://www.kalendarz-365.pl/numer-tygodnia.html)                                                                                   |            Polish locale week number                                                      |
