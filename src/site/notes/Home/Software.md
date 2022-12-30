@@ -20,10 +20,14 @@ Here you can find tips, links to tutorials about software I use, sometimes revie
 | [[software/Obsidian\|Obsidian]]                     | en       |
 | [[software/Logseq\|Logseq]]                         | en       |
 | [[software/Affinity Designer\|Affinity Designer]]   | en       |
+| [[software/Excel\|Excel]]                           | en       |
 
 
 ## Additional Links
 
-| Website                                                                                                                                                                        | Purpose |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
-| [Przewodnik po UX (User Experience): porady, kompendium wiedzy i dobre praktyki w projektowaniu](https://cyrekdigital.com/pl/blog/ux-porady-i-dobre-praktyki-w-projektowaniu/) | Polish article about UX and UI |
+| Website                                                                                                                                                                                | Purpose                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| [Przewodnik po UX (User Experience): porady, kompendium wiedzy i dobre praktyki w projektowaniu](https://cyrekdigital.com/pl/blog/ux-porady-i-dobre-praktyki-w-projektowaniu/)         | Polish article about UX and UI                 |
+| [Visio Professional 2021 from Microsoft (Trial Version)](https://hernandonewstoday.com/download-visio-professional-2021-from-microsoft-trial-version/) | If you have Visio 2021 key, but missing binary |
+| [Awesome Open Source](https://awesomeopensource.com/)                                                                                                                                  | List of open source projects                   |
+ 
