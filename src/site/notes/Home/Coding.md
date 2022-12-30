@@ -23,6 +23,13 @@ up:: [[Home/My Knowledge Tree\|My Knowledge Tree]]
 | [[coding/Power Automate\|Power Automate]]                                                                                         | en       |
 | [[coding/PowerShell\|PowerShell]]                                                                                                 | en       |
 | [[coding/React\|React]]                                                                                                           | en       |
-| [[coding/SPA\|SPA]]                                                                                                               | en       |
 | [[coding/SOLID\|SOLID]]                                                                                                           | \-       |
+| [[coding/SPA\|SPA]]                                                                                                               | en       |
 
+
+## Additional Links
+
+| Website                                                                                                                                                                                | Purpose                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| [Download Visio Professional 2021 from Microsoft (Trial Version) &#8211; Hernando Today](https://hernandonewstoday.com/download-visio-professional-2021-from-microsoft-trial-version/) | If you have Visio 2021 key, but missing binary |
+| [Awesome Open Source](https://awesomeopensource.com/) | List of open source projects |
