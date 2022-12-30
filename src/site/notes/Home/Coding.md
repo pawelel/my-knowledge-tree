@@ -29,7 +29,16 @@ up:: [[Home/My Knowledge Tree\|My Knowledge Tree]]
 
 ## Additional Links
 
-| Website                                                                                                                                                                                | Purpose                                        |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| [Download Visio Professional 2021 from Microsoft (Trial Version) &#8211; Hernando Today](https://hernandonewstoday.com/download-visio-professional-2021-from-microsoft-trial-version/) | If you have Visio 2021 key, but missing binary |
-| [Awesome Open Source](https://awesomeopensource.com/) | List of open source projects |
+| Website                                | Purpose                                                          |
+| -------------------------------------- | ---------------------------------------------------------------- |
+| [Codewars](https://www.codewars.com/)  | Achieve mastery through coding practice and developer mentorship |
+| [LeetCode](https://leetcode.com/)      | The World's Leading Online Programming Learning Platform         |
+| [Guru99](https://www.guru99.com/)      | Free Training Tutorials & Video for IT Courses                   |
+| [Mike Dane](https://www.mikedane.com/) | Free programming tutorials and courses                           |
+                                                         |
+
+## PL
+| Website                                                          | Purpose         |
+| ---------------------------------------------------------------- | --------------- |
+| [Maciej Zakrzewicz: Homepage](http://zakrzewicz.pl/index_en.php) | Kurs baz danych |
+|   [DEV.CDur - DEV.CDur](http://dev.cdur.pl/)                                                               |  Strona poświęcona SQL, WCF, C#, JavaScript i HTML5               |
