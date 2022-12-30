@@ -50,6 +50,7 @@ This base is organised with categories - productivity, coding, documentation, so
 - [[software/PowerPoint\|PowerPoint]]
 - [[software/PKM\|PKM]]
 - [[software/Affinity Designer\|Affinity Designer]]
+- [[software/Excel\|Excel]]
 
 ## Websites
 - [[websites/Languages\|Languages]]
