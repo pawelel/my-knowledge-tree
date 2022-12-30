@@ -15,14 +15,14 @@ up:: [[Home/My Knowledge Tree\|My Knowledge Tree]]
 | Title                                                                                                                                | Language |
 | ------------------------------------------------------------------------------------------------------------------------------------ | -------- |
 | [[coding/3 categories of projects to create for developer portfolio\|3 categories of projects to create for developer portfolio]] | en       |
-| [[coding/Angular\|Angular]]                                                                                                       | en       |
 | [[coding/72 Tricks for .NET Developers\|72 Tricks for .NET Developers]]                                                           | en       |
+| [[coding/Angular\|Angular]]                                                                                                       | en       |
 | [[coding/C Sharp\|C Sharp]]                                                                                                       | \-       |
 | [[coding/Dependency Injection\|Dependency Injection]]                                                                             | \-       |
 | [[coding/Power Apps\|Power Apps]]                                                                                                 | en       |
 | [[coding/Power Automate\|Power Automate]]                                                                                         | en       |
-| [[coding/React\|React]]                                                                                                           | en       |
 | [[coding/PowerShell\|PowerShell]]                                                                                                 | en       |
+| [[coding/React\|React]]                                                                                                           | en       |
 | [[coding/SOLID\|SOLID]]                                                                                                           | \-       |
 | [[coding/SPA\|SPA]]                                                                                                               | en       |
 
