@@ -1,9 +1,7 @@
 ---
-title: SharePoint
-dg-publish: true
-tags: software
-language: en
+{"title":"SharePoint","dg-publish":true,"tags":"software","language":"en","permalink":"/software/share-point/","dgPassFrontmatter":true}
 ---
+
 up:: [[Home/Software\|Software]]
 
 SharePoint is a web-based collaborative platform that integrates with Microsoft Office. It uses web technologies such as HTML, JavaScript, and CSS to provide a user-friendly interface. SharePoint is primarily sold as a document management and storage system, but the product is highly configurable and usage varies substantially among organizations. SharePoint is often used as a platform for intranet and enterprise content management (ECM) as well as business process automation.
