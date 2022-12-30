@@ -34,8 +34,8 @@ This base is organised with categories - productivity, coding, documentation, so
 - [[coding/Power Automate\|Power Automate]]
 - [[coding/PowerShell\|PowerShell]]
 - [[coding/React\|React]]
-- [[coding/SPA\|SPA]]
 - [[coding/SOLID\|SOLID]]
+- [[coding/SPA\|SPA]]
 
 
 ## Documentation
@@ -53,3 +53,6 @@ This base is organised with categories - productivity, coding, documentation, so
 
 ## Websites
 - [[websites/Languages\|Languages]]
+- [[websites/Entertainment\|Entertainment]]
+- [[websites/Online Tools\|Online Tools]]
+- [[websites/Science\|Science]]
