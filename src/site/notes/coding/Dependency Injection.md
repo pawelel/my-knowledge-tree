@@ -2,7 +2,7 @@
 {"title":"Dependency Injection","dg-publish":true,"tags":"coding","permalink":"/coding/dependency-injection/","dgPassFrontmatter":true}
 ---
 
-up:: [[Home/Coding\|coding]]
+up:: [[coding/Coding\|Coding]]
 
 ```cs
 services.AddTransient<IFileManager, WindowsFileManager>();
