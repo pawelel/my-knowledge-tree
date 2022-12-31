@@ -1,5 +1,5 @@
 ---
-{"title":"Coding","dg-publish":true,"dg-home-link":true,"permalink":"/coding/coding-moc/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"title":"Coding","dg-publish":true,"permalink":"/coding/coding-moc/","dgPassFrontmatter":true}
 ---
 
 up:: [[My Knowledge Tree\|My Knowledge Tree]]
