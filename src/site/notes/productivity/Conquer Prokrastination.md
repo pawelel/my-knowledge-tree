@@ -2,7 +2,7 @@
 {"title":"Conquer Prokrastination","dg-publish":true,"tags":"productivity","language":"en","permalink":"/productivity/conquer-prokrastination/","dgPassFrontmatter":true}
 ---
 
-up:: [[Home/Productivity\|productivity]]
+up:: [[productivity/Productivity\|Productivity]]
 
 ## How to overcome prokrastination
 **TL;DR:** Manage emotions, build momentum, prioritize planning
