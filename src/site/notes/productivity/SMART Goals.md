@@ -2,7 +2,7 @@
 {"title":"SMART Goals","dg-publish":true,"tags":"productivity","language":"en","permalink":"/productivity/smart-goals/","dgPassFrontmatter":true}
 ---
 
-up:: [[Home/Productivity\|productivity]]
+up:: [[productivity/Productivity\|Productivity]]
 
 Goals can be improved by implementig the SMART Goals method, which is an acronym form `Specific`, `Measurable`, `Achievable`, `Relevant` and `Time bound`.
 
