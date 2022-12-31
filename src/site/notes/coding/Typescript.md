@@ -2,7 +2,7 @@
 {"title":"Typescript","dg-publish":true,"tags":"coding/typescript","language":"en","permalink":"/coding/typescript/","dgPassFrontmatter":true}
 ---
 
-up:: [[coding/Coding\|Coding]]
+up:: [[coding/!Coding MOC\|!Coding MOC]]
 
 ## About Typescript
 
