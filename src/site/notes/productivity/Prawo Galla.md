@@ -2,7 +2,7 @@
 {"title":"Prawo Galla","dg-publish":true,"tags":"productivity","language":"pl","permalink":"/productivity/prawo-galla/","dgPassFrontmatter":true}
 ---
 
-up:: [[Home/Productivity\|Productivity]]
+up:: [[productivity/Productivity\|Productivity]]
 alt:: [[productivity/Gall's Law\|Gall's Law]]
 
 > [!CITE] Wszystkie złożone systemy powstały z prostszych systemów, które działają.
