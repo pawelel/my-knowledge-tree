@@ -2,7 +2,7 @@
 {"title":"Power Automate","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/power-automate/","dgPassFrontmatter":true}
 ---
 
-up:: [[Home/Coding\|Coding]]
+up:: [[coding/Coding\|Coding]]
 
 ## Articles
 
