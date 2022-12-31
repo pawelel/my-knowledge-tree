@@ -2,7 +2,7 @@
 {"title":"Turn Your Life into a Game","dg-publish":true,"tags":"productivity","language":"en","permalink":"/productivity/turn-your-life-into-a-game/","dgPassFrontmatter":true}
 ---
 
-up:: [[productivity/Productivity\|Productivity]]
+up:: [[productivity/!Productivity MOC\|!Productivity MOC]]
 
 Many RPG games use these five elements to increase the player's dopamine levels and thus make them addicted for a while:
 
