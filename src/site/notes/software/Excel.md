@@ -2,7 +2,7 @@
 {"title":"Excel","dg-publish":true,"tags":"software","language":"en","permalink":"/software/excel/","dgPassFrontmatter":true}
 ---
 
-up:: [[Home/Software\|software]]
+up:: [[software/Software\|Software]]
 
 | Website | Purpose |
 | ------- | ------- |
