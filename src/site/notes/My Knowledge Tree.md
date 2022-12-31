@@ -6,7 +6,7 @@
 I needed an easily accessible place - a personal knowledge base where links and solutions needed to perform various tasks could be stored. 
 This base is organised with categories - productivity, coding, software and useful websites. Current version of this page is created with Obsidian, [Netlify](https://app.netlify.com/) and [Obsidian Digital Garden](https://github.com/oleeskild/obsidian-digital-garden), hosted on [GitHub](https://github.com)
 
-## [[productivity/!Productivity MOC\|!Productivity MOC]]
+## [[productivity/!Productivity MOC\|Productivity]]
 | Title                                                                                                    | Language | Alternative                                                                  |
 | -------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------- |
 | [[productivity/Conquer Prokrastination\|Conquer Prokrastination]]                                     | en       | \-                                                                           |
@@ -24,7 +24,7 @@ This base is organised with categories - productivity, coding, software and usef
 | [[productivity/Prawo Parkinsona\|Prawo Parkinsona]]                                                   | pl       | \-                                                                           |
 
 
-## [[coding/!Coding MOC\|!Coding MOC]]
+## [[coding/!Coding MOC\|Coding]]
 - [[coding/3 categories of projects to create for developer portfolio\|3 categories of projects to create for developer portfolio]]
 - [[coding/72 Tricks for .NET Developers\|72 Tricks for .NET Developers]]
 - [[coding/Angular\|Angular]]
@@ -41,7 +41,7 @@ This base is organised with categories - productivity, coding, software and usef
 
 
 
-## [[software/!Software MOC\|!Software MOC]]
+## [[software/!Software MOC\|Software]]
 - [[software/Affinity Designer\|Affinity Designer]]
 - [[software/Excel\|Excel]]
 - [[software/PowerPoint\|PowerPoint]]
@@ -50,7 +50,7 @@ This base is organised with categories - productivity, coding, software and usef
 - [[software/Visual Studio Code\|Visual Studio Code]]
 - [[software/PKM\|PKM]]
 
-## [[websites/!Websites MOC\|!Websites MOC]]
+## [[websites/!Websites MOC\|Websites]]
 - [[websites/Drawing\|Drawing]]
 - [[websites/Entertainment\|Entertainment]]
 - [[websites/Languages\|Languages]]
