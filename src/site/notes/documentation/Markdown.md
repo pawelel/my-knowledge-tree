@@ -2,7 +2,7 @@
 {"title":"Markdown","dg-publish":true,"tags":"documentation","language":"en","permalink":"/documentation/markdown/","dgPassFrontmatter":true}
 ---
 
-up:: [[Home/Documentation\|documentation]]
+up:: [[documentation/Documentation\|Documentation]]
 
 ## Split text
 
