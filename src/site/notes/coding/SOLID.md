@@ -2,7 +2,7 @@
 {"title":"SOLID","dg-publish":true,"tags":"coding","permalink":"/coding/solid/","dgPassFrontmatter":true}
 ---
 
-up:: [[coding/Coding\|Coding]]
+up:: [[coding/!Coding MOC\|!Coding MOC]]
 
 ## PL
 SOLID to zbiór wskazówek tworzenia oprogramowania, zebranych przez Roberta C. Martina
