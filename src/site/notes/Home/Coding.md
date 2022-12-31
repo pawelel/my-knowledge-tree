@@ -29,13 +29,16 @@ up:: [[Home/My Knowledge Tree\|My Knowledge Tree]]
 
 ## Additional Links
 
-| Website                                | Purpose                                                          |
-| -------------------------------------- | ---------------------------------------------------------------- |
-| [Codewars](https://www.codewars.com/)  | Achieve mastery through coding practice and developer mentorship |
-| [LeetCode](https://leetcode.com/)      | The World's Leading Online Programming Learning Platform         |
-| [Guru99](https://www.guru99.com/)      | Free Training Tutorials & Video for IT Courses                   |
-| [Mike Dane](https://www.mikedane.com/) | Free programming tutorials and courses                           |
-                                                         |
+| Website                                                                                          | Purpose                                                          |
+| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| [Codewars](https://www.codewars.com/)                                                            | Achieve mastery through coding practice and developer mentorship |
+| [LeetCode](https://leetcode.com/)                                                                | The World's Leading Online Programming Learning Platform         |
+| [Guru99](https://www.guru99.com/)                                                                | Free Training Tutorials & Video for IT Courses                   |
+| [Mike Dane](https://www.mikedane.com/)                                                           | Free programming tutorials and courses                           |
+| [Learning TDD with Exercises](https://medium.com/@marlenac/learning-tdd-with-katas-3f499cb9c492) | Medium article about Test Driven Development withh homework      |
+| [FreeCodeCamp](https://www.freecodecamp.org/)                                                    | Biggest coding bootcamp I know                                   |
+| [Best practices for form design](https://uxdesign.cc/best-practices-for-form-design-ff5de6ca8e5f)                                                                                                 |   Medium article about UX                                                               |
+
 
 ## PL
 | Website                                                          | Purpose         |
