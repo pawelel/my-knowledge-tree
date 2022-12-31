@@ -2,7 +2,7 @@
 {"title":"C Sharp","dg-publish":true,"tags":"coding","permalink":"/coding/c-sharp/","dgPassFrontmatter":true}
 ---
 
-up:: [[coding/Coding\|Coding]]
+up:: [[coding/!Coding MOC\|!Coding MOC]]
 
 
 ## Additional Links
