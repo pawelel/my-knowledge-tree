@@ -2,7 +2,7 @@
 {"title":"Prawo Parkinsona","dg-publish":true,"tags":"productivity","language":"pl","permalink":"/productivity/prawo-parkinsona/","dgPassFrontmatter":true}
 ---
 
-up:: [[Home/Productivity\|Productivity]]
+up:: [[productivity/Productivity\|Productivity]]
 
 
 >[!CITE] Praca rozszerza się tak, aby wypełnić czas dostępny na jej ukończenie  
