@@ -2,7 +2,7 @@
 {"title":"Drawing","dg-publish":true,"tags":"websites","language":"en","permalink":"/websites/drawing/","dgPassFrontmatter":true}
 ---
 
-up:: [[Home/Websites\|websites]]
+up:: [[websites/Websites\|Websites]]
 
 | Website                                                                                                         | Purpose                              |
 | --------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
