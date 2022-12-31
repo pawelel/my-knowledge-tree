@@ -2,7 +2,7 @@
 {"title":"Jak studiować przy pracy na pełnym etacie","dg-publish":true,"tags":"productivity","language":"pl","permalink":"/productivity/jak-studiowac-przy-pracy-na-pelnym-etacie/","dgPassFrontmatter":true}
 ---
 
-up:: [[Home/Productivity\|Productivity]]
+up:: [[productivity/Productivity\|Productivity]]
 
 Na kanale Cajun Koi Academy zobaczyłem film - [How I Routinely Study With a Full Time Job when I'm TIRED](https://www.youtube.com/watch?v=ifZWcPXDyFc), który przedstawia kilka interesujących koncepcji radzenia sobie z prokrastynacją.  
 
