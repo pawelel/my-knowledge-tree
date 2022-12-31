@@ -2,7 +2,7 @@
 {"title":"Languages","dg-publish":true,"tags":"websites","language":"en","permalink":"/websites/languages/","dgPassFrontmatter":true}
 ---
 
-up:: [[Home/Websites\|websites]]
+up:: [[websites/Websites\|Websites]]
 
 ## Language Learning
 
