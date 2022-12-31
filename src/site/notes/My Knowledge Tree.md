@@ -40,9 +40,6 @@ This base is organised with categories - productivity, coding, software and usef
 - [[coding/Markdown\|Markdown]]
 
 
-## Documentation
-
-
 ## Software
 - [[software/Affinity Designer\|Affinity Designer]]
 - [[software/Excel\|Excel]]
