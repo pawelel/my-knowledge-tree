@@ -2,7 +2,7 @@
 {"title":"Affinity Designer","dg-publish":true,"tags":"software","language":"en","permalink":"/software/affinity-designer/","dgPassFrontmatter":true}
 ---
 
-up:: [[software/Software\|Software]]
+up:: [[software/!Software MOC\|!Software MOC]]
 
 
 ## How to save Text frame settings in Affinity Designer
