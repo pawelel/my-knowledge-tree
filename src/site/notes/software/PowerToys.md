@@ -2,7 +2,7 @@
 {"title":"PowerToys","dg-publish":true,"tags":"software","language":"en","permalink":"/software/power-toys/","dgPassFrontmatter":true}
 ---
 
-up:: [[software/Software\|Software]]
+up:: [[software/!Software MOC\|!Software MOC]]
 
 ## How to disable language switch shortcut Win + Space
 
