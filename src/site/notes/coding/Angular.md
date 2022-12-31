@@ -2,7 +2,7 @@
 {"title":"Angular","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/angular/","dgPassFrontmatter":true}
 ---
 
-up:: [[Home/Coding\|Coding]]
+up:: [[coding/Coding\|Coding]]
 
 Angular is a component-based UI framework build with [[coding/Typescript\|Typescript]] by Google.
 It features:
@@ -28,7 +28,7 @@ dg-publish: true
 tags: coding
 language: en
 ---
-up:: [[Home/Coding\|coding]]
+up:: [[coding/Coding\|Coding]]
 
 ## Installation
 In order to install Angular 13, use command:
