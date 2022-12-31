@@ -5,7 +5,7 @@
 up:: [[My Knowledge Tree\|My Knowledge Tree]]
 
 
-This category contains definitions, theories and advices somehow connected with productivity in general.
+This category contains definitions, theories and advices connected with productivity in general.
 
 ## Articles
 | Title                                                                                                    | Language | Alternative                                                                  |
