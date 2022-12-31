@@ -2,7 +2,7 @@
 {"title":"Drawing","dg-publish":true,"tags":"websites","language":"en","permalink":"/websites/drawing/","dgPassFrontmatter":true}
 ---
 
-up:: [[websites/Websites\|Websites]]
+up:: [[websites/!Websites MOC\|!Websites MOC]]
 
 | Website                                                                                                         | Purpose                              |
 | --------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
