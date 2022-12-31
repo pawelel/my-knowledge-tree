@@ -2,7 +2,7 @@
 {"title":"How to learn faster","dg-publish":true,"tags":"productivity","language":"en","permalink":"/productivity/how-to-learn-faster/","dgPassFrontmatter":true}
 ---
 
-up:: [[Home/Productivity\|productivity]]
+up:: [[productivity/Productivity\|Productivity]]
 
 ## Build safety net
 You can improve your learning skills by asking basic questions and setting up a safety net - something that will give you a general understanding of what you are about to learn.  
