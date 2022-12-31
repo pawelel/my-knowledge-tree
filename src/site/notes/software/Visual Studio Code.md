@@ -2,7 +2,7 @@
 {"title":"Visual Studio Code","dg-publish":true,"tags":"software","language":"en","permalink":"/software/visual-studio-code/","dgPassFrontmatter":true}
 ---
 
-up:: [[Home/Software\|Software]]
+up:: [[software/Software\|Software]]
 
 Visual Studio Code can be used as default text editor and IDE for apps written in JavaScript, [[coding/Typescript\|TypeScript]], [[coding/C Sharp\|C Sharp]] and other languages.
 
