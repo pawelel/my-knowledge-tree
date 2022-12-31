@@ -2,7 +2,7 @@
 {"title":"Science","dg-publish":true,"tags":"websites","language":"en","permalink":"/websites/science/","dgPassFrontmatter":true}
 ---
 
-up:: [[Home/Websites\|websites]]
+up:: [[websites/Websites\|Websites]]
 
 | Website                                  | Purpose                                                   |
 | ---------------------------------------- | --------------------------------------------------------- |
