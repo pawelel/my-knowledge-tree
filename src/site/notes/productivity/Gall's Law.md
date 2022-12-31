@@ -2,7 +2,7 @@
 {"title":"Gall's Law","dg-publish":true,"tags":"productivity","language":"en","permalink":"/productivity/gall-s-law/","dgPassFrontmatter":true}
 ---
 
-up:: [[productivity/Productivity\|Productivity]]
+up:: [[productivity/!Productivity MOC\|!Productivity MOC]]
 alt:: [[productivity/Prawo Galla\|Prawo Galla]]
 
 >[!CITE] Gall's Law
