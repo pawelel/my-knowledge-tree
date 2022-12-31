@@ -2,7 +2,7 @@
 {"title":"Typescript","dg-publish":true,"tags":"coding/typescript","language":"en","permalink":"/coding/typescript/","dgPassFrontmatter":true}
 ---
 
-up:: [[Home/Coding\|coding]]
+up:: [[coding/Coding\|Coding]]
 
 ## About Typescript
 
@@ -146,8 +146,8 @@ const cc: ColorfulCircle = {
 ## Articles
 | Title                                                    | Language |
 | -------------------------------------------------------- | -------- |
-| [[coding/Typescript questions\|Typescript questions]] | en       |
 | [[coding/Typescript\|Typescript]]                     | en       |
+| [[coding/Typescript questions\|Typescript questions]] | en       |
 
 ## Additional Links
 [TypeScript: The starting point for learning TypeScript](https://www.typescriptlang.org/docs/)
