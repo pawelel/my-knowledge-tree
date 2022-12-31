@@ -2,7 +2,7 @@
 {"title":"Parkinson's Law","dg-publish":true,"tags":"productivity","language":"en","permalink":"/productivity/parkinson-s-law/","dgPassFrontmatter":true}
 ---
 
-up:: [[Home/Productivity\|productivity]]
+up:: [[productivity/Productivity\|Productivity]]
 alt:: [[productivity/Prawo Parkinsona\|Prawo Parkinsona]]
 
 >[!CITE] Parkinson's Law
