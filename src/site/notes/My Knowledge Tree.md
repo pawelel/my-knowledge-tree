@@ -4,7 +4,7 @@
 
 ---
 I needed an easily accessible place - a personal knowledge base where links and solutions needed to perform various tasks could be stored. 
-This base is organised with categories - productivity, coding, documentation, software and useful websites. Current version of this page is created with Obsidian, [Netlify](https://app.netlify.com/) and [Obsidian Digital Garden](https://github.com/oleeskild/obsidian-digital-garden), hosted on [GitHub](https://github.com)
+This base is organised with categories - productivity, coding, software and useful websites. Current version of this page is created with Obsidian, [Netlify](https://app.netlify.com/) and [Obsidian Digital Garden](https://github.com/oleeskild/obsidian-digital-garden), hosted on [GitHub](https://github.com)
 
 ## Productivity
 | Title                                                                                                    | Language | Alternative                                                                  |
