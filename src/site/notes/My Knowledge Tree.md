@@ -9,19 +9,19 @@ This base is organised with categories - productivity, coding, documentation, so
 ## Productivity
 | Title                                                                                                    | Language | Alternative                                                                  |
 | -------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------- |
-| [[productivity/Turn Your Life into a Game\|Turn Your Life into a Game]]                               | en       | \-                                                                           |
-| [[productivity/SMART Goals\|SMART Goals]]                                                             | en       | \-                                                                           |
-| [[productivity/Parkinson's Law\|Parkinson's Law]]                                                     | en       | [[productivity/Prawo Parkinsona\|Prawo Parkinsona]]                       |
-| [[productivity/Locke's Goal-Setting Theory\|Locke's Goal-Setting Theory]]                             | en       | \-                                                                           |
-| [[productivity/IKIGAI Your Purpose of Life\|IKIGAI Your Purpose of Life]]                             | en       | [[productivity/Ikigai\|Ikigai]]                                           |
-| [[productivity/How to learn faster\|How to learn faster]]                                             | en       | \-                                                                           |
+| [[productivity/Conquer Prokrastination\|Conquer Prokrastination]]                                     | en       | \-                                                                           |
 | [[productivity/Gall's Law\|Gall's Law]]                                                               | en       | [[productivity/Prawo Galla\|Prawo Galla]]                                 |
 | [[productivity/How to Feel Less Anxious\|How to Feel Less Anxious]]                                   | en       | \-                                                                           |
-| [[productivity/Conquer Prokrastination\|Conquer Prokrastination]]                                     | en       | \-                                                                           |
-| [[productivity/Prawo Parkinsona\|Prawo Parkinsona]]                                                   | pl       | \-                                                                           |
-| [[productivity/Prawo Galla\|Prawo Galla]]                                                             | pl       | [[productivity/Gall's Law\|Gall's Law]]                                   |
-| [[productivity/Jak studiować przy pracy na pełnym etacie\|Jak studiować przy pracy na pełnym etacie]] | pl       | \-                                                                           |
+| [[productivity/How to learn faster\|How to learn faster]]                                             | en       | \-                                                                           |
+| [[productivity/IKIGAI Your Purpose of Life\|IKIGAI Your Purpose of Life]]                             | en       | [[productivity/Ikigai\|Ikigai]]                                           |
+| [[productivity/Locke's Goal-Setting Theory\|Locke's Goal-Setting Theory]]                             | en       | \-                                                                           |
+| [[productivity/Parkinson's Law\|Parkinson's Law]]                                                     | en       | [[productivity/Prawo Parkinsona\|Prawo Parkinsona]]                       |
+| [[productivity/SMART Goals\|SMART Goals]]                                                             | en       | \-                                                                           |
+| [[productivity/Turn Your Life into a Game\|Turn Your Life into a Game]]                               | en       | \-                                                                           |
 | [[productivity/Ikigai\|Ikigai]]                                                                       | pl       | [[productivity/IKIGAI Your Purpose of Life\|IKIGAI Your Purpose of Life]] |
+| [[productivity/Jak studiować przy pracy na pełnym etacie\|Jak studiować przy pracy na pełnym etacie]] | pl       | \-                                                                           |
+| [[productivity/Prawo Galla\|Prawo Galla]]                                                             | pl       | [[productivity/Gall's Law\|Gall's Law]]                                   |
+| [[productivity/Prawo Parkinsona\|Prawo Parkinsona]]                                                   | pl       | \-                                                                           |
 
 
 ## Coding
@@ -36,25 +36,25 @@ This base is organised with categories - productivity, coding, documentation, so
 - [[coding/React\|React]]
 - [[coding/SOLID\|SOLID]]
 - [[coding/SPA\|SPA]]
+- [[coding/C4 Model\|C4 Model]]
+- [[coding/Markdown\|Markdown]]
 
 
 ## Documentation
-- [[documentation/Markdown\|Markdown]]
-- [[documentation/C4 Model\|C4 Model]]
 
 
 ## Software
-- [[software/Visual Studio Code\|Visual Studio Code]]
-- [[software/SharePoint\|SharePoint]]
-- [[software/PowerToys\|PowerToys]]
-- [[software/PowerPoint\|PowerPoint]]
-- [[software/PKM\|PKM]]
-- [[software/Excel\|Excel]]
 - [[software/Affinity Designer\|Affinity Designer]]
+- [[software/Excel\|Excel]]
+- [[software/PowerPoint\|PowerPoint]]
+- [[software/PowerToys\|PowerToys]]
+- [[software/SharePoint\|SharePoint]]
+- [[software/Visual Studio Code\|Visual Studio Code]]
+- [[software/PKM\|PKM]]
 
 ## Websites
-- [[websites/Science\|Science]]
-- [[websites/Online Tools\|Online Tools]]
-- [[websites/Languages\|Languages]]
-- [[websites/Entertainment\|Entertainment]]
 - [[websites/Drawing\|Drawing]]
+- [[websites/Entertainment\|Entertainment]]
+- [[websites/Languages\|Languages]]
+- [[websites/Online Tools\|Online Tools]]
+- [[websites/Science\|Science]]
