@@ -2,7 +2,7 @@
 {"title":"PowerPoint","dg-publish":true,"tags":"software","language":"en","permalink":"/software/power-point/","dgPassFrontmatter":true}
 ---
 
-up:: [[software/Software\|Software]]
+up:: [[software/!Software MOC\|!Software MOC]]
 
 
 
