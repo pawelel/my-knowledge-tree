@@ -18,15 +18,15 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 | [[coding/72 Tricks for .NET Developers\|72 Tricks for .NET Developers]]                                                           | en       |
 | [[coding/Angular\|Angular]]                                                                                                       | en       |
 | [[coding/C4 Model\|C4 Model]]                                                                                                     | en       |
+| [[coding/CSharp\|CSharp]]                                                                                                         | \-       |
 | [[coding/Dependency Injection\|Dependency Injection]]                                                                             | \-       |
 | [[coding/Markdown\|Markdown]]                                                                                                     | en       |
 | [[coding/PowerApps\|PowerApps]]                                                                                                   | en       |
 | [[coding/PowerShell\|PowerShell]]                                                                                                 | en       |
 | [[coding/React\|React]]                                                                                                           | en       |
+| [[coding/PowerAutomate\|PowerAutomate]]                                                                                           | en       |
 | [[coding/SOLID\|SOLID]]                                                                                                           | \-       |
 | [[coding/SPA\|SPA]]                                                                                                               | en       |
-| [[coding/CSharp\|CSharp]]                                                                                                         | \-       |
-| [[coding/PowerAutomate\|PowerAutomate]]                                                                                           | en       |
 | [[coding/TypeScript\|TypeScript]]                                                                                                 | en       |
 
 
