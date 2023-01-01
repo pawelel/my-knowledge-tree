@@ -1,8 +1,8 @@
 ---
-{"title":"Update locked properties of a file","dg-publish":true,"tags":"coding/power-automate","language":"en","permalink":"/coding/update-locked-properties-of-a-file/","dgPassFrontmatter":true}
+{"title":"Update locked properties of a file","dg-publish":true,"tags":"coding/PowerAutomate","language":"en","permalink":"/coding/update-locked-properties-of-a-file/","dgPassFrontmatter":true}
 ---
 
-up:: [[coding/Power Automate\|Power Automate]]
+up:: [[coding/PowerAutomate\|PowerAutomate]]
 
 
 ```excel
@@ -22,6 +22,6 @@ if
   if(body('Parse_JSON_-_is_file_locked')?['IsLocked'],90,1)
 ```
 related:
-[Document is locked for shared use by user](https://powerusers.microsoft.com/t5/Building-Flows/Power-Automate-Handling-Document-is-locked-for-shared-use-by/td-p/734031)
+[Document is locked for shared use by user](https://powerusers.microsoft.com/t5/Building-Flows/PowerAutomate-Handling-Document-is-locked-for-shared-use-by/td-p/734031)
 [Power Automate: Error 400 - file locked for shared use](https://www.youtube.com/watch?v=_wLBj1UFhag)
 [Add & Update Excel Data to SharePoint List using Power Automate | Excel Import using flow](https://www.youtube.com/watch?v=uEZI_b1Gs-k)
