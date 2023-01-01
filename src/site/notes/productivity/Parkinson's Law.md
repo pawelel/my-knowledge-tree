@@ -2,7 +2,7 @@
 {"title":"Parkinson's Law","dg-publish":true,"tags":"productivity","permalink":"/productivity/parkinson-s-law/","dgPassFrontmatter":true}
 ---
 
-up:: [[productivity/!Productivity MOC\|!Productivity MOC]]
+up:: [[productivity/Productivity\|Productivity]]
 
 ## EN
 
