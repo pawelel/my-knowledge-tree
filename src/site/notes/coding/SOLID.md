@@ -7,11 +7,11 @@ up:: [[coding/!Coding MOC\|!Coding MOC]]
 ## PL
 SOLID to zbiór wskazówek tworzenia oprogramowania, zebranych przez Roberta C. Martina
 Te zasady to:
-- [[coding/Reguła pojedyńczej odpowiedzialności\|Reguła pojedyńczej odpowiedzialności]]
-- [[coding/Reguła Otwarte zamknięte\|Reguła Otwarte zamknięte]]
-- [[coding/Reguła podstawiania Liskov\|Reguła podstawiania Liskov]]
-- [[coding/Reguła separacji interfejsów\|Reguła separacji interfejsów]]
-- [[coding/Reguła odwrócenia zależności\|Reguła odwrócenia zależności]]
+- [[coding/Single Responsibility Principle\|Reguła pojedyńczej odpowiedzialności]]
+- [[coding/Open Close Principle\|Reguła Otwarte zamknięte]]
+- [[coding/Liskov Substitution Principle\|Reguła podstawiania Liskov]]
+- [[coding/Interface Separation Principle\|Reguła separacji interfejsów]]
+- [[coding/Dependency Inversion Principle\|Reguła odwrócenia zależności]]
 
 ## EN
 SOLID is a collection of software development tips compiled by Robert C. Martin.
