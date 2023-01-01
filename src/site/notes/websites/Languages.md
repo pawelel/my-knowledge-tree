@@ -2,7 +2,7 @@
 {"title":"Languages","dg-publish":true,"tags":"websites","permalink":"/websites/languages/","dgPassFrontmatter":true}
 ---
 
-up:: [[websites/!Websites MOC\|!Websites MOC]]
+up:: [[websites/Websites\|Websites]]
 
 ## Language Learning
 
