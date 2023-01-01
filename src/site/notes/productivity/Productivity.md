@@ -10,9 +10,9 @@ This category contains definitions, theories and advices connected with producti
 ## Articles
 | Title                                                                                                    | Language |
 | -------------------------------------------------------------------------------------------------------- | -------- |
-| [[productivity/Gall's Law\|Gall's Law]]                                                               | \-       |
 | [[productivity/IKIGAI Your Purpose of Life\|IKIGAI Your Purpose of Life]]                             | \-       |
 | [[productivity/Parkinson's Law\|Parkinson's Law]]                                                     | \-       |
+| [[productivity/Gall's Law\|Gall's Law]]                                                               | \-       |
 | [[productivity/Conquer Prokrastination\|Conquer Prokrastination]]                                     | en       |
 | [[productivity/How to Feel Less Anxious\|How to Feel Less Anxious]]                                   | en       |
 | [[productivity/How to learn faster\|How to learn faster]]                                             | en       |
