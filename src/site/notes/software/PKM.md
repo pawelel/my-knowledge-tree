@@ -2,9 +2,9 @@
 {"title":"PKM","dg-publish":true,"tags":"software","language":"en","permalink":"/software/pkm/","dgPassFrontmatter":true}
 ---
 
-up:: [[software/!Software MOC\|!Software MOC]]
+up:: [[software/Software\|Software]]
 
-Personal Knowledge Management Software can improve your [[productivity/!Productivity MOC\|!Productivity MOC]].
+Personal Knowledge Management Software can improve your [[productivity/Productivity\|Productivity]].
 
 
 ## Articles
