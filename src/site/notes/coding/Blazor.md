@@ -1,8 +1,8 @@
 ---
-{"title":"Blazor","dg-publish":true,"tags":"coding/c-sharp","language":"en","permalink":"/coding/blazor/","dgPassFrontmatter":true}
+{"title":"Blazor","dg-publish":true,"tags":"coding/CSharp","language":"en","permalink":"/coding/blazor/","dgPassFrontmatter":true}
 ---
 
-up:: [[coding/C Sharp\|C Sharp]]
+up:: [[coding/CSharp\|CSharp]]
 
 
 ## Tools
