@@ -23,29 +23,40 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 | [[coding/Markdown\|Markdown]]                                                                                                     | en       |
 | [[coding/PowerApps\|PowerApps]]                                                                                                   | en       |
 | [[coding/PowerShell\|PowerShell]]                                                                                                 | en       |
-| [[coding/React\|React]]                                                                                                           | en       |
 | [[coding/PowerAutomate\|PowerAutomate]]                                                                                           | en       |
+| [[coding/Programming Languages Based On Interests\|Programming Languages Based On Interests]]                                     | en       |
+| [[coding/React\|React]]                                                                                                           | en       |
 | [[coding/SOLID\|SOLID]]                                                                                                           | \-       |
 | [[coding/SPA\|SPA]]                                                                                                               | en       |
 | [[coding/TypeScript\|TypeScript]]                                                                                                 | en       |
-| [[coding/Programming Languages Based On Interests\|Programming Languages Based On Interests]]                                     | en       |
 
 
 ## Additional Links
 
-| Website                                                                                          | Purpose                                                          |
-| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
-| [Codewars](https://www.codewars.com/)                                                            | Achieve mastery through coding practice and developer mentorship |
-| [LeetCode](https://leetcode.com/)                                                                | The World's Leading Online Programming Learning Platform         |
-| [Guru99](https://www.guru99.com/)                                                                | Free Training Tutorials & Video for IT Courses                   |
-| [Mike Dane](https://www.mikedane.com/)                                                           | Free programming tutorials and courses                           |
-| [Learning TDD with Exercises](https://medium.com/@marlenac/learning-tdd-with-katas-3f499cb9c492) | Medium article about Test Driven Development withh homework      |
-| [FreeCodeCamp](https://www.freecodecamp.org/)                                                    | Biggest coding bootcamp I know                                   |
-| [Best practices for form design](https://uxdesign.cc/best-practices-for-form-design-ff5de6ca8e5f)                                                                                                 |   Medium article about UX                                                               |
+| Website                                                                                                       | Purpose                                                          |     |
+| ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | --- |
+| [Codewars](https://www.codewars.com/)                                                                         | Achieve mastery through coding practice and developer mentorship |     |
+| [LeetCode](https://leetcode.com/)                                                                             | The World's Leading Online Programming Learning Platform         |     |
+| [Guru99](https://www.guru99.com/)                                                                             | Free Training Tutorials & Video for IT Courses                   |     |
+| [Mike Dane](https://www.mikedane.com/)                                                                        | Free programming tutorials and courses                           |     |
+| [Learning TDD with Exercises](https://medium.com/@marlenac/learning-tdd-with-katas-3f499cb9c492)              | Medium article about Test Driven Development withh homework      |     |
+| [FreeCodeCamp](https://www.freecodecamp.org/)                                                                 | Biggest coding bootcamp I know                                   |     |
+| [Best practices for form design](https://uxdesign.cc/best-practices-for-form-design-ff5de6ca8e5f)             | Medium article about UX                                          |     |
+| [Oracle Tutorials](http://w2.syronex.com/jmr/edu/db/)                                                         | Java tutorials                                                   |     |
+| [10 Best Websites to Learn Coding For Beginners](https://www.hongkiat.com/blog/sites-to-learn-coding-online/) | List of online coding websites                                   |     |
+| [Courses Web](https://coursesweb.net/)                                                                        | PHP-MySQL JavaScript Node.js Ajax HTML CSS                       |     |
+| [MDN Web Docs](https://developer.mozilla.org/en-US/)                                                          | Mozilla Developer Network                                        |     |
+| [Foundation](https://get.foundation/frameworks-docs.html)                                                     | Foundation Documentation                                         |     |
+| [PHP: Language Reference](https://www.php.net/manual/en/langref.php)                                          | Official PHM language reference                                                                 |     |
+
 
 
 ## PL
-| Website                                                          | Purpose         |
-| ---------------------------------------------------------------- | --------------- |
-| [Maciej Zakrzewicz: Homepage](http://zakrzewicz.pl/index_en.php) | Kurs baz danych |
-|   [DEV.CDur - DEV.CDur](http://dev.cdur.pl/)                                                               |  Strona poświęcona SQL, WCF, C#, JavaScript i HTML5               |
+| Website                                                                   | Purpose                                            |
+| ------------------------------------------------------------------------- | -------------------------------------------------- |
+| [Maciej Zakrzewicz: Homepage](http://zakrzewicz.pl/index_en.php)          | Kurs baz danych                                    |
+| [DEV.CDur - DEV.CDur](http://dev.cdur.pl/)                                | Strona poświęcona SQL, WCF, C#, JavaScript i HTML5 |
+| [Samouczek Programisty](http://www.samouczekprogramisty.pl/)              | Kurs Java, aplikacji webowych i inne               |
+| [Forum Pasja Informatyki](https://forum.pasja-informatyki.pl/)            | Forum Mirosława Zelenta - wiele dziedzin IT        |
+| [POLSKI SPOJ: test your programming skills on-line](https://pl.spoj.com/) | Zadania z programowania                            |
+|                                                                           |                                                    |
