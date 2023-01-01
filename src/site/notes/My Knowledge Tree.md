@@ -29,7 +29,7 @@ This base is organised with categories - productivity, coding, software and usef
 
 
 
-## [[software/!Software MOC\|Software]]
+## Software
 | Tag          | Title                                                                                                                                                                                                                                                                                                                                                         | Language                                                                               |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | Home         | <ul><li>[[software/!Software MOC.md\\|!Software MOC]]</li></ul>                                                                                                                                                                                                                                                                                               | <ul><li>\-</li></ul>                                                                   |
@@ -37,7 +37,7 @@ This base is organised with categories - productivity, coding, software and usef
 | software/PKM | <ul><li>[[software/Logseq.md\\|Logseq]]</li><li>[[software/Obsidian.md\\|Obsidian]]</li></ul>                                                                                                                                                                                                                                                                 | <ul><li>en</li><li>en</li></ul>                                                        |
 
 
-## [[websites/!Websites MOC\|Websites]]
+## Websites
 | Tag      | Title                                                                                                                                                                                                                                                 |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Home     | <ul><li>[[websites/!Websites MOC.md\\|!Websites MOC]]</li></ul>                                                                                                                                                                                       |
