@@ -2,7 +2,7 @@
 {"title":"Locke's Goal-Setting Theory","dg-publish":true,"tags":"productivity","language":"en","permalink":"/productivity/locke-s-goal-setting-theory/","dgPassFrontmatter":true}
 ---
 
-up:: [[productivity/!Productivity MOC\|!Productivity MOC]]
+up:: [[productivity/Productivity\|Productivity]]
 
 According to [Locke and Latham](https://www.mindtools.com/azazlu3/lockes-goal-setting-theory), there are five goal setting principles that can improve your chances of success:
 
