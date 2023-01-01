@@ -1,8 +1,8 @@
 ---
-{"title":"Pass date to SharePoint list using json","dg-publish":true,"tags":"coding/power-automate","language":"en","permalink":"/coding/pass-date-to-share-point-list-using-json/","dgPassFrontmatter":true}
+{"title":"Pass date to SharePoint list using json","dg-publish":true,"tags":"coding/PowerAutomate","language":"en","permalink":"/coding/pass-date-to-share-point-list-using-json/","dgPassFrontmatter":true}
 ---
 
-up:: [[coding/Power Automate\|Power Automate]]
+up:: [[coding/PowerAutomate\|PowerAutomate]]
 
 Use `formatDateTime()`  function, for example:
 
