@@ -1,8 +1,8 @@
 ---
-{"title":"Update json property","dg-publish":true,"tags":"coding/power-automate","language":"en","permalink":"/coding/update-json-property/","dgPassFrontmatter":true}
+{"title":"Update json property","dg-publish":true,"tags":"coding/PowerAutomate","language":"en","permalink":"/coding/update-json-property/","dgPassFrontmatter":true}
 ---
 
-up:: [[coding/Power Automate\|Power Automate]]
+up:: [[coding/PowerAutomate\|PowerAutomate]]
 
 You can use `SetProperty()` function:
 ```excel
