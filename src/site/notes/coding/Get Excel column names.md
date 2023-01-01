@@ -1,8 +1,8 @@
 ---
-{"title":"Get Excel column names","dg-publish":true,"tags":"coding/power-automate","language":"en","permalink":"/coding/get-excel-column-names/","dgPassFrontmatter":true}
+{"title":"Get Excel column names","dg-publish":true,"tags":"coding/PowerAutomate","language":"en","permalink":"/coding/get-excel-column-names/","dgPassFrontmatter":true}
 ---
 
-up:: [[coding/Power Automate\|Power Automate]]
+up:: [[coding/PowerAutomate\|PowerAutomate]]
 
 
 ```excel
