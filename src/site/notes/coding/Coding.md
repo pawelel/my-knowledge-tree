@@ -28,6 +28,7 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 | [[coding/SOLID\|SOLID]]                                                                                                           | \-       |
 | [[coding/SPA\|SPA]]                                                                                                               | en       |
 | [[coding/TypeScript\|TypeScript]]                                                                                                 | en       |
+| [[coding/Programming Languages Based On Interests\|Programming Languages Based On Interests]]                                     | en       |
 
 
 ## Additional Links
