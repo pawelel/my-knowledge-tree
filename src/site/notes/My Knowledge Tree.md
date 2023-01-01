@@ -1,163 +1,45 @@
 ---
-{"title":"My Knowledge Tree","dg-home":true,"dg-publish":true,"dg-show-local-graph":false,"permalink":"/my-knowledge-tree/","tags":"gardenEntry","dgShowLocalGraph":false,"dgPassFrontmatter":true}
+{"title":"My Knowledge Tree","dg-home":true,"dg-publish":true,"permalink":"/my-knowledge-tree/","tags":"gardenEntry","dgPassFrontmatter":true}
 ---
 
 ---
 I needed an easily accessible place - a personal knowledge base where links and solutions needed to perform various tasks could be stored. 
 This base is organised with categories - productivity, coding, software and useful websites. Current version of this page is created with Obsidian, [Netlify](https://app.netlify.com/) and [Obsidian Digital Garden](https://github.com/oleeskild/obsidian-digital-garden), hosted on [GitHub](https://github.com)
 
+## Productivity
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-up:: [[My Knowledge Tree\|My Knowledge Tree]]
-
-
-This category contains definitions, theories and advices connected with productivity in general.
-
-## Articles
-| Title                                                                                                    | Language | Alternative                                                                  |
-| -------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------- |
-| [[productivity/Conquer Prokrastination\|Conquer Prokrastination]]                                     | en       | \-                                                                           |
-| [[productivity/Gall's Law\|Gall's Law]]                                                               | en       | [[productivity/Prawo Galla\|Prawo Galla]]                                 |
-| [[productivity/How to Feel Less Anxious\|How to Feel Less Anxious]]                                   | en       | \-                                                                           |
-| [[productivity/How to learn faster\|How to learn faster]]                                             | en       | \-                                                                           |
-| [[productivity/IKIGAI Your Purpose of Life\|IKIGAI Your Purpose of Life]]                             | en       | [[productivity/Ikigai\|Ikigai]]                                           |
-| [[productivity/Locke's Goal-Setting Theory\|Locke's Goal-Setting Theory]]                             | en       | \-                                                                           |
-| [[productivity/Parkinson's Law\|Parkinson's Law]]                                                     | en       | [[productivity/Prawo Parkinsona\|Prawo Parkinsona]]                       |
-| [[productivity/SMART Goals\|SMART Goals]]                                                             | en       | \-                                                                           |
-| [[productivity/Turn Your Life into a Game\|Turn Your Life into a Game]]                               | en       | \-                                                                           |
-| [[productivity/Ikigai\|Ikigai]]                                                                       | pl       | [[productivity/IKIGAI Your Purpose of Life\|IKIGAI Your Purpose of Life]] |
-| [[productivity/Jak studiować przy pracy na pełnym etacie\|Jak studiować przy pracy na pełnym etacie]] | pl       | \-                                                                           |
-| [[productivity/Prawo Galla\|Prawo Galla]]                                                             | pl       | [[productivity/Gall's Law\|Gall's Law]]                                   |
-| [[productivity/Prawo Parkinsona\|Prawo Parkinsona]]                                                   | pl       | \-                                                                           |
+| Tag          | Title                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Language                                                                                                                |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Home         | <ul><li>[[productivity/!Productivity MOC.md\\|!Productivity MOC]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | <ul><li>\-</li></ul>                                                                                                    |
+| productivity | <ul><li>[[productivity/Conquer Prokrastination.md\\|Conquer Prokrastination]]</li><li>[[productivity/How to Feel Less Anxious.md\\|How to Feel Less Anxious]]</li><li>[[productivity/Gall's Law.md\\|Gall's Law]]</li><li>[[productivity/How to learn faster.md\\|How to learn faster]]</li><li>[[productivity/IKIGAI Your Purpose of Life.md\\|IKIGAI Your Purpose of Life]]</li><li>[[productivity/Jak studiować przy pracy na pełnym etacie.md\\|Jak studiować przy pracy na pełnym etacie]]</li><li>[[productivity/Locke's Goal-Setting Theory.md\\|Locke's Goal-Setting Theory]]</li><li>[[productivity/Parkinson's Law.md\\|Parkinson's Law]]</li><li>[[productivity/SMART Goals.md\\|SMART Goals]]</li><li>[[productivity/Turn Your Life into a Game.md\\|Turn Your Life into a Game]]</li></ul> | <ul><li>en</li><li>en</li><li>\-</li><li>en</li><li>\-</li><li>pl</li><li>en</li><li>\-</li><li>en</li><li>en</li></ul> |
 
 
-## Additional Links
+## Coding
 
-[How To Overcome Adversity?](https://www.youtube.com/watch?v=61bMGNL6MrM)
-
-
-</div></div>
+| Tag                   | Title                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Language                                                                                                                                                 |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Home                  | <ul><li>[[coding/!Coding MOC.md\\|!Coding MOC]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | <ul><li>\-</li></ul>                                                                                                                                     |
+| coding                | <ul><li>[[coding/3 categories of projects to create for developer portfolio.md\\|3 categories of projects to create for developer portfolio]]</li><li>[[coding/72 Tricks for .NET Developers.md\\|72 Tricks for .NET Developers]]</li><li>[[coding/Angular.md\\|Angular]]</li><li>[[coding/C Sharp.md\\|C Sharp]]</li><li>[[coding/Dependency Injection.md\\|Dependency Injection]]</li><li>[[coding/Power Apps.md\\|Power Apps]]</li><li>[[coding/Power Automate.md\\|Power Automate]]</li><li>[[coding/PowerShell.md\\|PowerShell]]</li><li>[[coding/React.md\\|React]]</li><li>[[coding/SOLID.md\\|SOLID]]</li><li>[[coding/SPA.md\\|SPA]]</li><li>[[coding/C4 Model.md\\|C4 Model]]</li><li>[[coding/Markdown.md\\|Markdown]]</li></ul> | <ul><li>en</li><li>en</li><li>en</li><li>\-</li><li>\-</li><li>en</li><li>en</li><li>en</li><li>en</li><li>\-</li><li>en</li><li>en</li><li>en</li></ul> |
+| coding/Angular        | <ul><li>[[coding/Angular for beginners Course by Santosh Yadav.md\\|Angular for beginners Course by Santosh Yadav]]</li><li>[[coding/Cannot find name Input.md\\|Cannot find name Input]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | <ul><li>en</li><li>en</li></ul>                                                                                                                          |
+| coding/c-sharp        | <ul><li>[[coding/Blazor.md\\|Blazor]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | <ul><li>en</li></ul>                                                                                                                                     |
+| coding/power-apps     | <ul><li>[[coding/Better forms in Power Apps.md\\|Better forms in Power Apps]]</li><li>[[coding/Export and import SharePoint customized form between environments.md\\|Export and import SharePoint customized form between environments]]</li><li>[[coding/Microsoft Power Platform Functional Consultant.md\\|Microsoft Power Platform Functional Consultant]]</li><li>[[coding/Person or Group in Power Apps.md\\|Person or Group in Power Apps]]</li><li>[[coding/With syntax.md\\|With syntax]]</li></ul>                                                                                                                                                                                                                               | <ul><li>en</li><li>en</li><li>pl</li><li>en</li><li>en</li></ul>                                                                                         |
+| coding/power-automate | <ul><li>[[coding/Get Excel column names.md\\|Get Excel column names]]</li><li>[[coding/Pass date to SharePoint list using json.md\\|Pass date to SharePoint list using json]]</li><li>[[coding/Test number as string.md\\|Test number as string]]</li><li>[[coding/Update json property.md\\|Update json property]]</li><li>[[coding/Update locked properties of a file.md\\|Update locked properties of a file]]</li></ul>                                                                                                                                                                                                                                                                                                                 | <ul><li>en</li><li>en</li><li>en</li><li>en</li><li>en</li></ul>                                                                                         |
+| coding/SOLID          | <ul><li>[[coding/Dependency Inversion Principle.md\\|Dependency Inversion Principle]]</li><li>[[coding/Interface Separation Principle.md\\|Interface Separation Principle]]</li><li>[[coding/Liskov Substitution Principle.md\\|Liskov Substitution Principle]]</li><li>[[coding/Open Close Principle.md\\|Open Close Principle]]</li><li>[[coding/Single Responsibility Principle.md\\|Single Responsibility Principle]]</li></ul>                                                                                                                                                                                                                                                                                                         | <ul><li>pl</li><li>pl</li><li>\-</li><li>\-</li><li>\-</li></ul>                                                                                         |
+| coding/typescript     | <ul><li>[[coding/Typescript.md\\|Typescript]]</li><li>[[coding/Typescript questions.md\\|Typescript questions]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | <ul><li>en</li><li>en</li></ul>                                                                                                                          |
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+## [[software/!Software MOC\|Software]]
+| Tag          | Title                                                                                                                                                                                                                                                                                                                                                         | Language                                                                               |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| Home         | <ul><li>[[software/!Software MOC.md\\|!Software MOC]]</li></ul>                                                                                                                                                                                                                                                                                               | <ul><li>\-</li></ul>                                                                   |
+| software     | <ul><li>[[software/Affinity Designer.md\\|Affinity Designer]]</li><li>[[software/Excel.md\\|Excel]]</li><li>[[software/PKM.md\\|PKM]]</li><li>[[software/PowerPoint.md\\|PowerPoint]]</li><li>[[software/PowerToys.md\\|PowerToys]]</li><li>[[software/SharePoint.md\\|SharePoint]]</li><li>[[software/Visual Studio Code.md\\|Visual Studio Code]]</li></ul> | <ul><li>en</li><li>en</li><li>en</li><li>en</li><li>en</li><li>en</li><li>en</li></ul> |
+| software/PKM | <ul><li>[[software/Logseq.md\\|Logseq]]</li><li>[[software/Obsidian.md\\|Obsidian]]</li></ul>                                                                                                                                                                                                                                                                 | <ul><li>en</li><li>en</li></ul>                                                        |
 
 
-
-
-up:: [[My Knowledge Tree\|My Knowledge Tree]]
-
-## My coding areas
-
-- Power FX (Power Apps, Power Automate, Power BI, Excel)
-- C# (ASP.NET Core Blazor, Win Forms)
-- JavaScript (Chrome/Edge extensions)
-
-## Articles
-
-| Title                                                                                                                                | Language |
-| ------------------------------------------------------------------------------------------------------------------------------------ | -------- |
-| [[coding/3 categories of projects to create for developer portfolio\|3 categories of projects to create for developer portfolio]] | en       |
-| [[coding/72 Tricks for .NET Developers\|72 Tricks for .NET Developers]]                                                           | en       |
-| [[coding/Angular\|Angular]]                                                                                                       | en       |
-| [[coding/C Sharp\|C Sharp]]                                                                                                       | \-       |
-| [[coding/Dependency Injection\|Dependency Injection]]                                                                             | \-       |
-| [[coding/Power Apps\|Power Apps]]                                                                                                 | en       |
-| [[coding/Power Automate\|Power Automate]]                                                                                         | en       |
-| [[coding/PowerShell\|PowerShell]]                                                                                                 | en       |
-| [[coding/React\|React]]                                                                                                           | en       |
-| [[coding/SOLID\|SOLID]]                                                                                                           | \-       |
-| [[coding/SPA\|SPA]]                                                                                                               | en       |
-| [[coding/C4 Model\|C4 Model]]                                                                                                     | en       |
-| [[coding/Markdown\|Markdown]]                                                                                                     | en       |
-
-
-## Additional Links
-
-| Website                                                                                          | Purpose                                                          |
-| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
-| [Codewars](https://www.codewars.com/)                                                            | Achieve mastery through coding practice and developer mentorship |
-| [LeetCode](https://leetcode.com/)                                                                | The World's Leading Online Programming Learning Platform         |
-| [Guru99](https://www.guru99.com/)                                                                | Free Training Tutorials & Video for IT Courses                   |
-| [Mike Dane](https://www.mikedane.com/)                                                           | Free programming tutorials and courses                           |
-| [Learning TDD with Exercises](https://medium.com/@marlenac/learning-tdd-with-katas-3f499cb9c492) | Medium article about Test Driven Development withh homework      |
-| [FreeCodeCamp](https://www.freecodecamp.org/)                                                    | Biggest coding bootcamp I know                                   |
-| [Best practices for form design](https://uxdesign.cc/best-practices-for-form-design-ff5de6ca8e5f)                                                                                                 |   Medium article about UX                                                               |
-
-
-## PL
-| Website                                                          | Purpose         |
-| ---------------------------------------------------------------- | --------------- |
-| [Maciej Zakrzewicz: Homepage](http://zakrzewicz.pl/index_en.php) | Kurs baz danych |
-|   [DEV.CDur - DEV.CDur](http://dev.cdur.pl/)                                                               |  Strona poświęcona SQL, WCF, C#, JavaScript i HTML5               |
-
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-up:: [[My Knowledge Tree\|My Knowledge Tree]]
-
-## What this category is about
-
-Here you can find tips, links to tutorials about software I use, sometimes reviews of plugins or applications.
-
-## Articles
-
-| Title                                                  | Language |
-| ------------------------------------------------------ | -------- |
-| [[software/Obsidian\|Obsidian]]                     | en       |
-| [[software/Logseq\|Logseq]]                         | en       |
-| [[software/Affinity Designer\|Affinity Designer]]   | en       |
-| [[software/Excel\|Excel]]                           | en       |
-| [[software/PowerPoint\|PowerPoint]]                 | en       |
-| [[software/PowerToys\|PowerToys]]                   | en       |
-| [[software/SharePoint\|SharePoint]]                 | en       |
-| [[software/Visual Studio Code\|Visual Studio Code]] | en       |
-| [[software/PKM\|PKM]]                               | en       |
-
-
-## Additional Links
-
-| Website                                                                                                                                                                                | Purpose                                        |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| [Przewodnik po UX (User Experience): porady, kompendium wiedzy i dobre praktyki w projektowaniu](https://cyrekdigital.com/pl/blog/ux-porady-i-dobre-praktyki-w-projektowaniu/)         | Polish article about UX and UI                 |
-| [Visio Professional 2021 from Microsoft (Trial Version)](https://hernandonewstoday.com/download-visio-professional-2021-from-microsoft-trial-version/) | If you have Visio 2021 key, but missing binary |
-| [Awesome Open Source](https://awesomeopensource.com/)                                                                                                                                  | List of open source projects                   |
- 
-
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-up:: [[My Knowledge Tree\|My Knowledge Tree]]
-
-## Categories
-| Title                                        | Language |
-| -------------------------------------------- | -------- |
-| [[websites/Drawing\|Drawing]]             | en       |
-| [[websites/Entertainment\|Entertainment]] | en       |
-| [[websites/Languages\|Languages]]         | en       |
-| [[websites/Online Tools\|Online Tools]]   | en       |
-| [[websites/Science\|Science]]             | en       |
-
-
-
-</div></div>
-
+## [[websites/!Websites MOC\|Websites]]
+| Tag      | Title                                                                                                                                                                                                                                                 |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Home     | <ul><li>[[websites/!Websites MOC.md\\|!Websites MOC]]</li></ul>                                                                                                                                                                                       |
+| websites | <ul><li>[[websites/Drawing.md\\|Drawing]]</li><li>[[websites/Entertainment.md\\|Entertainment]]</li><li>[[websites/Languages.md\\|Languages]]</li><li>[[websites/Online Tools.md\\|Online Tools]]</li><li>[[websites/Science.md\\|Science]]</li></ul> |
 
