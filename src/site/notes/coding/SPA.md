@@ -2,7 +2,7 @@
 {"title":"SPA","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/spa/","dgPassFrontmatter":true}
 ---
 
-up:: [[coding/!Coding MOC\|!Coding MOC]]
+up:: [[coding/Coding\|Coding]]
 
 SPA stands for Single Page Application. Some of frameworks that support SPA:
 - [[coding/Angular\|Angular]]
