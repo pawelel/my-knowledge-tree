@@ -1,9 +1,10 @@
 ---
-{"title":"Single Responsibility Principle","dg-publish":true,"tags":"coding/SOLID","language":"en","permalink":"/coding/single-responsibility-principle/","dgPassFrontmatter":true}
+{"title":"Single Responsibility Principle","dg-publish":true,"tags":"coding/SOLID","permalink":"/coding/single-responsibility-principle/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/SOLID\|SOLID]]
-alt:: [[coding/Reguła pojedyńczej odpowiedzialności\|Reguła pojedyńczej odpowiedzialności]]
+
+## EN 
 Class can have single responsibility for one thing, for example:
 - notification
 - validation
@@ -11,3 +12,14 @@ Class can have single responsibility for one thing, for example:
 - saving
 - business logic
 The rule means that class should be responsible for only one thing.
+
+## PL 
+
+Klasa zgodna z regułą pojedyńczej odpowiedzialności, powinna:
+- robić tylko jedną rzecz
+- odpowiadać za jedno wymaganie biznesowe
+- wyświetlać tylko jedną rzecz
+- informować o tylko jednej rzeczy
+- odpowiadać tylko za jedną rzecz
+
+Polega na skupieniu się na tylko jednej rzeczy.
