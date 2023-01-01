@@ -2,7 +2,7 @@
 {"title":"72 Tricks for .NET Developers","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/72-tricks-for-net-developers/","dgPassFrontmatter":true}
 ---
 
-up:: [[coding/!Coding MOC\|!Coding MOC]]
+up:: [[coding/Coding\|Coding]]
 
 This book of [Huy Tran – 72 Tricks for .NET Developers](https://play.google.com/store/books/details?id=Py6KEAAAQBAJ&pli=1) helped me to realize, how much I am missing in my programming education.  
 I've found exactly 20 tips out of 72, those about the debugging and one about the conditional placement I feel they are what I need most to learn:
