@@ -1,5 +1,5 @@
 ---
-{"title":"Productivity","dg-publish":true,"tags":"Home","permalink":"/productivity/productivity-moc/","dgPassFrontmatter":true}
+{"title":"Productivity","dg-publish":true,"tags":"Home","dg-home-link":true,"permalink":"/productivity/productivity-moc/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 up:: [[My Knowledge Tree\|My Knowledge Tree]]
