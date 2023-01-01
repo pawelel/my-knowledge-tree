@@ -22,6 +22,15 @@ up:: [[websites/Websites\|Websites]]
 | [Grammarly](https://www.grammarly.com/)                                                                                  | Gramarly is a tool to check grammar and spelling                                                                                                                                                   |
 | [Google Translate](https://translate.google.com/) | Google Translate is a free multilingual machine translation service developed by Google, to translate text. |
 
+## Youtube Channels
+
+| Website                                                                                |
+| -------------------------------------------------------------------------------------- |
+| [Learn German with GermanPod101.com](https://www.youtube.com/user/GermanPod101)        |
+| [Learn French with FrenchPod101.com](https://www.youtube.com/user/FrenchPod101)        |
+| [Learn English with EnglishClass101.com](https://www.youtube.com/user/EnglishClass101) |
+| [Harbin Mandarin](https://www.youtube.com/@HarbinMandarin) |
+
 ## Reading English
 
 | Website                                                          | Purpose                                                                                                     |
