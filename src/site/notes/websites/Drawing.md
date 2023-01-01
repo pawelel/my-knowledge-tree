@@ -13,4 +13,4 @@ up:: [[websites/Websites\|Websites]]
 | [Drawing How To Draw](https://www.drawinghowtodraw.com/stepbystepdrawinglessons/)                               | Drawing tutorials                    |
 | [Easy Drawing Tutorials](https://easydrawingtutorials.com/)                                                     | Drawing tutorials                    |
 | [All You Need to Learn How to Draw Adorable Cartoon Illustrations](https://www.how-to-draw-funny-cartoons.com/) | Cartoon drawing tutorials            |
-| [Drawing Tutorials - Easy Drawing Art](https://easydrawingart.com/)                                             | Drawing tutorials                    
+| [Drawing Tutorials - Easy Drawing Art](https://easydrawingart.com/)                                             | Drawing tutorials                    |
