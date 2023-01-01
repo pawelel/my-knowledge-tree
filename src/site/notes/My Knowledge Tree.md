@@ -8,13 +8,13 @@ This base is organised with categories - productivity, coding, software and usef
 
 ## Recent Updates
 
-| Tag          | Title                                                                             |
-| ------------ | --------------------------------------------------------------------------------- |
-| software     | [[software/PKM\|PKM]] (en)                                                     |
-| productivity | [[productivity/Turn Your Life into a Game\|Turn Your Life into a Game]] (en)   |
-| productivity | [[productivity/SMART Goals\|SMART Goals]] (en)                                 |
-| productivity | [[productivity/Parkinson's Law\|Parkinson's Law]]                              |
-| productivity | [[productivity/Locke's Goal-Setting Theory\|Locke's Goal-Setting Theory]] (en) |
+| Tag          | Title                                                                           |
+| ------------ | ------------------------------------------------------------------------------- |
+| productivity | [[productivity/Gall's Law\|Gall's Law]]                                      |
+| software     | [[software/PKM\|PKM]] (en)                                                   |
+| productivity | [[productivity/Turn Your Life into a Game\|Turn Your Life into a Game]] (en) |
+| productivity | [[productivity/SMART Goals\|SMART Goals]] (en)                               |
+| productivity | [[productivity/Parkinson's Law\|Parkinson's Law]]                            |
 
 
 ## Productivity
