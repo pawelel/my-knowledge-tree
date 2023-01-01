@@ -1,5 +1,5 @@
 ---
-{"title":"Software","dg-publish":true,"language":"en","permalink":"/software/software-moc/","dgPassFrontmatter":true}
+{"title":"Software","dg-publish":true,"tags":"Home","permalink":"/software/software-moc/","dgPassFrontmatter":true}
 ---
 
 up:: [[My Knowledge Tree\|My Knowledge Tree]]
