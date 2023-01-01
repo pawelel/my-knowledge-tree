@@ -1,5 +1,5 @@
 ---
-{"title":"Entertainment","dg-publish":true,"tags":"websites","language":"en","permalink":"/websites/entertainment/","dgPassFrontmatter":true}
+{"title":"Entertainment","dg-publish":true,"tags":"websites","permalink":"/websites/entertainment/","dgPassFrontmatter":true}
 ---
 
 up:: [[websites/!Websites MOC\|!Websites MOC]]
