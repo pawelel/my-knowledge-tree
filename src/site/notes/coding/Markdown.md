@@ -2,7 +2,7 @@
 {"title":"Markdown","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/markdown/","dgPassFrontmatter":true}
 ---
 
-up:: [[coding/!Coding MOC\|!Coding MOC]]
+up:: [[coding/Coding\|Coding]]
 
 ## Split text
 
