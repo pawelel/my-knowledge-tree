@@ -8,13 +8,13 @@ This base is organised with categories - productivity, coding, software and usef
 
 ## Recent Updates
 
-| Title                                                                        | Language | Tag                                             |
-| ---------------------------------------------------------------------------- | -------- | ----------------------------------------------- |
-| [[productivity/Gall's Law\|Gall's Law]]                                   | \-       | <ul><li>#productivity</li></ul>                 |
-| [[coding/Liskov Substitution Principle\|Liskov Substitution Principle]]   | \-       | <ul><li>#coding/SOLID</li><li>#coding</li></ul> |
-| [[coding/Dependency Inversion Principle\|Dependency Inversion Principle]] | pl       | <ul><li>#coding/SOLID</li><li>#coding</li></ul> |
-| [[coding/Interface Separation Principle\|Interface Separation Principle]] | pl       | <ul><li>#coding/SOLID</li><li>#coding</li></ul> |
-| [[coding/Open Close Principle\|Open Close Principle]]                     | \-       | <ul><li>#coding/SOLID</li><li>#coding</li></ul> |
+| Title                                                                        | Language | Tag          |
+| ---------------------------------------------------------------------------- | -------- | ------------ |
+| [[productivity/Gall's Law\|Gall's Law]]                                   | \-       | productivity |
+| [[coding/Liskov Substitution Principle\|Liskov Substitution Principle]]   | \-       | coding       |
+| [[coding/Dependency Inversion Principle\|Dependency Inversion Principle]] | pl       | coding       |
+| [[coding/Interface Separation Principle\|Interface Separation Principle]] | pl       | coding       |
+| [[coding/Open Close Principle\|Open Close Principle]]                     | \-       | coding       |
 
 
 ## Productivity
