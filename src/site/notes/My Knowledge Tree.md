@@ -1,5 +1,5 @@
 ---
-{"title":"My Knowledge Tree","dg-home":true,"dg-publish":true,"dg-show-local-graph":false,"permalink":"/my-knowledge-tree/","tags":"gardenEntry","dgShowLocalGraph":false,"dgPassFrontmatter":true}
+{"title":"My Knowledge Tree","dg-home":true,"dg-publish":true,"dg-show-local-graph":false,"dg-show-backlinks":false,"permalink":"/my-knowledge-tree/","tags":"gardenEntry","dgShowBacklinks":false,"dgShowLocalGraph":false,"dgPassFrontmatter":true}
 ---
 
 ---
