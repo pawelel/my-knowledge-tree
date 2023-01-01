@@ -7,9 +7,9 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 ## Categories
 | Title                                        | Language |
 | -------------------------------------------- | -------- |
-| [[websites/Drawing\|Drawing]]             | en       |
-| [[websites/Entertainment\|Entertainment]] | \-       |
-| [[websites/Languages\|Languages]]         | \-       |
 | [[websites/Online Tools\|Online Tools]]   | en       |
+| [[websites/Entertainment\|Entertainment]] | \-       |
 | [[websites/Science\|Science]]             | en       |
+| [[websites/Languages\|Languages]]         | \-       |
+| [[websites/Drawing\|Drawing]]             | en       |
 
