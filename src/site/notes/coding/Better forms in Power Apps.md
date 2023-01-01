@@ -1,8 +1,8 @@
 ---
-{"title":"Better forms in Power Apps","dg-publish":true,"tags":"coding/power-apps","language":"en","permalink":"/coding/better-forms-in-power-apps/","dgPassFrontmatter":true}
+{"title":"Better forms in Power Apps","dg-publish":true,"tags":"coding/PowerApps","language":"en","permalink":"/coding/better-forms-in-power-apps/","dgPassFrontmatter":true}
 ---
 
-up:: [[coding/Power Apps\|Power Apps]]
+up:: [[coding/PowerApps\|PowerApps]]
 
 
 - You can use tab control
