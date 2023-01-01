@@ -8,8 +8,8 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 | Title                                        | Language |
 | -------------------------------------------- | -------- |
 | [[websites/Drawing\|Drawing]]             | en       |
-| [[websites/Entertainment\|Entertainment]] | en       |
-| [[websites/Languages\|Languages]]         | en       |
 | [[websites/Online Tools\|Online Tools]]   | en       |
 | [[websites/Science\|Science]]             | en       |
+| [[websites/Languages\|Languages]]         | \-       |
+| [[websites/Entertainment\|Entertainment]] | \-       |
 
