@@ -1,8 +1,8 @@
 ---
-{"title":"Microsoft Power Platform Functional Consultant","dg-publish":true,"tags":"coding/power-apps","language":"pl","permalink":"/coding/microsoft-power-platform-functional-consultant/","dgPassFrontmatter":true}
+{"title":"Microsoft Power Platform Functional Consultant","dg-publish":true,"tags":"coding/PowerApps","language":"pl","permalink":"/coding/microsoft-power-platform-functional-consultant/","dgPassFrontmatter":true}
 ---
 
-up:: [[coding/Power Apps\|Power Apps]]
+up:: [[coding/PowerApps\|PowerApps]]
 
 
 Egzamin składa się z 6 grup o różnym stopniu nasycenia.  
