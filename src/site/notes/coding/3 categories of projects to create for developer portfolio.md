@@ -2,7 +2,7 @@
 {"title":"3 categories of projects to create for developer portfolio","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/3-categories-of-projects-to-create-for-developer-portfolio/","dgPassFrontmatter":true}
 ---
 
-up:: [[coding/!Coding MOC\|!Coding MOC]]
+up:: [[coding/Coding\|Coding]]
 
 1. Simple
    -   Does <5 things
