@@ -10,10 +10,10 @@ This base is organised with categories - productivity, coding, software and usef
 
 | Tag      | Title                                                                 |
 | -------- | --------------------------------------------------------------------- |
+| websites | [[websites/YouTube Channels\|YouTube Channels]]                    |
 | coding   | [[coding/Nested Flow - Child Flow\|Nested Flow - Child Flow]] (en) |
 | coding   | [[coding/PowerAutomate\|PowerAutomate]] (en)                       |
 | websites | [[websites/Entertainment\|Entertainment]]                          |
-| websites | [[websites/YouTube Channels\|YouTube Channels]]                    |
 | websites | [[websites/Languages\|Languages]]                                  |
 
 
