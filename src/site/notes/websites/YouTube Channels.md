@@ -99,7 +99,8 @@ up:: [[websites/Websites\|websites]]
 | [Google Chrome Developers](https://www.youtube.com/@ChromeDevs/featured)                       | Official Google channel                                                                     |
 | [Dylan Israel](https://www.youtube.com/@CodingTutorials360/featured)                           | Coding Tips                                                                                 |
 | [WebTunings](https://www.youtube.com/@webtunings/featured)                                     | JavaScript tutorials                                                                        |
-| [Adam Khoury](https://www.youtube.com/@AdamKhoury/featured)                                    | JavaScript, PHP, SQL, Flash tutorials                                                                                            |
+| [Adam Khoury](https://www.youtube.com/@AdamKhoury/featured)                                    | JavaScript, PHP, SQL, Flash tutorials                                                       |
+| [Shane Young](https://www.youtube.com/@ShanesCows)                                             | Power Automate and Power Apps tutorials                                                                                            |
 
 
 ## News
