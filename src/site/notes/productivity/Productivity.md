@@ -14,8 +14,8 @@ This category contains definitions, theories and advices connected with producti
 | [[productivity/IKIGAI Your Purpose of Life\|IKIGAI Your Purpose of Life]]                             | \-       |
 | [[productivity/Gall's Law\|Gall's Law]]                                                               | \-       |
 | [[productivity/Turn Your Life into a Game\|Turn Your Life into a Game]]                               | en       |
-| [[productivity/SMART Goals\|SMART Goals]]                                                             | en       |
 | [[productivity/Locke's Goal-Setting Theory\|Locke's Goal-Setting Theory]]                             | en       |
+| [[productivity/SMART Goals\|SMART Goals]]                                                             | en       |
 | [[productivity/How to learn faster\|How to learn faster]]                                             | en       |
 | [[productivity/How to Feel Less Anxious\|How to Feel Less Anxious]]                                   | en       |
 | [[productivity/Conquer Prokrastination\|Conquer Prokrastination]]                                     | en       |
