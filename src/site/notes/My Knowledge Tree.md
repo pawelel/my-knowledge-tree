@@ -15,6 +15,8 @@ This base is organised with categories - productivity, coding, software and usef
 | coding   | [[coding/PowerAutomate\|PowerAutomate]] (en)                       |
 | websites | [[websites/Entertainment\|Entertainment]]                          |
 | websites | [[websites/Languages\|Languages]]                                  |
+| websites | [[websites/Online Tools\|Online Tools]] (en)                       |
+| websites | [[websites/Drawing\|Drawing]] (en)                                 |
 
 
 ## Productivity
