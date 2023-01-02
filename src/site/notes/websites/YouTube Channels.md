@@ -92,7 +92,20 @@ up:: [[websites/Websites\|websites]]
 | [edureka!](https://www.youtube.com/@edurekaIN/featured)                                        | AI, Machine Learning, DevOps, Multiple tutorials and courses                                |
 | [Mike Dane](https://www.youtube.com/@GiraffeAcademy)                                           | Multiple tutorials                                                                          |
 | [Vetrivel D](https://www.youtube.com/@VetrivelD/featured)                                      | C# tutorials                                                                                |
-| [AngelSix](https://www.youtube.com/@AngelSix/featured)                                         | C# tutorials |
+| [AngelSix](https://www.youtube.com/@AngelSix/featured)                                         | C# tutorials                                                                                |
+| [1BestCsharp blog](https://www.youtube.com/@1BestCsharpblog)                                   | Coding showcase                                                                             |
+| [Average Linux User](https://www.youtube.com/@AverageLinuxUser/featured)                       | Linux related tutorials and showcases                                                       |
+| [Microsoft Visual Studio](https://www.youtube.com/@visualstudio)                               | Official MS Visual Studio channel                                                           |
+| [Google Chrome Developers](https://www.youtube.com/@ChromeDevs/featured)                       | Official Google channel                                                                     |
+| [Dylan Israel](https://www.youtube.com/@CodingTutorials360/featured)                           | Coding Tips                                                                                 |
+| [WebTunings](https://www.youtube.com/@webtunings/featured)                                     | JavaScript tutorials                                                                        |
+| [Adam Khoury](https://www.youtube.com/@AdamKhoury/featured)                                    | JavaScript, PHP, SQL, Flash tutorials                                                                                            |
+
+
+## News
+| Website | Topic |
+| ------- | ----- |
+| [Windows Central]        | Windows releases      |
 
 ## Productivity
 
@@ -102,15 +115,22 @@ up:: [[websites/Websites\|websites]]
 
 ## Entertainment
 
-| Website                                                          | Topic                                             |
-| ---------------------------------------------------------------- | ------------------------------------------------- |
-| [YellowBrickCinema](https://www.youtube.com/@YellowBrickCinema)  | Relaxing music                                    |
-| [PIRATE KING](https://www.youtube.com/@PIRATEKINGDOM/featured)   | Developers life                                   |
-| [Viva La Dirt League](https://www.youtube.com/@VivaLaDirtLeague) | Skits in multiple universes - games and real life |
-| [LockPickingLawyer](https://www.youtube.com/@lockpickinglawyer)  | Lockpicking showcase                              |
-| [Comedy Central](https://www.youtube.com/@ComedyCentral)         | Skits                                             |
-| [DUST](https://www.youtube.com/@watchdust)                       | Sci-Fi videos                                     |
-| [JimTV](https://www.youtube.com/@JimTVmusic)                     | Programming music |
+| Website                                                               | Topic                                             |
+| --------------------------------------------------------------------- | ------------------------------------------------- |
+| [YellowBrickCinema](https://www.youtube.com/@YellowBrickCinema)       | Relaxing music                                    |
+| [PIRATE KING](https://www.youtube.com/@PIRATEKINGDOM/featured)        | Developers life                                   |
+| [Viva La Dirt League](https://www.youtube.com/@VivaLaDirtLeague)      | Skits in multiple universes - games and real life |
+| [LockPickingLawyer](https://www.youtube.com/@lockpickinglawyer)       | Lockpicking showcase                              |
+| [Comedy Central](https://www.youtube.com/@ComedyCentral)              | Skits                                             |
+| [DUST](https://www.youtube.com/@watchdust)                            | Sci-Fi videos                                     |
+| [JimTV](https://www.youtube.com/@JimTVmusic)                          | Programming music                                 |
+| [Data Is Beautiful](https://www.youtube.com/@DataIsBeautifulOfficial) | Statistics timelapses                             |
+| [ZoochosisCom](https://www.youtube.com/@zoochosis/featured)           | Skits                                             |
+| [De-Kompozytor](https://www.youtube.com/@SzaryJelon/featured)         | O elektronice                                     |
+| [guitarraviva](https://www.youtube.com/@guitarraviva)                 | Guitar play tutorials                             |
+| [Epic Music World](https://www.youtube.com/@EpicMusicWorld_Official)  | Epic music                                        |
+| [swiftlessons](https://www.youtube.com/@swiftlessons)                 | Guitar play tutorials                             |
+| [John Morris](https://www.youtube.com/@john.morris/featured)          | IT blog                                                  |
 
 ## Science
 
@@ -135,22 +155,41 @@ up:: [[websites/Websites\|websites]]
 
 ## PL
 
-| Website                                                                                       | Topic                                                                                  |
-| --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| [Dr Bartek Kulczyński](https://www.youtube.com/@drbartekpl)                                   | Porady żywieniowe                                                                      |
-| [HRejterzy](https://www.youtube.com/@HRejterzy)                                               | Skecze na kanwie IT                                                                    |
-| [Fullstack Developer](https://www.youtube.com/@FullstackDeveloperPL)                          | Porady na temat programowania w C#                                                     |
-| [tvgry](https://www.youtube.com/@tvgrypl)                                                     | Kanał o grach                                                                          |
-| [Selfmastery.pl](https://www.youtube.com/@user-tc6nc2go1t)                                    | O samorozwoju                                                                          |
-| [PMSOCHO Piotr Majcher](https://www.youtube.com/@pmsocho)                                     | Sporo o Excelu                                                                         |
-| [Marcin Iwuć](https://www.youtube.com/@MarcinIwucFBO)                                         | Ekonomia i prognozy                                                                    |
-| [BEczKA](https://www.youtube.com/@BEczKA1)                                                    | Animacje prześmiewcze i NSFW                                                           |
-| [Cezary Walenciuk](https://www.youtube.com/@CezaryWalenciuk/featured)                         | Nowości i porady C#                                                                    |
-| [Kurs programowania C#](https://www.youtube.com/@kursprogramowaniac1606)                      | Kurs programowania C#                                                                  |
-| [Wiktor Zychla](https://www.youtube.com/@torq3141/featured)                                   | Wykłady z programowania C#                                                             |
-| [Dem3000](https://www.youtube.com/@Dem3000)                                                   | Abstrakcyjne animacje i filmy                                                          |
-| [Kurso-Center](https://www.youtube.com/@kurso-center7902)                                     | Kursy programowania C# (dawniejszy kanał [Tajko](https://www.youtube.com/@Tajemniczy)) |
-| [Smartgasm](https://www.youtube.com/@Smartgasm)                                               | Kanał ogólnonaukowy                                                                    |
-| [Jak Zostać Programistą dotNET](https://www.youtube.com/@JakZostacProgramistadotNET/featured) | Kurs programowania C#                                                                  |
-| [Plus Projekt](https://www.youtube.com/@PlusProjekt/featured)                                 | Zadania i rozwiązania ze statystyki                                                    |
-|                                                                                               |                                                                                        |
+| Website                                                                                                         | Topic                                                                                  |
+| --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| [Dr Bartek Kulczyński](https://www.youtube.com/@drbartekpl)                                                     | Porady żywieniowe                                                                      |
+| [HRejterzy](https://www.youtube.com/@HRejterzy)                                                                 | Skecze na kanwie IT                                                                    |
+| [Fullstack Developer](https://www.youtube.com/@FullstackDeveloperPL)                                            | Porady na temat programowania w C#                                                     |
+| [tvgry](https://www.youtube.com/@tvgrypl)                                                                       | Kanał o grach                                                                          |
+| [Selfmastery.pl](https://www.youtube.com/@user-tc6nc2go1t)                                                      | O samorozwoju                                                                          |
+| [PMSOCHO Piotr Majcher](https://www.youtube.com/@pmsocho)                                                       | Sporo o Excelu                                                                         |
+| [Marcin Iwuć](https://www.youtube.com/@MarcinIwucFBO)                                                           | Ekonomia i prognozy                                                                    |
+| [BEczKA](https://www.youtube.com/@BEczKA1)                                                                      | Animacje prześmiewcze i NSFW                                                           |
+| [Cezary Walenciuk](https://www.youtube.com/@CezaryWalenciuk/featured)                                           | Nowości i porady C#                                                                    |
+| [Kurs programowania C#](https://www.youtube.com/@kursprogramowaniac1606)                                        | Kurs programowania C#                                                                  |
+| [Wiktor Zychla](https://www.youtube.com/@torq3141/featured)                                                     | Wykłady z programowania C#                                                             |
+| [Dem3000](https://www.youtube.com/@Dem3000)                                                                     | Abstrakcyjne animacje i filmy                                                          |
+| [Kurso-Center](https://www.youtube.com/@kurso-center7902)                                                       | Kursy programowania C# (dawniejszy kanał [Tajko](https://www.youtube.com/@Tajemniczy)) |
+| [Smartgasm](https://www.youtube.com/@Smartgasm)                                                                 | Kanał ogólnonaukowy                                                                    |
+| [Jak Zostać Programistą dotNET](https://www.youtube.com/@JakZostacProgramistadotNET/featured)                   | Kurs programowania C#                                                                  |
+| [Plus Projekt](https://www.youtube.com/@PlusProjekt/featured)                                                   | Zadania i rozwiązania ze statystyki                                                    |
+| [Andrzej Iwaniuk](https://www.youtube.com/@AndrzejIwaniuk)                                                      | Porady na temat programowania                                                          |
+| [Albrecht Xerxes](https://www.youtube.com/@WOjoElite/featured)                                                  | Poradniki i tutoriale C#                                                               |
+| [Pasja informatyki](https://www.youtube.com/@Pasjainformatyki)                                                  | Kursy IT                                                                               |
+| [TechAkademiaPL](https://www.youtube.com/@TechAkademiaPL)                                                       | Poradniki IT                                                                           |
+| [Jacek Tomkowicz](https://www.youtube.com/@JacekTomkowicz)                                                      | Kanał rozrywkowy - przedstawienie piosenek ambiwalentnych i coverów                    |
+| [Gupia Nauka](https://www.youtube.com/@gupianauka9906/featured)                                                 | Kanał ogólnonaukowy                                                                    |
+| [Mariusz Jurczenko](https://www.youtube.com/@MariuszJurczenko)                                                  | Porady i tutoriale C#                                                                  |
+| [it-ek](https://www.youtube.com/@itekpl/featured)                                                               | Porady IT, kursy linux, python                                                         |
+| [Piotr Koska](https://www.youtube.com/@PiotrKoska)                                                              | Kurs linux i IaC                                                                       |
+| [UW-TEAM.org](https://www.youtube.com/@uwteamorg)                                                               | Blog o programowaniu, linux, security                                                  |
+| [Czysta dedukcja](https://www.youtube.com/@czystadedukcja)                                                      | Zagadnienia matematyczne                                                               |
+| [G.F. Darwin](https://www.youtube.com/@GFDarwinyt)                                                              | Skecze                                                                                 |
+| [Przeciętny Człowiek](https://www.youtube.com/@PrzecietnyCzlowiekX)                                             | O samorozwoju                                                                          |
+| [Matematyka Na Plus](https://www.youtube.com/@MatematykaNaPlus1)                                                | Poradniki matematyczne, rozwiązania zadań                                              |
+| [Dział E-learningu Politechniki Wrocławskiej](https://www.youtube.com/@dziae-learningupolitechnik3935/featured) | Matematyka akademicka                                                                  |
+| [Maszyna Licząca](https://www.youtube.com/@MaszynaLiczaca/featured)                                             | Podstawy C#, algorytmy                                                                 |
+| [WSBPoznan Matematyka](https://www.youtube.com/@wsbpoznanmatematyka4173)                                        | Zagadnienia matematyczne                                                               |
+| [SargeThePlayer](https://www.youtube.com/@SargeThePlayer)                                                       | Let's playe                                                                            |
+| [Polish Sausage](https://www.youtube.com/@PolishSausage)                                                        | Animacje                                                                               |
+|                                                                                                                 |                                                                                        |
