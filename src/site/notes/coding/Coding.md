@@ -21,11 +21,11 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 | [[coding/CSharp\|CSharp]]                                                                                                         | \-       |
 | [[coding/Dependency Injection\|Dependency Injection]]                                                                             | \-       |
 | [[coding/Markdown\|Markdown]]                                                                                                     | en       |
-| [[coding/PowerApps\|PowerApps]]                                                                                                   | en       |
 | [[coding/PowerAutomate\|PowerAutomate]]                                                                                           | en       |
-| [[coding/PowerShell\|PowerShell]]                                                                                                 | en       |
+| [[coding/PowerApps\|PowerApps]]                                                                                                   | en       |
 | [[coding/Programming Languages Based On Interests\|Programming Languages Based On Interests]]                                     | en       |
 | [[coding/React\|React]]                                                                                                           | en       |
+| [[coding/PowerShell\|PowerShell]]                                                                                                 | en       |
 | [[coding/SOLID\|SOLID]]                                                                                                           | \-       |
 | [[coding/SPA\|SPA]]                                                                                                               | en       |
 | [[coding/TypeScript\|TypeScript]]                                                                                                 | en       |
