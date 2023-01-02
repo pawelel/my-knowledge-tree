@@ -24,12 +24,19 @@ up:: [[websites/Websites\|Websites]]
 
 ## Youtube Channels
 
-| Website                                                                                |
-| -------------------------------------------------------------------------------------- |
-| [Learn German with GermanPod101.com](https://www.youtube.com/user/GermanPod101)        |
-| [Learn French with FrenchPod101.com](https://www.youtube.com/user/FrenchPod101)        |
-| [Learn English with EnglishClass101.com](https://www.youtube.com/user/EnglishClass101) |
-| [Harbin Mandarin](https://www.youtube.com/@HarbinMandarin) |
+| Website                                                                                              | Topic            |
+| ---------------------------------------------------------------------------------------------------- | ---------------- |
+| [Learn German with GermanPod101.com](https://www.youtube.com/user/GermanPod101)                      | German           |
+| [Learn French with FrenchPod101.com](https://www.youtube.com/user/FrenchPod101)                      |                  |
+| [Learn English with EnglishClass101.com](https://www.youtube.com/user/EnglishClass101)               |                  |
+| [Harbin Mandarin](https://www.youtube.com/@HarbinMandarin)                                           |                  |
+| [Learn German by Watching Videos](https://www.youtube.com/@learngermanbywatchingvideo6508/playlists) |                  |
+| [ Adam Golebiewski](https://www.youtube.com/@NieTylkoKontrowersje/featured)                          | German in Polish |
+| [Niemiecki Co - Nauka języka niemieckiego](https://www.youtube.com/@niemieckico-naukajezykanie1203)  | German in Polish |
+| [AKI Arkadiusz Gerlic - język niemiecki](https://www.youtube.com/@AKIArkadiuszGerlic)                | German in Polish |
+| [Natalia Kamysz](https://www.youtube.com/@NataliaKamysz)                                             | German in Polish |
+| [Tomasz Zalewski](https://www.youtube.com/@TomaszZalewski)                                           | German in Polish |
+|                                                                                                      |                  |
 
 ## Reading English
 
