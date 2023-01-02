@@ -10,11 +10,11 @@ This base is organised with categories - productivity, coding, software and usef
 
 | Tag      | Title                                              |
 | -------- | -------------------------------------------------- |
+| websites | [[websites/Entertainment\|Entertainment]]       |
 | websites | [[websites/YouTube Channels\|YouTube Channels]] |
 | websites | [[websites/Languages\|Languages]]               |
 | websites | [[websites/Online Tools\|Online Tools]] (en)    |
 | websites | [[websites/Drawing\|Drawing]] (en)              |
-| websites | [[websites/Entertainment\|Entertainment]]       |
 
 
 ## Productivity
