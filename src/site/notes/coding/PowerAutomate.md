@@ -9,11 +9,12 @@ up:: [[coding/Coding\|Coding]]
 | Title                                                                                          | Language |
 | ---------------------------------------------------------------------------------------------- | -------- |
 | [[coding/Get Excel column names\|Get Excel column names]]                                   | en       |
+| [[coding/Nested Flow - Child Flow\|Nested Flow - Child Flow]]                               | en       |
 | [[coding/Pass date to SharePoint list using json\|Pass date to SharePoint list using json]] | en       |
 | [[coding/Test number as string\|Test number as string]]                                     | en       |
-| [[coding/Update locked properties of a file\|Update locked properties of a file]]           | en       |
 | [[coding/Update json property\|Update json property]]                                       | en       |
-| [[coding/Nested Flow - Child Flow\|Nested Flow - Child Flow]]                               | en       |
+| [[coding/Update locked properties of a file\|Update locked properties of a file]]           | en       |
+| [[coding/Trigger Flow On Column Value Change\|Trigger Flow On Column Value Change]]         | en       |
 
 ## Additional Links
 [How to split file name for further processing in Power Automate](https://tomriha.com/how-to-split-file-name-for-further-processing-in-PowerAutomate/) - if you need to extract number or text from the file name
