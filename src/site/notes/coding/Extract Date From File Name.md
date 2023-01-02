@@ -11,3 +11,6 @@ If you need to extract number or text from the file name, you can use `substring
 ```go
 substring(outputs('Compose'),sub(length(outputs('Compose')),5),5)
 ```
+```go
+substring(triggerOutputs()?['body/{Name}'],sub(length(triggerOutputs()?['body/{Name}']),7),7)
+```
