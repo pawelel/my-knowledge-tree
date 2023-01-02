@@ -10,13 +10,13 @@ This base is organised with categories - productivity, coding, software and usef
 
 | Tag      | Title                                                                                       |
 | -------- | ------------------------------------------------------------------------------------------- |
+| websites | [[websites/Drawing\|Drawing]] (en)                                                       |
 | coding   | [[coding/Extract Date From File Name\|Extract Date From File Name]] (en)                 |
 | coding   | [[coding/PowerAutomate\|PowerAutomate]] (en)                                             |
 | coding   | [[coding/Trigger Flow On Column Value Change\|Trigger Flow On Column Value Change]] (en) |
 | websites | [[websites/YouTube Channels\|YouTube Channels]]                                          |
 | coding   | [[coding/Nested Flow - Child Flow\|Nested Flow - Child Flow]] (en)                       |
 | websites | [[websites/Entertainment\|Entertainment]]                                                |
-| websites | [[websites/Languages\|Languages]]                                                        |
 
 
 ## Productivity
