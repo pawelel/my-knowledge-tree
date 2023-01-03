@@ -10,13 +10,13 @@ This base is organized with categories - productivity, coding, software and usef
 
 | Tag      | Title                                                                                       |
 | -------- | ------------------------------------------------------------------------------------------- |
-|          | [[Dashboard\|Dashboard]]                                                                 |
-|          | [[Encounter\|Encounter]]                                                                 |
 | coding   | [[coding/Long Running Flows\|Long Running Flows]] (en)                                   |
 | coding   | [[coding/Trigger Flow On Column Value Change\|Trigger Flow On Column Value Change]] (en) |
 | coding   | [[coding/Nested Flow - Child Flow\|Nested Flow - Child Flow]] (en)                       |
 | websites | [[websites/Drawing\|Drawing]] (en)                                                       |
 | coding   | [[coding/Extract Date From File Name\|Extract Date From File Name]] (en)                 |
+| websites | [[websites/YouTube Channels\|YouTube Channels]]                                          |
+| websites | [[websites/Entertainment\|Entertainment]]                                                |
 
 
 ## Productivity
