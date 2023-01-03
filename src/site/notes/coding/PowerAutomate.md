@@ -16,6 +16,7 @@ up:: [[coding/Coding\|Coding]]
 | [[coding/Trigger Flow On Column Value Change\|Trigger Flow On Column Value Change]]         | en       |
 | [[coding/Update json property\|Update json property]]                                       | en       |
 | [[coding/Update locked properties of a file\|Update locked properties of a file]]           | en       |
+| [[coding/Long Running Flows\|Long Running Flows]]                                           | en       |
 
 ## Additional Links
 
