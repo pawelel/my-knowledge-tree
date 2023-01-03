@@ -29,7 +29,6 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 | [[coding/SPA\|SPA]]                                                                                                               | en       |
 | [[coding/SOLID\|SOLID]]                                                                                                           | \-       |
 | [[coding/TypeScript\|TypeScript]]                                                                                                 | en       |
-| [[coding/Long Running Flows\|Long Running Flows]]                                                                                 | en       |
 
 
 ## Additional Links
