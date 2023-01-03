@@ -4,16 +4,16 @@
 
 ---
 I needed an easily accessible place - a personal knowledge base where links and solutions necessary to perform various tasks could be stored. 
-This base is organised with categories - productivity, coding, software and useful websites. Current version of this page is created with Obsidian, [Netlify](https://app.netlify.com/) and [Obsidian Digital Garden](https://github.com/oleeskild/obsidian-digital-garden), hosted on [GitHub](https://github.com)
+This base is organized with categories - productivity, coding, software and useful websites. Current version of this page is created with Obsidian, [Netlify](https://app.netlify.com/) and [Obsidian Digital Garden](https://github.com/oleeskild/obsidian-digital-garden), hosted on [GitHub](https://github.com)
 
 ## Recent Updates
 
 | Tag      | Title                                                                                       |
 | -------- | ------------------------------------------------------------------------------------------- |
+|          | [[Dashboard\|Dashboard]]                                                                 |
+|          | [[Encounter\|Encounter]]                                                                 |
 | coding   | [[coding/Long Running Flows\|Long Running Flows]] (en)                                   |
-| coding   | [[coding/PowerAutomate\|PowerAutomate]] (en)                                             |
 | coding   | [[coding/Trigger Flow On Column Value Change\|Trigger Flow On Column Value Change]] (en) |
-| coding   | [[coding/PowerApps\|PowerApps]] (en)                                                     |
 | coding   | [[coding/Nested Flow - Child Flow\|Nested Flow - Child Flow]] (en)                       |
 | websites | [[websites/Drawing\|Drawing]] (en)                                                       |
 | coding   | [[coding/Extract Date From File Name\|Extract Date From File Name]] (en)                 |
