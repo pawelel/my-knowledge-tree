@@ -22,9 +22,9 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 | [[coding/Dependency Injection\|Dependency Injection]]                                                                             | \-       |
 | [[coding/Markdown\|Markdown]]                                                                                                     | en       |
 | [[coding/PowerApps\|PowerApps]]                                                                                                   | en       |
+| [[coding/PowerAutomate\|PowerAutomate]]                                                                                           | en       |
 | [[coding/PowerShell\|PowerShell]]                                                                                                 | en       |
 | [[coding/Programming Languages Based On Interests\|Programming Languages Based On Interests]]                                     | en       |
-| [[coding/PowerAutomate\|PowerAutomate]]                                                                                           | en       |
 | [[coding/React\|React]]                                                                                                           | en       |
 | [[coding/SOLID\|SOLID]]                                                                                                           | \-       |
 | [[coding/SPA\|SPA]]                                                                                                               | en       |
