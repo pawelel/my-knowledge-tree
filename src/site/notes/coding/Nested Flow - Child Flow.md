@@ -2,7 +2,7 @@
 {"title":"Nested Flow - Child Flow","dg-publish":true,"tags":"coding/PowerAutomate","language":"en","permalink":"/coding/nested-flow-child-flow/","dgPassFrontmatter":true}
 ---
 
-up:: [[coding/Coding\|coding]]
+up:: [[coding/PowerAutomate\|PowerAutomate]]
 
 [Create Power Automate Reusable Flow with Child Flow](https://www.youtube.com/watch?v=PMYWUKF3TLA)
 [Call Child Flows - Power Automate | Microsoft Learn](https://learn.microsoft.com/en-us/power-automate/create-child-flows)
