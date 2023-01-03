@@ -14,21 +14,21 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 
 | Title                                                                                                                                | Language |
 | ------------------------------------------------------------------------------------------------------------------------------------ | -------- |
-| [[coding/3 categories of projects to create for developer portfolio\|3 categories of projects to create for developer portfolio]] | en       |
-| [[coding/72 Tricks for .NET Developers\|72 Tricks for .NET Developers]]                                                           | en       |
-| [[coding/Angular\|Angular]]                                                                                                       | en       |
-| [[coding/C4 Model\|C4 Model]]                                                                                                     | en       |
-| [[coding/Dependency Injection\|Dependency Injection]]                                                                             | \-       |
-| [[coding/CSharp\|CSharp]]                                                                                                         | \-       |
-| [[coding/Markdown\|Markdown]]                                                                                                     | en       |
-| [[coding/PowerApps\|PowerApps]]                                                                                                   | en       |
 | [[coding/PowerAutomate\|PowerAutomate]]                                                                                           | en       |
-| [[coding/PowerShell\|PowerShell]]                                                                                                 | en       |
+| [[coding/PowerApps\|PowerApps]]                                                                                                   | en       |
 | [[coding/Programming Languages Based On Interests\|Programming Languages Based On Interests]]                                     | en       |
-| [[coding/React\|React]]                                                                                                           | en       |
+| [[coding/Angular\|Angular]]                                                                                                       | en       |
+| [[coding/TypeScript\|TypeScript]]                                                                                                 | en       |
+| [[coding/Markdown\|Markdown]]                                                                                                     | en       |
+| [[coding/C4 Model\|C4 Model]]                                                                                                     | en       |
 | [[coding/SPA\|SPA]]                                                                                                               | en       |
 | [[coding/SOLID\|SOLID]]                                                                                                           | \-       |
-| [[coding/TypeScript\|TypeScript]]                                                                                                 | en       |
+| [[coding/React\|React]]                                                                                                           | en       |
+| [[coding/PowerShell\|PowerShell]]                                                                                                 | en       |
+| [[coding/Dependency Injection\|Dependency Injection]]                                                                             | \-       |
+| [[coding/CSharp\|CSharp]]                                                                                                         | \-       |
+| [[coding/72 Tricks for .NET Developers\|72 Tricks for .NET Developers]]                                                           | en       |
+| [[coding/3 categories of projects to create for developer portfolio\|3 categories of projects to create for developer portfolio]] | en       |
 
 
 ## Additional Links
