@@ -1,5 +1,5 @@
 ---
-{"title":"Power Automate","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/power-automate/","dgPassFrontmatter":true}
+{"title":"Power Automate MOC","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/power-automate/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/Coding\|Coding]]
@@ -8,15 +8,15 @@ up:: [[coding/Coding\|Coding]]
 
 | Title                                                                                          | Language |
 | ---------------------------------------------------------------------------------------------- | -------- |
-| [[coding/Extract Date From File Name\|Extract Date From File Name]]                         | en       |
-| [[coding/Get Excel column names\|Get Excel column names]]                                   | en       |
-| [[coding/Nested Flow - Child Flow\|Nested Flow - Child Flow]]                               | en       |
-| [[coding/Pass date to SharePoint list using json\|Pass date to SharePoint list using json]] | en       |
-| [[coding/Test number as string\|Test number as string]]                                     | en       |
-| [[coding/Trigger Flow On Column Value Change\|Trigger Flow On Column Value Change]]         | en       |
-| [[coding/Update json property\|Update json property]]                                       | en       |
-| [[coding/Update locked properties of a file\|Update locked properties of a file]]           | en       |
 | [[coding/Long Running Flows\|Long Running Flows]]                                           | en       |
+| [[coding/Trigger Flow On Column Value Change\|Trigger Flow On Column Value Change]]         | en       |
+| [[coding/Nested Flow - Child Flow\|Nested Flow - Child Flow]]                               | en       |
+| [[coding/Extract Date From File Name\|Extract Date From File Name]]                         | en       |
+| [[coding/Update locked properties of a file\|Update locked properties of a file]]           | en       |
+| [[coding/Update json property\|Update json property]]                                       | en       |
+| [[coding/Test number as string\|Test number as string]]                                     | en       |
+| [[coding/Pass date to SharePoint list using json\|Pass date to SharePoint list using json]] | en       |
+| [[coding/Get Excel column names\|Get Excel column names]]                                   | en       |
 
 ## Additional Links
 
