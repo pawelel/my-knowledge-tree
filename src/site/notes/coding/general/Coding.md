@@ -1,5 +1,5 @@
 ---
-{"title":"Coding MOC","dg-publish":true,"tags":"Home","permalink":"/coding/general/coding/","dgPassFrontmatter":true}
+{"title":"Coding MOC","dg-publish":true,"permalink":"/coding/general/coding/","dgPassFrontmatter":true}
 ---
 
 up:: [[My Knowledge Tree\|My Knowledge Tree]]
@@ -14,18 +14,18 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 
 | Title                                                                                                                                        | Language |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [[coding/PowerAutomate/PowerAutomate\|PowerAutomate]]                                                                                     | en       |
 | [[coding/general/Programming Languages Based On Interests\|Programming Languages Based On Interests]]                                     | en       |
 | [[coding/PowerAutomate/HTML Table Formatting\|HTML Table Formatting]]                                                                     | en       |
-| [[coding/PowerAutomate/PowerAutomate\|PowerAutomate]]                                                                                     | en       |
 | [[coding/PowerApps/PowerApps\|PowerApps]]                                                                                                 | en       |
 | [[coding/Angular/Angular\|Angular]]                                                                                                       | en       |
-| [[coding/TypeScript\|TypeScript]]                                                                                                         | en       |
+| [[coding/TypeScript/TypeScript\|TypeScript]]                                                                                              | en       |
 | [[coding/general/Markdown\|Markdown]]                                                                                                     | en       |
 | [[coding/general/C4 Model\|C4 Model]]                                                                                                     | en       |
 | [[coding/general/SPA\|SPA]]                                                                                                               | en       |
 | [[coding/general/SOLID\|SOLID]]                                                                                                           | \-       |
-| [[coding/React\|React]]                                                                                                                   | en       |
-| [[coding/PowerShell\|PowerShell]]                                                                                                         | en       |
+| [[coding/React/React\|React]]                                                                                                             | en       |
+| [[coding/PowerShell/PowerShell\|PowerShell]]                                                                                              | en       |
 | [[coding/general/Dependency Injection\|Dependency Injection]]                                                                             | \-       |
 | [[coding/CSharp/CSharp\|CSharp]]                                                                                                          | \-       |
 | [[coding/general/72 Tricks for .NET Developers\|72 Tricks for .NET Developers]]                                                           | en       |
