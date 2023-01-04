@@ -2,13 +2,13 @@
 {"title":"TypeScript","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/type-script/","dgPassFrontmatter":true}
 ---
 
-up:: [[coding/Coding\|Coding]]
+up:: [[coding/general/Coding\|Coding]]
 
 ## About Typescript
 
 Typescript is a strongly typed language, created and maintained by Microsoft as subset of JavaScript. It compiles to JavaScript. It is supported by all major libraries and frameworks.
 
-Typescript is used by Vue, [[coding/React\|React]], [[coding/Angular\|Angular]].
+Typescript is used by Vue, [[coding/React\|React]], [[coding/Angular/Angular\|Angular]].
 
 It keeps application free from type errors, undefined and null values.
 
