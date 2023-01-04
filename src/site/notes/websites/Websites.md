@@ -1,5 +1,5 @@
 ---
-{"title":"Websites MOC","dg-publish":true,"tags":"Home","language":"en","permalink":"/websites/websites/","dgPassFrontmatter":true}
+{"title":"Websites MOC","dg-publish":true,"language":"en","permalink":"/websites/websites/","dgPassFrontmatter":true}
 ---
 
 up:: [[My Knowledge Tree\|My Knowledge Tree]]
