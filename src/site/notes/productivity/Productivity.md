@@ -11,8 +11,8 @@ This category contains definitions, theories and advices connected with producti
 | Title                                                                                                    | Language |
 | -------------------------------------------------------------------------------------------------------- | -------- |
 | [[productivity/Parkinson's Law\|Parkinson's Law]]                                                     | \-       |
-| [[productivity/IKIGAI Your Purpose of Life\|IKIGAI Your Purpose of Life]]                             | \-       |
 | [[productivity/Gall's Law\|Gall's Law]]                                                               | \-       |
+| [[productivity/IKIGAI Your Purpose of Life\|IKIGAI Your Purpose of Life]]                             | \-       |
 | [[productivity/SMART Goals\|SMART Goals]]                                                             | en       |
 | [[productivity/Turn Your Life into a Game\|Turn Your Life into a Game]]                               | en       |
 | [[productivity/Locke's Goal-Setting Theory\|Locke's Goal-Setting Theory]]                             | en       |
