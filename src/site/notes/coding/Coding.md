@@ -14,6 +14,7 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 
 | Title                                                                                                                                | Language |
 | ------------------------------------------------------------------------------------------------------------------------------------ | -------- |
+| [[coding/HTML Table Formatting\|HTML Table Formatting]]                                                                           | en       |
 | [[coding/PowerAutomate\|PowerAutomate]]                                                                                           | en       |
 | [[coding/PowerApps\|PowerApps]]                                                                                                   | en       |
 | [[coding/Programming Languages Based On Interests\|Programming Languages Based On Interests]]                                     | en       |
