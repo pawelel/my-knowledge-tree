@@ -1,5 +1,5 @@
 ---
-{"title":"Software MOC","dg-publish":true,"tags":"Home","permalink":"/software/software/","dgPassFrontmatter":true}
+{"title":"Software MOC","dg-publish":true,"permalink":"/software/software/","dgPassFrontmatter":true}
 ---
 
 up:: [[My Knowledge Tree\|My Knowledge Tree]]
@@ -10,17 +10,18 @@ Here you can find tips, links to tutorials about software I use, sometimes revie
 
 ## Articles
 
-| Title                                                  | Language |
-| ------------------------------------------------------ | -------- |
-| [[software/PowerToys\|PowerToys]]                   | en       |
-| [[software/PowerPoint\|PowerPoint]]                 | en       |
-| [[software/Excel\|Excel]]                           | en       |
-| [[software/PKM\|PKM]]                               | en       |
-| [[software/Obsidian\|Obsidian]]                     | en       |
-| [[software/Logseq\|Logseq]]                         | en       |
-| [[software/Affinity Designer\|Affinity Designer]]   | en       |
-| [[software/SharePoint\|SharePoint]]                 | en       |
-| [[software/Visual Studio Code\|Visual Studio Code]] | en       |
+| Title                                                                                                              | Language |
+| ------------------------------------------------------------------------------------------------------------------ | -------- |
+| [[software/PowerToys\|PowerToys]]                                                                               | en       |
+| [[software/PowerPoint\|PowerPoint]]                                                                             | en       |
+| [[software/Excel\|Excel]]                                                                                       | en       |
+| [[software/Affinity Designer\|Affinity Designer]]                                                               | en       |
+| [[software/SharePoint\|SharePoint]]                                                                             | en       |
+| [[software/Visual Studio Code\|Visual Studio Code]]                                                             | en       |
+| [[software/PKM/PKM\|PKM]]                                                                                       | en       |
+| [[software/PKM/Obsidian\|Obsidian]]                                                                             | en       |
+| [[software/PKM/Logseq\|Logseq]]                                                                                 | en       |
+| [[software/PKM/Obsidian - Exclude Template Tags from Tag List\|Obsidian - Exclude Template Tags from Tag List]] | en       |
 
 
 ## Additional Links
