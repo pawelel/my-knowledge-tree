@@ -4,7 +4,7 @@
 
 up:: [[software/Software\|Software]]
 
-Visual Studio Code can be used as default text editor and IDE for apps written in JavaScript, [[coding/TypeScript\|TypeScript]], [[coding/CSharp\|CSharp]] and other languages.
+Visual Studio Code can be used as default text editor and IDE for apps written in JavaScript, [[coding/TypeScript\|TypeScript]], [[coding/CSharp/CSharp\|CSharp]] and other languages.
 
 ## C4-PlantUML - a VS Code extension for C4 Model
 
