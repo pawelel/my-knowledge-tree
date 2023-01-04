@@ -4,7 +4,7 @@
 
 up:: [[coding/general/Coding\|Coding]]
 
-Angular is a component-based UI framework build with [[coding/TypeScript\|TypeScript]] by Google.
+Angular is a component-based UI framework build with [[coding/TypeScript/TypeScript\|TypeScript]] by Google.
 It features:
 - templates
 - data binding
