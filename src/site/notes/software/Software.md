@@ -13,14 +13,14 @@ Here you can find tips, links to tutorials about software I use, sometimes revie
 | Title                                                  | Language |
 | ------------------------------------------------------ | -------- |
 | [[software/Visual Studio Code\|Visual Studio Code]] | en       |
-| [[software/SharePoint\|SharePoint]]                 | en       |
-| [[software/PKM\|PKM]]                               | en       |
 | [[software/PowerToys\|PowerToys]]                   | en       |
-| [[software/Obsidian\|Obsidian]]                     | en       |
+| [[software/SharePoint\|SharePoint]]                 | en       |
+| [[software/PowerPoint\|PowerPoint]]                 | en       |
 | [[software/Logseq\|Logseq]]                         | en       |
 | [[software/Excel\|Excel]]                           | en       |
-| [[software/PowerPoint\|PowerPoint]]                 | en       |
+| [[software/PKM\|PKM]]                               | en       |
 | [[software/Affinity Designer\|Affinity Designer]]   | en       |
+| [[software/Obsidian\|Obsidian]]                     | en       |
 
 
 ## Additional Links
