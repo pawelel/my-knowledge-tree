@@ -2,7 +2,7 @@
 {"title":"PowerShell","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/power-shell/","dgPassFrontmatter":true}
 ---
 
-up:: [[coding/Coding\|Coding]]
+up:: [[coding/general/Coding\|Coding]]
 
 ## How to enable user scripts in PowerShell
 
