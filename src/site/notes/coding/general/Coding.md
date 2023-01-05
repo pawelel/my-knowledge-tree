@@ -1,7 +1,7 @@
 ---
-title: Coding MOC
-dg-publish: true
+{"title":"Coding MOC","dg-publish":true,"permalink":"/coding/general/coding/","dgPassFrontmatter":true}
 ---
+
 up:: [[My Knowledge Tree\|My Knowledge Tree]]
 
 ## My coding areas
@@ -15,14 +15,14 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 | Title                                                                                                                                        | Language |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | [[coding/TypeScript/TypeScript\|TypeScript]]                                                                                              | en       |
+| [[coding/Angular/Angular\|Angular]]                                                                                                       | en       |
+| [[coding/general/SPA\|SPA]]                                                                                                               | en       |
 | [[coding/PowerAutomate/PowerAutomate\|PowerAutomate]]                                                                                     | en       |
 | [[coding/PowerApps/PowerApps\|PowerApps]]                                                                                                 | en       |
-| [[coding/Angular/Angular\|Angular]]                                                                                                       | en       |
 | [[coding/general/Programming Languages Based On Interests\|Programming Languages Based On Interests]]                                     | en       |
 | [[coding/PowerAutomate/HTML Table Formatting\|HTML Table Formatting]]                                                                     | en       |
 | [[coding/general/Markdown\|Markdown]]                                                                                                     | en       |
 | [[coding/general/C4 Model\|C4 Model]]                                                                                                     | en       |
-| [[coding/general/SPA\|SPA]]                                                                                                               | en       |
 | [[coding/general/SOLID\|SOLID]]                                                                                                           | \-       |
 | [[coding/React/React\|React]]                                                                                                             | en       |
 | [[coding/PowerShell/PowerShell\|PowerShell]]                                                                                              | en       |
