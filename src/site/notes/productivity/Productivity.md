@@ -1,7 +1,7 @@
 ---
-{"title":"Productivity MOC","dg-publish":true,"permalink":"/productivity/productivity/","dgPassFrontmatter":true}
+title: Productivity MOC
+dg-publish: true
 ---
-
 up:: [[My Knowledge Tree\|My Knowledge Tree]]
 
 
