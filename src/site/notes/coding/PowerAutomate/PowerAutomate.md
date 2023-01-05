@@ -1,9 +1,7 @@
 ---
-title: Power Automate MOC
-dg-publish: true
-tags: coding
-language: en
+{"title":"Power Automate MOC","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/power-automate/power-automate/","dgPassFrontmatter":true}
 ---
+
 up:: [[coding/general/Coding\|Coding]]
 
 ## Articles
@@ -30,3 +28,4 @@ up:: [[coding/general/Coding\|Coding]]
 [Check JSON object null/empty in Power Automate](https://www.ipiyush.me/blog/check-null-or-empty-power-automate)
 [Solved: Append JSON using addproperty - Power Platform Community](https://powerusers.microsoft.com/t5/General-Power-Automate/Append-JSON-using-addproperty/td-p/959734)
 [4 Ways to Check If an Array is Empty in Power Automate | Power Tech Tips](https://www.powertechtips.com/check-if-array-is-empty-power-automate/)
+[Power Automate HTML Table Formatting and include it in the Email - YouTube](https://www.youtube.com/watch?v=6lddmGzfPgY)
