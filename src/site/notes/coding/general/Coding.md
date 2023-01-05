@@ -14,13 +14,12 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 
 | Title                                                                                                                                        | Language |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [[coding/PowerAutomate/PowerAutomate\|PowerAutomate]]                                                                                     | en       |
 | [[coding/TypeScript/TypeScript\|TypeScript]]                                                                                              | en       |
 | [[coding/Angular/Angular\|Angular]]                                                                                                       | en       |
 | [[coding/general/SPA\|SPA]]                                                                                                               | en       |
-| [[coding/PowerAutomate/PowerAutomate\|PowerAutomate]]                                                                                     | en       |
 | [[coding/PowerApps/PowerApps\|PowerApps]]                                                                                                 | en       |
 | [[coding/general/Programming Languages Based On Interests\|Programming Languages Based On Interests]]                                     | en       |
-| [[coding/PowerAutomate/HTML Table Formatting\|HTML Table Formatting]]                                                                     | en       |
 | [[coding/general/Markdown\|Markdown]]                                                                                                     | en       |
 | [[coding/general/C4 Model\|C4 Model]]                                                                                                     | en       |
 | [[coding/general/SOLID\|SOLID]]                                                                                                           | \-       |
