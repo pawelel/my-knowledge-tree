@@ -1,7 +1,8 @@
 ---
-{"title":"Websites MOC","dg-publish":true,"language":"en","permalink":"/websites/websites/","dgPassFrontmatter":true}
+title: Websites MOC
+dg-publish: true
+language: en
 ---
-
 up:: [[My Knowledge Tree\|My Knowledge Tree]]
 
 ## Categories
@@ -9,9 +10,9 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 | Title                                              | Language |
 | -------------------------------------------------- | -------- |
 | [[websites/YouTube Channels\|YouTube Channels]] | \-       |
-| [[websites/Entertainment\|Entertainment]]       | \-       |
-| [[websites/Online Tools\|Online Tools]]         | en       |
 | [[websites/Science\|Science]]                   | en       |
+| [[websites/Online Tools\|Online Tools]]         | en       |
 | [[websites/Languages\|Languages]]               | \-       |
+| [[websites/Entertainment\|Entertainment]]       | \-       |
 | [[websites/Drawing\|Drawing]]                   | en       |
 
