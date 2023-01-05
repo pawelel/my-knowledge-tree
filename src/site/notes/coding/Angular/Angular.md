@@ -22,13 +22,6 @@ Angular also supports server side rendering (SSR).
 | [[coding/Angular/Angular for beginners Course by Santosh Yadav\|Angular for beginners Course by Santosh Yadav]] | en       |
 | [[coding/Angular/Cannot find name Input\|Cannot find name Input]]                                               | en       |
 
----
-title: Angular
-dg-publish: true
-tags: coding
-language: en
----
-up:: [[coding/general/Coding\|Coding]]
 
 ## Installation
 In order to install Angular 13, use command:
