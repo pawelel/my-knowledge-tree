@@ -12,7 +12,6 @@ This base is organized with categories - productivity, coding, software and usef
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------- | ----------- |
 | coding/general       | [[coding/general/SPA\|SPA]] (en)                                                                                     | 2023/Jan/05 |
 | coding/Angular       | [[coding/Angular/Cannot find name Input\|Cannot find name Input]] (en)                                               | 2023/Jan/05 |
-| coding/Angular       | [[coding/Angular/Angular for beginners Course by Santosh Yadav\|Angular for beginners Course by Santosh Yadav]] (en) | 2023/Jan/05 |
 | coding/PowerAutomate | [[coding/PowerAutomate/Update JSON Property\|Update JSON Property]] (en)                                             | 2023/Jan/04 |
 | coding/PowerAutomate | [[coding/PowerAutomate/Disable Steps For Testing\|Disable Steps For Testing]] (en)                                   | 2023/Jan/04 |
 | coding/PowerAutomate | [[coding/PowerAutomate/Handle Null In JSON\|Handle Null In JSON]] (en)                                               | 2023/Jan/04 |
@@ -20,6 +19,7 @@ This base is organized with categories - productivity, coding, software and usef
 | coding/PowerAutomate | [[coding/PowerAutomate/Long Running Flows\|Long Running Flows]] (en)                                                 | 2023/Jan/04 |
 | coding/general       | [[coding/general/Programming Languages Based On Interests\|Programming Languages Based On Interests]] (en)           | 2023/Jan/04 |
 | coding/PowerAutomate | [[coding/PowerAutomate/HTML Table Formatting\|HTML Table Formatting]] (en)                                           | 2023/Jan/04 |
+| coding/PowerAutomate | [[coding/PowerAutomate/Nested Flow - Child Flow\|Nested Flow - Child Flow]] (en)                                     | 2023/Jan/04 |
 
 
 ## Productivity
