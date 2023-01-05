@@ -1,7 +1,9 @@
 ---
-{"title":"Power Automate MOC","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/power-automate/power-automate/","dgPassFrontmatter":true}
+title: Power Automate MOC
+dg-publish: true
+tags: coding
+language: en
 ---
-
 up:: [[coding/general/Coding\|Coding]]
 
 ## Articles
