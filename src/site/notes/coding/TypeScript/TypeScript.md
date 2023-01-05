@@ -1,7 +1,9 @@
 ---
-{"title":"TypeScript","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/type-script/type-script/","dgPassFrontmatter":true}
+title: TypeScript
+dg-publish: true
+tags: coding
+language: en
 ---
-
 up:: [[coding/general/Coding\|Coding]]
 
 ## About Typescript
