@@ -14,9 +14,9 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 
 | Title                                                                                                                                        | Language |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [[coding/Angular/Angular\|Angular]]                                                                                                       | en       |
 | [[coding/PowerAutomate/PowerAutomate\|PowerAutomate]]                                                                                     | en       |
 | [[coding/TypeScript/TypeScript\|TypeScript]]                                                                                              | en       |
-| [[coding/Angular/Angular\|Angular]]                                                                                                       | en       |
 | [[coding/general/SPA\|SPA]]                                                                                                               | en       |
 | [[coding/PowerApps/PowerApps\|PowerApps]]                                                                                                 | en       |
 | [[coding/general/Programming Languages Based On Interests\|Programming Languages Based On Interests]]                                     | en       |
