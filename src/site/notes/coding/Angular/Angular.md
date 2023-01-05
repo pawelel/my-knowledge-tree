@@ -1,7 +1,9 @@
 ---
-{"title":"Angular","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/angular/angular/","dgPassFrontmatter":true}
+title: Angular
+dg-publish: true
+tags: coding
+language: en
 ---
-
 up:: [[coding/general/Coding\|Coding]]
 
 Angular is a component-based UI framework build with [[coding/TypeScript/TypeScript\|TypeScript]] by Google.
