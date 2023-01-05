@@ -1,7 +1,7 @@
 ---
-{"title":"Software MOC","dg-publish":true,"permalink":"/software/software/","dgPassFrontmatter":true}
+title: Software MOC
+dg-publish: true
 ---
-
 up:: [[My Knowledge Tree\|My Knowledge Tree]]
 
 ## What this category is about
@@ -14,14 +14,14 @@ Here you can find tips, links to tutorials about software I use, sometimes revie
 | ------------------------------------------------------------------------------------------------------------------ | -------- |
 | [[software/Visual Studio Code\|Visual Studio Code]]                                                             | en       |
 | [[software/SharePoint\|SharePoint]]                                                                             | en       |
-| [[software/PowerPoint\|PowerPoint]]                                                                             | en       |
-| [[software/Excel\|Excel]]                                                                                       | en       |
 | [[software/PowerToys\|PowerToys]]                                                                               | en       |
-| [[software/Affinity Designer\|Affinity Designer]]                                                               | en       |
-| [[software/PKM/Obsidian - Exclude Template Tags from Tag List\|Obsidian - Exclude Template Tags from Tag List]] | en       |
-| [[software/PKM/Logseq\|Logseq]]                                                                                 | en       |
-| [[software/PKM/PKM\|PKM]]                                                                                       | en       |
+| [[software/PowerPoint\|PowerPoint]]                                                                             | en       |
 | [[software/PKM/Obsidian\|Obsidian]]                                                                             | en       |
+| [[software/PKM/Logseq\|Logseq]]                                                                                 | en       |
+| [[software/PKM/Obsidian - Exclude Template Tags from Tag List\|Obsidian - Exclude Template Tags from Tag List]] | en       |
+| [[software/Affinity Designer\|Affinity Designer]]                                                               | en       |
+| [[software/Excel\|Excel]]                                                                                       | en       |
+| [[software/PKM/PKM\|PKM]]                                                                                       | en       |
 
 
 ## Additional Links
