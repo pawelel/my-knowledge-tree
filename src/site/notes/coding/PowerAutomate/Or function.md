@@ -4,7 +4,9 @@
 
 up:: [[coding/PowerAutomate/PowerAutomate\|PowerAutomate]]
 
-If you need to use first matching criteria, there is `or` function:
+[Power Automate Functions - Or - YouTube](https://www.youtube.com/watch?v=AKOwVnubeX0)
+
+You can use `or` function to get first matching criteria:
 
 ```powerquery
 or(not(empty(item()?['invoice number'])),item()?['invoice number'],not(empty(item()?['Invoice No'])),item()?['Invoice No'])
