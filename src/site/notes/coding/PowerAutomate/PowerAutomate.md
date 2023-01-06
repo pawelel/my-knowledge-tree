@@ -8,6 +8,7 @@ up:: [[coding/general/Coding\|Coding]]
 
 | Title                                                                                                        | Language |
 | ------------------------------------------------------------------------------------------------------------ | -------- |
+| [[coding/PowerAutomate/Or function\|Or function]]                                                         | en       |
 | [[coding/PowerAutomate/Update JSON Property\|Update JSON Property]]                                       | en       |
 | [[coding/PowerAutomate/Disable Steps For Testing\|Disable Steps For Testing]]                             | en       |
 | [[coding/PowerAutomate/Handle Null In JSON\|Handle Null In JSON]]                                         | en       |
@@ -29,3 +30,6 @@ up:: [[coding/general/Coding\|Coding]]
 [Solved: Append JSON using addproperty - Power Platform Community](https://powerusers.microsoft.com/t5/General-Power-Automate/Append-JSON-using-addproperty/td-p/959734)
 [4 Ways to Check If an Array is Empty in Power Automate | Power Tech Tips](https://www.powertechtips.com/check-if-array-is-empty-power-automate/)
 [Power Automate HTML Table Formatting and include it in the Email - YouTube](https://www.youtube.com/watch?v=6lddmGzfPgY)
+[Different ways of getting Excel data using Power Automate | by Anoop | Medium](https://anoopt.medium.com/different-ways-of-getting-excel-data-using-power-automate-e21292b1d02a)
+[How to check if an array in Power Automate has duplicate values - YouTube](https://www.youtube.com/watch?v=LjDSnt8IBTA)
+
