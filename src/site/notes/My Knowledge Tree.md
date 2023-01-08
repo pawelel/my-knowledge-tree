@@ -8,18 +8,18 @@ This base is organized with categories - productivity, coding, software and usef
 
 ## Recent Updates
 
-| Tag                  | Title                                                                                                                   | Updated     |
-| -------------------- | ----------------------------------------------------------------------------------------------------------------------- | ----------- |
-| coding/PowerAutomate | [[coding/PowerAutomate/Remove Null Values From Compose\|Remove Null Values From Compose]] (en)                       | 2023/Jan/07 |
-| coding/PowerAutomate | [[coding/PowerAutomate/Nesting Limit\|Nesting Limit]] (en)                                                           | 2023/Jan/06 |
-| coding/PowerAutomate | [[coding/PowerAutomate/Nested Flow - Child Flow\|Nested Flow - Child Flow]] (en)                                     | 2023/Jan/06 |
-| coding/PowerAutomate | [[coding/PowerAutomate/Or function\|Or function]] (en)                                                               | 2023/Jan/06 |
-| coding/general       | [[coding/general/SPA\|SPA]] (en)                                                                                     | 2023/Jan/05 |
-| coding/Angular       | [[coding/Angular/Cannot find name Input\|Cannot find name Input]] (en)                                               | 2023/Jan/05 |
-| coding/PowerAutomate | [[coding/PowerAutomate/Update JSON Property\|Update JSON Property]] (en)                                             | 2023/Jan/04 |
-| coding/PowerAutomate | [[coding/PowerAutomate/Disable Steps For Testing\|Disable Steps For Testing]] (en)                                   | 2023/Jan/04 |
-| coding/PowerAutomate | [[coding/PowerAutomate/Handle Null In JSON\|Handle Null In JSON]] (en)                                               | 2023/Jan/04 |
-| software/PKM         | [[software/PKM/Obsidian - Exclude Template Tags from Tag List\|Obsidian - Exclude Template Tags from Tag List]] (en) | 2023/Jan/04 |
+| Tag                  | Title                                                                                             | Updated     |
+| -------------------- | ------------------------------------------------------------------------------------------------- | ----------- |
+| software             | [[software/SharePoint\|SharePoint]] (en)                                                       | 2023/Jan/08 |
+| coding/PowerAutomate | [[coding/PowerAutomate/Remove Null Values From Compose\|Remove Null Values From Compose]] (en) | 2023/Jan/07 |
+| coding/PowerAutomate | [[coding/PowerAutomate/Nesting Limit\|Nesting Limit]] (en)                                     | 2023/Jan/06 |
+| coding/PowerAutomate | [[coding/PowerAutomate/Nested Flow - Child Flow\|Nested Flow - Child Flow]] (en)               | 2023/Jan/06 |
+| coding/PowerAutomate | [[coding/PowerAutomate/Or function\|Or function]] (en)                                         | 2023/Jan/06 |
+| coding/general       | [[coding/general/SPA\|SPA]] (en)                                                               | 2023/Jan/05 |
+| coding/Angular       | [[coding/Angular/Cannot find name Input\|Cannot find name Input]] (en)                         | 2023/Jan/05 |
+| coding/PowerAutomate | [[coding/PowerAutomate/Update JSON Property\|Update JSON Property]] (en)                       | 2023/Jan/04 |
+| coding/PowerAutomate | [[coding/PowerAutomate/Disable Steps For Testing\|Disable Steps For Testing]] (en)             | 2023/Jan/04 |
+| coding/PowerAutomate | [[coding/PowerAutomate/Handle Null In JSON\|Handle Null In JSON]] (en)                         | 2023/Jan/04 |
 
 
 ## Productivity
@@ -45,7 +45,7 @@ This base is organized with categories - productivity, coding, software and usef
 ## Software
 | Tags         | Title                                                                                                                                                                                                                                                                                                                       | Updated                                                                                                                           |
 | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| [[software/Software\|software]] | <ul><li>[[software/Excel.md\\|Excel]]</li><li>[[software/PowerPoint.md\\|PowerPoint]]</li><li>[[software/SharePoint.md\\|SharePoint]]</li><li>[[software/Affinity Designer.md\\|Affinity Designer]]</li><li>[[software/Visual Studio Code.md\\|Visual Studio Code]]</li><li>[[software/PowerToys.md\\|PowerToys]]</li></ul> | <ul><li>2023/Jan/01</li><li>2023/Jan/01</li><li>2023/Jan/01</li><li>2023/Jan/01</li><li>2023/Jan/01</li><li>2023/Jan/01</li></ul> |
+| [[software/Software\|software]] | <ul><li>[[software/Excel.md\\|Excel]]</li><li>[[software/PowerPoint.md\\|PowerPoint]]</li><li>[[software/SharePoint.md\\|SharePoint]]</li><li>[[software/Affinity Designer.md\\|Affinity Designer]]</li><li>[[software/Visual Studio Code.md\\|Visual Studio Code]]</li><li>[[software/PowerToys.md\\|PowerToys]]</li></ul> | <ul><li>2023/Jan/01</li><li>2023/Jan/01</li><li>2023/Jan/08</li><li>2023/Jan/01</li><li>2023/Jan/01</li><li>2023/Jan/01</li></ul> |
 | [[software/PKM/PKM\|PKM]]      | <ul><li>[[software/PKM/Logseq.md\\|Logseq]]</li><li>[[software/PKM/Obsidian - Exclude Template Tags from Tag List.md\\|Obsidian - Exclude Template Tags from Tag List]]</li><li>[[software/PKM/Obsidian.md\\|Obsidian]]</li></ul>                                                                                           | <ul><li>2022/Dec/23</li><li>2023/Jan/04</li><li>2022/Dec/23</li></ul>                                                             |
 
 
