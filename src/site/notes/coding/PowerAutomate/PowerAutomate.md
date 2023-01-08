@@ -35,3 +35,4 @@ up:: [[coding/general/Coding\|Coding]]
 [Different ways of getting Excel data using Power Automate | by Anoop | Medium](https://anoopt.medium.com/different-ways-of-getting-excel-data-using-power-automate-e21292b1d02a)
 [How to check if an array in Power Automate has duplicate values - YouTube](https://www.youtube.com/watch?v=LjDSnt8IBTA)
 [How to Use Power Automate Flow to Verify Emails - YouTube](https://www.youtube.com/watch?v=2n4tb_wvRoc)
+[How to compare dates in Power Automate - Debajit's Power Apps & Dynamics 365 Blog](https://debajmecrm.com/how-to-compare-dates-in-power-automate/)
