@@ -1,9 +1,7 @@
 ---
-title: Power Apps MOC
-dg-publish: true
-tags: coding
-language: en
+{"title":"Power Apps MOC","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/power-apps/power-apps/","dgPassFrontmatter":true}
 ---
+
 up:: [[coding/general/Coding\|Coding]]
 
 ## Articles
