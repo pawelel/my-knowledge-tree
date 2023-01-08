@@ -14,11 +14,11 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 
 | Title                                                                                                                                        | Language |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [[coding/PowerApps/PowerApps\|PowerApps]]                                                                                                 | en       |
 | [[coding/PowerAutomate/PowerAutomate\|PowerAutomate]]                                                                                     | en       |
 | [[coding/Angular/Angular\|Angular]]                                                                                                       | en       |
 | [[coding/TypeScript/TypeScript\|TypeScript]]                                                                                              | en       |
 | [[coding/general/SPA\|SPA]]                                                                                                               | en       |
-| [[coding/PowerApps/PowerApps\|PowerApps]]                                                                                                 | en       |
 | [[coding/general/Programming Languages Based On Interests\|Programming Languages Based On Interests]]                                     | en       |
 | [[coding/general/Markdown\|Markdown]]                                                                                                     | en       |
 | [[coding/general/C4 Model\|C4 Model]]                                                                                                     | en       |
