@@ -15,3 +15,16 @@ You can use it to speed up the process of creating [[coding/PowerAutomate/PowerA
 
 ## Additional Links
 [Hide a Button in SharePoint Online List or document library Toolbar - SharePoint Diary](https://www.sharepointdiary.com/2022/03/hide-button-in-sharepoint-online-list-or-document-library.html)
+
+```json
+{
+  "commandBarProps" : {
+    "commands": [
+      {
+        "key": "new",
+        "hide": true
+      }   
+    ]
+  }
+}
+```
