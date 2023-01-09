@@ -36,3 +36,6 @@ up:: [[coding/general/Coding\|Coding]]
 [How to check if an array in Power Automate has duplicate values - YouTube](https://www.youtube.com/watch?v=LjDSnt8IBTA)
 [How to Use Power Automate Flow to Verify Emails - YouTube](https://www.youtube.com/watch?v=2n4tb_wvRoc)
 [How to compare dates in Power Automate - Debajit's Power Apps & Dynamics 365 Blog](https://debajmecrm.com/how-to-compare-dates-in-power-automate/)
+[How to turn on Experimental Features in Power Automate – Ellis Karim's Blog](https://elliskarim.com/2022/01/07/how-to-turn-on-experimental-features-in-power-automate/)
+[Use OData query operations in SharePoint REST requests | Microsoft Learn](https://learn.microsoft.com/en-us/sharepoint/dev/sp-add-ins/use-odata-query-operations-in-sharepoint-rest-requests)
+[Filter Query for SharePoint Get Items action in Power Automate MADE EASY! - YouTube](https://www.youtube.com/watch?app=desktop&v=I8FdUmECAn8)
