@@ -14,8 +14,8 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 
 | Title                                                                                                                                        | Language |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [[coding/PowerApps/PowerApps\|PowerApps]]                                                                                                 | en       |
 | [[coding/PowerAutomate/PowerAutomate\|PowerAutomate]]                                                                                     | en       |
+| [[coding/PowerApps/PowerApps\|PowerApps]]                                                                                                 | en       |
 | [[coding/Angular/Angular\|Angular]]                                                                                                       | en       |
 | [[coding/TypeScript/TypeScript\|TypeScript]]                                                                                              | en       |
 | [[coding/general/SPA\|SPA]]                                                                                                               | en       |
