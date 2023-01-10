@@ -1,5 +1,5 @@
 ---
-{"title":"Microsoft Power Platform Functional Consultant","dg-publish":true,"tags":"coding/PowerApps","language":"pl","permalink":"/coding/power-apps/microsoft-power-platform-functional-consultant/","dgPassFrontmatter":true}
+{"title":"Microsoft Power Platform Functional Consultant","dg-publish":true,"tags":["coding/PowerApps"],"language":"pl","permalink":"/coding/power-apps/microsoft-power-platform-functional-consultant/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/PowerApps/PowerApps\|PowerApps]]
