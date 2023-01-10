@@ -1,5 +1,5 @@
 ---
-{"title":"Markdown","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/general/markdown/","dgPassFrontmatter":true}
+{"title":"Markdown","dg-publish":true,"tags":["coding"],"language":"en","permalink":"/coding/general/markdown/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/general/Coding\|Coding]]
