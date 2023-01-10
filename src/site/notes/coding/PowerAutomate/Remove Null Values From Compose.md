@@ -1,5 +1,5 @@
 ---
-{"title":"Remove Null Values From Compose","dg-publish":true,"tags":"coding/PowerAutomate","language":"en","permalink":"/coding/power-automate/remove-null-values-from-compose/","dgPassFrontmatter":true}
+{"title":"Remove Null Values From Compose","dg-publish":true,"tags":["coding/PowerAutomate"],"language":"en","permalink":"/coding/power-automate/remove-null-values-from-compose/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/PowerAutomate/PowerAutomate\|PowerAutomate]]
