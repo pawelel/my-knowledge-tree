@@ -1,5 +1,5 @@
 ---
-{"title":"SharePoint","dg-publish":true,"tags":"software","language":"en","permalink":"/software/share-point/","dgPassFrontmatter":true}
+{"title":"SharePoint","dg-publish":true,"tags":["software"],"language":"en","permalink":"/software/share-point/","dgPassFrontmatter":true}
 ---
 
 up:: [[software/Software\|Software]]
