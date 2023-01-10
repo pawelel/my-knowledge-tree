@@ -40,3 +40,4 @@ up:: [[coding/general/Coding\|Coding]]
 [Use OData query operations in SharePoint REST requests | Microsoft Learn](https://learn.microsoft.com/en-us/sharepoint/dev/sp-add-ins/use-odata-query-operations-in-sharepoint-rest-requests)
 [Filter Query for SharePoint Get Items action in Power Automate MADE EASY! - YouTube](https://www.youtube.com/watch?app=desktop&v=I8FdUmECAn8)
 [Power Automate: combine values from an Array without an Apply to each » Knowhere365](https://knowhere365.space/power-automate-combine-values-from-an-array-without-an-apply-to-each/)
+[How to overwrite files using the create file action in Power Automate – SharePoint Stuff](https://sharepointstuff.com/2022/04/20/overwrite-files-using-create-file-action/)
