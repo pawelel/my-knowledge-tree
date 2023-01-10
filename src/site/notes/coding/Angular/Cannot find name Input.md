@@ -1,5 +1,5 @@
 ---
-{"title":"Cannot find name Input","dg-publish":true,"tags":"coding/Angular","language":"en","permalink":"/coding/angular/cannot-find-name-input/","dgPassFrontmatter":true}
+{"title":"Cannot find name Input","dg-publish":true,"tags":["coding/Angular"],"language":"en","permalink":"/coding/angular/cannot-find-name-input/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/Angular/Angular\|Angular]]
