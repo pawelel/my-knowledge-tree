@@ -39,3 +39,4 @@ up:: [[coding/general/Coding\|Coding]]
 [How to turn on Experimental Features in Power Automate – Ellis Karim's Blog](https://elliskarim.com/2022/01/07/how-to-turn-on-experimental-features-in-power-automate/)
 [Use OData query operations in SharePoint REST requests | Microsoft Learn](https://learn.microsoft.com/en-us/sharepoint/dev/sp-add-ins/use-odata-query-operations-in-sharepoint-rest-requests)
 [Filter Query for SharePoint Get Items action in Power Automate MADE EASY! - YouTube](https://www.youtube.com/watch?app=desktop&v=I8FdUmECAn8)
+[Power Automate: combine values from an Array without an Apply to each » Knowhere365](https://knowhere365.space/power-automate-combine-values-from-an-array-without-an-apply-to-each/)
