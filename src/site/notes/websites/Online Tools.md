@@ -1,5 +1,5 @@
 ---
-{"title":"Online Tools","dg-publish":true,"tags":"websites","language":"en","permalink":"/websites/online-tools/","dgPassFrontmatter":true}
+{"title":"Online Tools","dg-publish":true,"tags":["websites"],"language":"en","permalink":"/websites/online-tools/","dgPassFrontmatter":true}
 ---
 
 up:: [[websites/Websites\|Websites]]
