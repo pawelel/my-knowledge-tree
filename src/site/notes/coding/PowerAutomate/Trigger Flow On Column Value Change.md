@@ -1,5 +1,5 @@
 ---
-{"title":"Trigger Flow On Column Value Change","dg-publish":true,"tags":"coding/PowerAutomate","language":"en","permalink":"/coding/power-automate/trigger-flow-on-column-value-change/","dgPassFrontmatter":true}
+{"title":"Trigger Flow On Column Value Change","dg-publish":true,"tags":["coding/PowerAutomate"],"language":"en","permalink":"/coding/power-automate/trigger-flow-on-column-value-change/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/PowerAutomate/PowerAutomate\|PowerAutomate]]
