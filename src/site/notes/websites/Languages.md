@@ -1,5 +1,5 @@
 ---
-{"title":"Languages","dg-publish":true,"tags":"websites","permalink":"/websites/languages/","dgPassFrontmatter":true}
+{"title":"Languages","dg-publish":true,"tags":["websites"],"permalink":"/websites/languages/","dgPassFrontmatter":true}
 ---
 
 up:: [[websites/Websites\|Websites]]
