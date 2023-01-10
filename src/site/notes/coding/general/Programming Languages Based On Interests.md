@@ -1,5 +1,5 @@
 ---
-{"title":"Programming Languages Based On Interests","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/general/programming-languages-based-on-interests/","dgPassFrontmatter":true}
+{"title":"Programming Languages Based On Interests","dg-publish":true,"tags":["coding"],"language":"en","permalink":"/coding/general/programming-languages-based-on-interests/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/general/Coding\|Coding]]
