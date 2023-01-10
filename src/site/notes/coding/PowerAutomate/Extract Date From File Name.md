@@ -1,5 +1,5 @@
 ---
-{"title":"Extract Date From File Name","dg-publish":true,"tags":"coding/PowerAutomate","language":"en","permalink":"/coding/power-automate/extract-date-from-file-name/","dgPassFrontmatter":true}
+{"title":"Extract Date From File Name","dg-publish":true,"tags":["coding/PowerAutomate"],"language":"en","permalink":"/coding/power-automate/extract-date-from-file-name/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/PowerAutomate/PowerAutomate\|PowerAutomate]]
