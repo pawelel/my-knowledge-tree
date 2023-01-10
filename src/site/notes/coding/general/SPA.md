@@ -1,5 +1,5 @@
 ---
-{"title":"SPA","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/general/spa/","dgPassFrontmatter":true}
+{"title":"SPA","dg-publish":true,"tags":["coding"],"language":"en","permalink":"/coding/general/spa/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/general/Coding\|Coding]]
