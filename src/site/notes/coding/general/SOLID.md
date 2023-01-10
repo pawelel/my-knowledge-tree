@@ -1,5 +1,5 @@
 ---
-{"title":"SOLID","dg-publish":true,"tags":"coding","permalink":"/coding/general/solid/","dgPassFrontmatter":true}
+{"title":"SOLID","dg-publish":true,"tags":["coding"],"permalink":"/coding/general/solid/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/general/Coding\|Coding]]
