@@ -1,5 +1,5 @@
 ---
-{"title":"Pass date to SharePoint list using json","dg-publish":true,"tags":"coding/PowerAutomate","language":"en","permalink":"/coding/power-automate/pass-date-to-share-point-list-using-json/","dgPassFrontmatter":true}
+{"title":"Pass date to SharePoint list using json","dg-publish":true,"tags":["coding/PowerAutomate"],"language":"en","permalink":"/coding/power-automate/pass-date-to-share-point-list-using-json/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/PowerAutomate/PowerAutomate\|PowerAutomate]]
