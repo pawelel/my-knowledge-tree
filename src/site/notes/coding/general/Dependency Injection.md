@@ -1,5 +1,5 @@
 ---
-{"title":"Dependency Injection","dg-publish":true,"tags":"coding","permalink":"/coding/general/dependency-injection/","dgPassFrontmatter":true}
+{"title":"Dependency Injection","dg-publish":true,"tags":["coding"],"permalink":"/coding/general/dependency-injection/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/general/Coding\|Coding]]
