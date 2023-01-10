@@ -1,5 +1,5 @@
 ---
-{"title":"Blazor","dg-publish":true,"tags":"coding/CSharp","language":"en","permalink":"/coding/c-sharp/blazor/","dgPassFrontmatter":true}
+{"title":"Blazor","dg-publish":true,"tags":["coding/CSharp"],"language":"en","permalink":"/coding/c-sharp/blazor/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/CSharp/CSharp\|CSharp]]
