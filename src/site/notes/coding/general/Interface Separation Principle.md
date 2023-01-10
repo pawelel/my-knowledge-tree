@@ -1,5 +1,5 @@
 ---
-{"title":"Interface Separation Principle","dg-publish":true,"tags":"coding/SOLID","language":"pl","permalink":"/coding/general/interface-separation-principle/","dgPassFrontmatter":true}
+{"title":"Interface Separation Principle","dg-publish":true,"tags":["coding/SOLID"],"language":"pl","permalink":"/coding/general/interface-separation-principle/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/general/SOLID\|SOLID]]
