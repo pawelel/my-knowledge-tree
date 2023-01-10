@@ -1,5 +1,5 @@
 ---
-{"title":"Angular MOC","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/angular/angular/","dgPassFrontmatter":true}
+{"title":"Angular MOC","dg-publish":true,"tags":["coding"],"language":"en","permalink":"/coding/angular/angular/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/general/Coding\|Coding]]
