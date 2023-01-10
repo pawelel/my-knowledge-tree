@@ -1,5 +1,5 @@
 ---
-{"title":"Drawing","dg-publish":true,"tags":"websites","language":"en","permalink":"/websites/drawing/","dgPassFrontmatter":true}
+{"title":"Drawing","dg-publish":true,"tags":["websites"],"language":"en","permalink":"/websites/drawing/","dgPassFrontmatter":true}
 ---
 
 up:: [[websites/Websites\|Websites]]
