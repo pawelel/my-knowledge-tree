@@ -1,5 +1,5 @@
 ---
-{"title":"C4 Model","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/general/c4-model/","dgPassFrontmatter":true}
+{"title":"C4 Model","dg-publish":true,"tags":["coding"],"language":"en","permalink":"/coding/general/c4-model/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/general/Coding\|Coding]]
