@@ -1,5 +1,5 @@
 ---
-{"title":"Dependency Inversion Principle","dg-publish":true,"tags":"coding/SOLID","language":"pl","permalink":"/coding/general/dependency-inversion-principle/","dgPassFrontmatter":true}
+{"title":"Dependency Inversion Principle","dg-publish":true,"tags":["coding/SOLID"],"language":"pl","permalink":"/coding/general/dependency-inversion-principle/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/general/SOLID\|SOLID]]
