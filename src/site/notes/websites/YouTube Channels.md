@@ -1,5 +1,5 @@
 ---
-{"title":"YouTube Channels","dg-publish":true,"tags":"websites","permalink":"/websites/you-tube-channels/","dgPassFrontmatter":true}
+{"title":"YouTube Channels","dg-publish":true,"tags":["websites"],"permalink":"/websites/you-tube-channels/","dgPassFrontmatter":true}
 ---
 
 up:: [[websites/Websites\|websites]]
