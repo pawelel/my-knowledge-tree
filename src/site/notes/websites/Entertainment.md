@@ -1,5 +1,5 @@
 ---
-{"title":"Entertainment","dg-publish":true,"tags":"websites","permalink":"/websites/entertainment/","dgPassFrontmatter":true}
+{"title":"Entertainment","dg-publish":true,"tags":["websites"],"permalink":"/websites/entertainment/","dgPassFrontmatter":true}
 ---
 
 up:: [[websites/Websites\|Websites]]
