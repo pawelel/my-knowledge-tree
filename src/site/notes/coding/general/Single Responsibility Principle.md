@@ -1,5 +1,5 @@
 ---
-{"title":"Single Responsibility Principle","dg-publish":true,"tags":"coding/SOLID","permalink":"/coding/general/single-responsibility-principle/","dgPassFrontmatter":true}
+{"title":"Single Responsibility Principle","dg-publish":true,"tags":["coding/SOLID"],"permalink":"/coding/general/single-responsibility-principle/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/general/SOLID\|SOLID]]
