@@ -1,5 +1,5 @@
 ---
-{"title":"Update locked properties of a file","dg-publish":true,"tags":"coding/PowerAutomate","language":"en","permalink":"/coding/power-automate/update-locked-properties-of-a-file/","dgPassFrontmatter":true}
+{"title":"Update locked properties of a file","dg-publish":true,"tags":["coding/PowerAutomate"],"language":"en","permalink":"/coding/power-automate/update-locked-properties-of-a-file/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/PowerAutomate/PowerAutomate\|PowerAutomate]]
