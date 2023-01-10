@@ -1,5 +1,5 @@
 ---
-{"title":"React","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/react/react/","dgPassFrontmatter":true}
+{"title":"React","dg-publish":true,"tags":["coding"],"language":"en","permalink":"/coding/react/react/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/general/Coding\|Coding]]
