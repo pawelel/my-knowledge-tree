@@ -1,5 +1,5 @@
 ---
-{"title":"PKM MOC","dg-publish":true,"tags":"software","language":"en","permalink":"/software/pkm/pkm/","dgPassFrontmatter":true}
+{"title":"PKM MOC","dg-publish":true,"tags":["software"],"language":"en","permalink":"/software/pkm/pkm/","dgPassFrontmatter":true}
 ---
 
 up:: [[software/Software\|Software]]
