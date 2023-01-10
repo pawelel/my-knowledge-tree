@@ -1,5 +1,5 @@
 ---
-{"title":"Obsidian - Exclude Template Tags from Tag List","dg-publish":true,"tags":"software/PKM","language":"en","permalink":"/software/pkm/obsidian-exclude-template-tags-from-tag-list/","dgPassFrontmatter":true}
+{"title":"Obsidian - Exclude Template Tags from Tag List","dg-publish":true,"tags":["software/PKM"],"language":"en","permalink":"/software/pkm/obsidian-exclude-template-tags-from-tag-list/","dgPassFrontmatter":true}
 ---
 
 up:: [[software/PKM/PKM\|PKM]]
