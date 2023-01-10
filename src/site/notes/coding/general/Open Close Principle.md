@@ -1,5 +1,5 @@
 ---
-{"title":"Open Close Principle","dg-publish":true,"tags":"coding/SOLID","permalink":"/coding/general/open-close-principle/","dgPassFrontmatter":true}
+{"title":"Open Close Principle","dg-publish":true,"tags":["coding/SOLID"],"permalink":"/coding/general/open-close-principle/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/general/SOLID\|SOLID]]
