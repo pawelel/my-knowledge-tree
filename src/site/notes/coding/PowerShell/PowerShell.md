@@ -1,5 +1,5 @@
 ---
-{"title":"PowerShell","dg-publish":true,"tags":"coding","language":"en","permalink":"/coding/power-shell/power-shell/","dgPassFrontmatter":true}
+{"title":"PowerShell","dg-publish":true,"tags":["coding"],"language":"en","permalink":"/coding/power-shell/power-shell/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/general/Coding\|Coding]]
