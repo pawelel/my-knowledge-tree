@@ -1,5 +1,5 @@
 ---
-{"title":"Excel","dg-publish":true,"tags":"software","language":"en","permalink":"/software/excel/","dgPassFrontmatter":true}
+{"title":"Excel","dg-publish":true,"tags":["software"],"language":"en","permalink":"/software/excel/","dgPassFrontmatter":true}
 ---
 
 up:: [[software/Software\|Software]]
