@@ -1,5 +1,5 @@
 ---
-{"title":"Test number as string","dg-publish":true,"tags":"coding/PowerAutomate","language":"en","permalink":"/coding/power-automate/test-number-as-string/","dgPassFrontmatter":true}
+{"title":"Test number as string","dg-publish":true,"tags":["coding/PowerAutomate"],"language":"en","permalink":"/coding/power-automate/test-number-as-string/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/PowerAutomate/PowerAutomate\|PowerAutomate]]
