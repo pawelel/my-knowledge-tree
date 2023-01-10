@@ -1,5 +1,5 @@
 ---
-{"title":"How to Feel Less Anxious","dg-publish":true,"tags":"productivity","language":"en","permalink":"/productivity/how-to-feel-less-anxious/","dgPassFrontmatter":true}
+{"title":"How to Feel Less Anxious","dg-publish":true,"tags":["productivity"],"language":"en","permalink":"/productivity/how-to-feel-less-anxious/","dgPassFrontmatter":true}
 ---
 
 up:: [[productivity/Productivity\|Productivity]]
