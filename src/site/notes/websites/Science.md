@@ -1,5 +1,5 @@
 ---
-{"title":"Science","dg-publish":true,"tags":"websites","language":"en","permalink":"/websites/science/","dgPassFrontmatter":true}
+{"title":"Science","dg-publish":true,"tags":["websites"],"language":"en","permalink":"/websites/science/","dgPassFrontmatter":true}
 ---
 
 up:: [[websites/Websites\|Websites]]
