@@ -1,5 +1,5 @@
 ---
-{"title":"Handle Null In JSON","dg-publish":true,"tags":"coding/PowerAutomate","language":"en","permalink":"/coding/power-automate/handle-null-in-json/","dgPassFrontmatter":true}
+{"title":"Handle Null In JSON","dg-publish":true,"tags":["coding/PowerAutomate"],"language":"en","permalink":"/coding/power-automate/handle-null-in-json/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/PowerAutomate/PowerAutomate\|PowerAutomate]]
