@@ -1,5 +1,5 @@
 ---
-{"title":"Conquer Prokrastination","dg-publish":true,"tags":"productivity","language":"en","permalink":"/productivity/conquer-prokrastination/","dgPassFrontmatter":true}
+{"title":"Conquer Prokrastination","dg-publish":true,"tags":["productivity"],"language":"en","permalink":"/productivity/conquer-prokrastination/","dgPassFrontmatter":true}
 ---
 
 up:: [[productivity/Productivity\|Productivity]]
