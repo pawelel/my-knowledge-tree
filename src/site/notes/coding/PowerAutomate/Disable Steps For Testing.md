@@ -1,5 +1,5 @@
 ---
-{"title":"Disable Steps For Testing","dg-publish":true,"tags":"coding/PowerAutomate","language":"en","permalink":"/coding/power-automate/disable-steps-for-testing/","dgPassFrontmatter":true}
+{"title":"Disable Steps For Testing","dg-publish":true,"tags":["coding/PowerAutomate"],"language":"en","permalink":"/coding/power-automate/disable-steps-for-testing/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/PowerAutomate/PowerAutomate\|PowerAutomate]]
