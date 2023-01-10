@@ -1,5 +1,5 @@
 ---
-{"title":"Obsidian","dg-publish":true,"tags":"software/PKM","language":"en","permalink":"/software/pkm/obsidian/","dgPassFrontmatter":true}
+{"title":"Obsidian","dg-publish":true,"tags":["software/PKM"],"language":"en","permalink":"/software/pkm/obsidian/","dgPassFrontmatter":true}
 ---
 
 up:: [[software/PKM/PKM\|PKM]]
