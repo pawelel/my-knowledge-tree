@@ -1,5 +1,5 @@
 ---
-{"title":"IKIGAI Your Purpose of Life","dg-publish":true,"tags":"productivity","permalink":"/productivity/ikigai-your-purpose-of-life/","dgPassFrontmatter":true}
+{"title":"IKIGAI Your Purpose of Life","dg-publish":true,"tags":["productivity"],"permalink":"/productivity/ikigai-your-purpose-of-life/","dgPassFrontmatter":true}
 ---
 
 up:: [[productivity/Productivity\|Productivity]]
