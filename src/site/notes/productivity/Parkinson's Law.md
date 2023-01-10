@@ -1,5 +1,5 @@
 ---
-{"title":"Parkinson's Law","dg-publish":true,"tags":"productivity","permalink":"/productivity/parkinson-s-law/","dgPassFrontmatter":true}
+{"title":"Parkinson's Law","dg-publish":true,"tags":["productivity"],"permalink":"/productivity/parkinson-s-law/","dgPassFrontmatter":true}
 ---
 
 up:: [[productivity/Productivity\|Productivity]]
