@@ -1,5 +1,5 @@
 ---
-{"title":"Nesting Limit","dg-publish":true,"tags":"coding/PowerAutomate","language":"en","permalink":"/coding/power-automate/nesting-limit/","dgPassFrontmatter":true}
+{"title":"Nesting Limit","dg-publish":true,"tags":["coding/PowerAutomate"],"language":"en","permalink":"/coding/power-automate/nesting-limit/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/PowerAutomate/PowerAutomate\|PowerAutomate]]
