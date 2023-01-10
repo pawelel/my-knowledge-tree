@@ -1,5 +1,5 @@
 ---
-{"title":"Liskov Substitution Principle","dg-publish":true,"tags":"coding/SOLID","language":"pl","permalink":"/coding/general/liskov-substitution-principle/","dgPassFrontmatter":true}
+{"title":"Liskov Substitution Principle","dg-publish":true,"tags":["coding/SOLID"],"language":"pl","permalink":"/coding/general/liskov-substitution-principle/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/general/SOLID\|SOLID]]
