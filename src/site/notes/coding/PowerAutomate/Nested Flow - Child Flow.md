@@ -1,5 +1,5 @@
 ---
-{"title":"Nested Flow - Child Flow","dg-publish":true,"tags":"coding/PowerAutomate","language":"en","permalink":"/coding/power-automate/nested-flow-child-flow/","dgPassFrontmatter":true}
+{"title":"Nested Flow - Child Flow","dg-publish":true,"tags":["coding/PowerAutomate"],"language":"en","permalink":"/coding/power-automate/nested-flow-child-flow/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/PowerAutomate/PowerAutomate\|PowerAutomate]]
