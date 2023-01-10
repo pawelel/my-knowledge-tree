@@ -1,5 +1,5 @@
 ---
-{"title":"Or function","dg-publish":true,"tags":"coding/PowerAutomate","language":"en","permalink":"/coding/power-automate/or-function/","dgPassFrontmatter":true}
+{"title":"Or function","dg-publish":true,"tags":["coding/PowerAutomate"],"language":"en","permalink":"/coding/power-automate/or-function/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/PowerAutomate/PowerAutomate\|PowerAutomate]]
