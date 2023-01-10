@@ -1,5 +1,5 @@
 ---
-{"title":"Jak studiować przy pracy na pełnym etacie","dg-publish":true,"tags":"productivity","language":"pl","permalink":"/productivity/jak-studiowac-przy-pracy-na-pelnym-etacie/","dgPassFrontmatter":true}
+{"title":"Jak studiować przy pracy na pełnym etacie","dg-publish":true,"tags":["productivity"],"language":"pl","permalink":"/productivity/jak-studiowac-przy-pracy-na-pelnym-etacie/","dgPassFrontmatter":true}
 ---
 
 up:: [[productivity/Productivity\|Productivity]]
