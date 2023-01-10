@@ -1,5 +1,5 @@
 ---
-{"title":"Entity Framework Core","dg-publish":true,"tags":"coding/CSharp","language":"en","permalink":"/coding/c-sharp/entity-framework-core/","dgPassFrontmatter":true}
+{"title":"Entity Framework Core","dg-publish":true,"tags":["coding/CSharp"],"language":"en","permalink":"/coding/c-sharp/entity-framework-core/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/CSharp/CSharp\|CSharp]]
