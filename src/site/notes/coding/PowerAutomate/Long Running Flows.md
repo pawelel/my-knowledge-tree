@@ -1,5 +1,5 @@
 ---
-{"title":"Long Running Flows","dg-publish":true,"tags":"coding/PowerAutomate","language":"en","permalink":"/coding/power-automate/long-running-flows/","dgPassFrontmatter":true}
+{"title":"Long Running Flows","dg-publish":true,"tags":["coding/PowerAutomate"],"language":"en","permalink":"/coding/power-automate/long-running-flows/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/PowerAutomate/PowerAutomate\|PowerAutomate]]
