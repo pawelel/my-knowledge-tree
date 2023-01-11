@@ -41,3 +41,4 @@ up:: [[coding/general/Coding\|Coding]]
 [Filter Query for SharePoint Get Items action in Power Automate MADE EASY! - YouTube](https://www.youtube.com/watch?app=desktop&v=I8FdUmECAn8)
 [Power Automate: combine values from an Array without an Apply to each » Knowhere365](https://knowhere365.space/power-automate-combine-values-from-an-array-without-an-apply-to-each/)
 [How to overwrite files using the create file action in Power Automate – SharePoint Stuff](https://sharepointstuff.com/2022/04/20/overwrite-files-using-create-file-action/)
+[How To Parse Emails and Populate SharePoint Lists Using Power Automate - YouTube](https://www.youtube.com/watch?v=iA3dYLQbeIw)
