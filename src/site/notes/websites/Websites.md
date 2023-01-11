@@ -9,10 +9,10 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 
 | Title                                              | Language |
 | -------------------------------------------------- | -------- |
-| [[websites/Entertainment\|Entertainment]]       | \-       |
 | [[websites/YouTube Channels\|YouTube Channels]] | \-       |
-| [[websites/Online Tools\|Online Tools]]         | en       |
+| [[websites/Entertainment\|Entertainment]]       | \-       |
 | [[websites/Science\|Science]]                   | en       |
-| [[websites/Languages\|Languages]]               | \-       |
+| [[websites/Online Tools\|Online Tools]]         | en       |
 | [[websites/Drawing\|Drawing]]                   | en       |
+| [[websites/Languages\|Languages]]               | \-       |
 
