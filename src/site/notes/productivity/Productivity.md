@@ -10,6 +10,8 @@ This category contains definitions, theories and advices connected with producti
 ## Articles
 | Title                                                                                                    | Language |
 | -------------------------------------------------------------------------------------------------------- | -------- |
+| [[productivity/Use Procrastination To Your Advantage\|Use Procrastination To Your Advantage]]         | en       |
+| [[productivity/The Cookie Jar Method by David Goggins\|The Cookie Jar Method by David Goggins]]       | en       |
 | [[productivity/Gall's Law\|Gall's Law]]                                                               | \-       |
 | [[productivity/Turn Your Life into a Game\|Turn Your Life into a Game]]                               | en       |
 | [[productivity/SMART Goals\|SMART Goals]]                                                             | en       |
