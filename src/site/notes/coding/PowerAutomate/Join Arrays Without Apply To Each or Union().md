@@ -17,3 +17,6 @@ slice(string(body('Select_new_invoices')), 1, -1)
 ```powerquery
 concat('[', outputs('Compose_-_convert_to_string_invoices_from_a_file'), ',' , outputs('Compose_-_convert_to_string_invoices_from_a_list'), ']')
 ```
+```powerquery
+json(outputs('Compose_Concat'))
+```
