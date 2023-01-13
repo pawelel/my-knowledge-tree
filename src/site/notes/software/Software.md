@@ -1,7 +1,7 @@
 ---
-title: Software MOC
-dg-publish: true
+{"title":"Software MOC","dg-publish":true,"permalink":"/software/software/","dgPassFrontmatter":true}
 ---
+
 up:: [[My Knowledge Tree\|My Knowledge Tree]]
 
 ## What this category is about
@@ -13,15 +13,15 @@ Here you can find tips, links to tutorials about software I use, sometimes revie
 | Title                                                                                                              | Language |
 | ------------------------------------------------------------------------------------------------------------------ | -------- |
 | [[software/Visual Studio Code\|Visual Studio Code]]                                                             | en       |
-| [[software/PowerToys\|PowerToys]]                                                                               | en       |
-| [[software/Affinity Designer\|Affinity Designer]]                                                               | en       |
 | [[software/SharePoint\|SharePoint]]                                                                             | en       |
 | [[software/PowerPoint\|PowerPoint]]                                                                             | en       |
+| [[software/PowerToys\|PowerToys]]                                                                               | en       |
+| [[software/Excel\|Excel]]                                                                                       | en       |
+| [[software/Affinity Designer\|Affinity Designer]]                                                               | en       |
 | [[software/PKM/PKM\|PKM]]                                                                                       | en       |
 | [[software/PKM/Obsidian\|Obsidian]]                                                                             | en       |
 | [[software/PKM/Obsidian - Exclude Template Tags from Tag List\|Obsidian - Exclude Template Tags from Tag List]] | en       |
 | [[software/PKM/Logseq\|Logseq]]                                                                                 | en       |
-| [[software/Excel\|Excel]]                                                                                       | en       |
 
 
 ## Additional Links
