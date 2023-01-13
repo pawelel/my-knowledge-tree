@@ -6,22 +6,23 @@ up:: [[coding/general/Coding\|Coding]]
 
 ## Articles
 
-| Title                                                                                                        | Language |
-| ------------------------------------------------------------------------------------------------------------ | -------- |
-| [[coding/PowerAutomate/Remove Null Values From Compose\|Remove Null Values From Compose]]                 | en       |
-| [[coding/PowerAutomate/Nesting Limit\|Nesting Limit]]                                                     | en       |
-| [[coding/PowerAutomate/Nested Flow - Child Flow\|Nested Flow - Child Flow]]                               | en       |
-| [[coding/PowerAutomate/Or function\|Or function]]                                                         | en       |
-| [[coding/PowerAutomate/Update JSON Property\|Update JSON Property]]                                       | en       |
-| [[coding/PowerAutomate/Disable Steps For Testing\|Disable Steps For Testing]]                             | en       |
-| [[coding/PowerAutomate/Handle Null In JSON\|Handle Null In JSON]]                                         | en       |
-| [[coding/PowerAutomate/Long Running Flows\|Long Running Flows]]                                           | en       |
-| [[coding/PowerAutomate/Trigger Flow On Column Value Change\|Trigger Flow On Column Value Change]]         | en       |
-| [[coding/PowerAutomate/Extract Date From File Name\|Extract Date From File Name]]                         | en       |
-| [[coding/PowerAutomate/Update locked properties of a file\|Update locked properties of a file]]           | en       |
-| [[coding/PowerAutomate/Test number as string\|Test number as string]]                                     | en       |
-| [[coding/PowerAutomate/Pass date to SharePoint list using json\|Pass date to SharePoint list using json]] | en       |
-| [[coding/PowerAutomate/Get Excel column names\|Get Excel column names]]                                   | en       |
+| Title                                                                                                                  | Language |
+| ---------------------------------------------------------------------------------------------------------------------- | -------- |
+| [[coding/PowerAutomate/Join Arrays Without Apply To Each or Union()\|Join Arrays Without Apply To Each or Union()]] | en       |
+| [[coding/PowerAutomate/Remove Null Values From Compose\|Remove Null Values From Compose]]                           | en       |
+| [[coding/PowerAutomate/Nesting Limit\|Nesting Limit]]                                                               | en       |
+| [[coding/PowerAutomate/Nested Flow - Child Flow\|Nested Flow - Child Flow]]                                         | en       |
+| [[coding/PowerAutomate/Or function\|Or function]]                                                                   | en       |
+| [[coding/PowerAutomate/Update JSON Property\|Update JSON Property]]                                                 | en       |
+| [[coding/PowerAutomate/Disable Steps For Testing\|Disable Steps For Testing]]                                       | en       |
+| [[coding/PowerAutomate/Handle Null In JSON\|Handle Null In JSON]]                                                   | en       |
+| [[coding/PowerAutomate/Long Running Flows\|Long Running Flows]]                                                     | en       |
+| [[coding/PowerAutomate/Trigger Flow On Column Value Change\|Trigger Flow On Column Value Change]]                   | en       |
+| [[coding/PowerAutomate/Extract Date From File Name\|Extract Date From File Name]]                                   | en       |
+| [[coding/PowerAutomate/Update locked properties of a file\|Update locked properties of a file]]                     | en       |
+| [[coding/PowerAutomate/Test number as string\|Test number as string]]                                               | en       |
+| [[coding/PowerAutomate/Pass date to SharePoint list using json\|Pass date to SharePoint list using json]]           | en       |
+| [[coding/PowerAutomate/Get Excel column names\|Get Excel column names]]                                             | en       |
 
 ## Additional Links
 
@@ -43,3 +44,5 @@ up:: [[coding/general/Coding\|Coding]]
 [How to overwrite files using the create file action in Power Automate – SharePoint Stuff](https://sharepointstuff.com/2022/04/20/overwrite-files-using-create-file-action/)
 [How To Parse Emails and Populate SharePoint Lists Using Power Automate - YouTube](https://www.youtube.com/watch?v=iA3dYLQbeIw)
 [Restrict the flow for only one run at a time - Power Platform Community](https://powerusers.microsoft.com/t5/General-Power-Automate/Restrict-the-flow-for-only-one-run-at-a-time/td-p/1441250)
+[Get and Remove Duplicates - Power Platform Community](https://powerusers.microsoft.com/t5/Power-Automate-Cookbook/Get-and-Remove-Duplicates/m-p/1662426) - if you need to quickly filter duplicates without apply to each
+
