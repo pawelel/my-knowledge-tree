@@ -45,4 +45,5 @@ up:: [[coding/general/Coding\|Coding]]
 [How To Parse Emails and Populate SharePoint Lists Using Power Automate - YouTube](https://www.youtube.com/watch?v=iA3dYLQbeIw)
 [Restrict the flow for only one run at a time - Power Platform Community](https://powerusers.microsoft.com/t5/General-Power-Automate/Restrict-the-flow-for-only-one-run-at-a-time/td-p/1441250)
 [Get and Remove Duplicates - Power Platform Community](https://powerusers.microsoft.com/t5/Power-Automate-Cookbook/Get-and-Remove-Duplicates/m-p/1662426) - if you need to quickly filter duplicates without apply to each
+[Solved: Opposite of intersection exist in PA? - Power Platform Community](https://powerusers.microsoft.com/t5/Building-Flows/Opposite-of-intersection-exist-in-PA/td-p/1321317)
 
