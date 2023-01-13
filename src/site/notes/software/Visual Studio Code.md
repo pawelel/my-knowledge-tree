@@ -21,3 +21,17 @@ To switch between terminal and editor you can use `Ctrl` + `J` or `TAB` + \`.
 
 ## Find file
 Press `Ctrl`+ `P` and start typing file name.
+
+## YAML frontmatter snippet - add file and folder name
+The code below allows you to insert folder name as a tag and file name as title using command: `Ctrl`+`Space` and `T`
+```json
+"yaml title": {
+		"prefix": "t",
+		"body": ["---",
+			"title: $0${TM_FILENAME_BASE}",
+			"tags: ${TM_DIRECTORY/^.+\\\\(.*)$/$1/}",
+			"---"
+		],
+		"description": "yaml title"
+	}
+```
