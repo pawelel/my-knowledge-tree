@@ -6,23 +6,24 @@ up:: [[coding/general/Coding\|Coding]]
 
 ## Articles
 
-| Title                                                                                                                  | Language |
-| ---------------------------------------------------------------------------------------------------------------------- | -------- |
-| [[coding/PowerAutomate/Join Arrays Without Apply To Each or Union()\|Join Arrays Without Apply To Each or Union()]] | en       |
-| [[coding/PowerAutomate/Remove Null Values From Compose\|Remove Null Values From Compose]]                           | en       |
-| [[coding/PowerAutomate/Nesting Limit\|Nesting Limit]]                                                               | en       |
-| [[coding/PowerAutomate/Nested Flow - Child Flow\|Nested Flow - Child Flow]]                                         | en       |
-| [[coding/PowerAutomate/Or function\|Or function]]                                                                   | en       |
-| [[coding/PowerAutomate/Update JSON Property\|Update JSON Property]]                                                 | en       |
-| [[coding/PowerAutomate/Disable Steps For Testing\|Disable Steps For Testing]]                                       | en       |
-| [[coding/PowerAutomate/Handle Null In JSON\|Handle Null In JSON]]                                                   | en       |
-| [[coding/PowerAutomate/Long Running Flows\|Long Running Flows]]                                                     | en       |
-| [[coding/PowerAutomate/Trigger Flow On Column Value Change\|Trigger Flow On Column Value Change]]                   | en       |
-| [[coding/PowerAutomate/Extract Date From File Name\|Extract Date From File Name]]                                   | en       |
-| [[coding/PowerAutomate/Update locked properties of a file\|Update locked properties of a file]]                     | en       |
-| [[coding/PowerAutomate/Test number as string\|Test number as string]]                                               | en       |
-| [[coding/PowerAutomate/Pass date to SharePoint list using json\|Pass date to SharePoint list using json]]           | en       |
-| [[coding/PowerAutomate/Get Excel column names\|Get Excel column names]]                                             | en       |
+| Title                                                                                                                              | Language |
+| ---------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [[coding/PowerAutomate/Xpath Snippets\|Xpath Snippets]]                                                                         | en       |
+| [[coding/PowerAutomate/Join Arrays Without Apply To Each or Union()\|Join Arrays Without Apply To Each or Union()]]             | en       |
+| [[coding/PowerAutomate/Remove Null Values From Compose\|Remove Null Values From Compose]]                                       | en       |
+| [[coding/PowerAutomate/Nesting Limit\|Nesting Limit]]                                                                           | en       |
+| [[coding/PowerAutomate/Nested Flow - Child Flow\|Nested Flow - Child Flow]]                                                     | en       |
+| [[coding/PowerAutomate/Or function\|Or function]]                                                                               | en       |
+| [[coding/PowerAutomate/Update JSON Property - addProperty and setProperty\|Update JSON Property - addProperty and setProperty]] | en       |
+| [[coding/PowerAutomate/Disable Steps For Testing\|Disable Steps For Testing]]                                                   | en       |
+| [[coding/PowerAutomate/Handle Null In JSON\|Handle Null In JSON]]                                                               | en       |
+| [[coding/PowerAutomate/Long Running Flows\|Long Running Flows]]                                                                 | en       |
+| [[coding/PowerAutomate/Trigger Flow On Column Value Change\|Trigger Flow On Column Value Change]]                               | en       |
+| [[coding/PowerAutomate/Extract Date From File Name\|Extract Date From File Name]]                                               | en       |
+| [[coding/PowerAutomate/Update locked properties of a file\|Update locked properties of a file]]                                 | en       |
+| [[coding/PowerAutomate/Test number as string\|Test number as string]]                                                           | en       |
+| [[coding/PowerAutomate/Pass date to SharePoint list using json\|Pass date to SharePoint list using json]]                       | en       |
+| [[coding/PowerAutomate/Get Excel column names\|Get Excel column names]]                                                         | en       |
 
 ## Additional Links
 
@@ -46,4 +47,4 @@ up:: [[coding/general/Coding\|Coding]]
 [Restrict the flow for only one run at a time - Power Platform Community](https://powerusers.microsoft.com/t5/General-Power-Automate/Restrict-the-flow-for-only-one-run-at-a-time/td-p/1441250)
 [Get and Remove Duplicates - Power Platform Community](https://powerusers.microsoft.com/t5/Power-Automate-Cookbook/Get-and-Remove-Duplicates/m-p/1662426) - if you need to quickly filter duplicates without apply to each
 [Solved: Opposite of intersection exist in PA? - Power Platform Community](https://powerusers.microsoft.com/t5/Building-Flows/Opposite-of-intersection-exist-in-PA/td-p/1321317)
-
+[How to merge two arrays in Power Automate by a common property using the xpath expression. - YouTube](https://www.youtube.com/watch?v=QSF6dNkSKSA)
