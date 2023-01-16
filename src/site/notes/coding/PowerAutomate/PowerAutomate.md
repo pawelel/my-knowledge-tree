@@ -8,6 +8,7 @@ up:: [[coding/general/Coding\|Coding]]
 
 | Title                                                                                                                              | Language |
 | ---------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [[coding/PowerAutomate/Questions\|Questions]]                                                                                   | en       |
 | [[coding/PowerAutomate/Xpath Snippets\|Xpath Snippets]]                                                                         | en       |
 | [[coding/PowerAutomate/Join Arrays Without Apply To Each or Union()\|Join Arrays Without Apply To Each or Union()]]             | en       |
 | [[coding/PowerAutomate/Remove Null Values From Compose\|Remove Null Values From Compose]]                                       | en       |
