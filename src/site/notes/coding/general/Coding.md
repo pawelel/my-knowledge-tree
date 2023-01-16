@@ -47,7 +47,8 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 | [Courses Web](https://coursesweb.net/)                                                                        | PHP-MySQL JavaScript Node.js Ajax HTML CSS                       |     |
 | [MDN Web Docs](https://developer.mozilla.org/en-US/)                                                          | Mozilla Developer Network                                        |     |
 | [Foundation](https://get.foundation/frameworks-docs.html)                                                     | Foundation Documentation                                         |     |
-| [PHP: Language Reference](https://www.php.net/manual/en/langref.php)                                          | Official PHM language reference                                                                 |     |
+| [PHP: Language Reference](https://www.php.net/manual/en/langref.php)                                          | Official PHM language reference                                  |     |
+| [Let's POWER Automate - From no-code to low-code](https://tomriha.com/)                                       | Tips related to Power Automate                                                                 |     |
 
 
 
