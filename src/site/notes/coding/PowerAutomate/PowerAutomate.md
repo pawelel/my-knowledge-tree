@@ -8,6 +8,7 @@ up:: [[coding/general/Coding\|Coding]]
 
 | Title                                                                                                                              | Language |
 | ---------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [[coding/PowerAutomate/Generate Document Libraries\|Generate Document Libraries]]                                               | en       |
 | [[coding/PowerAutomate/Questions\|Questions]]                                                                                   | en       |
 | [[coding/PowerAutomate/Xpath Snippets\|Xpath Snippets]]                                                                         | en       |
 | [[coding/PowerAutomate/Join Arrays Without Apply To Each or Union()\|Join Arrays Without Apply To Each or Union()]]             | en       |
@@ -49,3 +50,5 @@ up:: [[coding/general/Coding\|Coding]]
 [Get and Remove Duplicates - Power Platform Community](https://powerusers.microsoft.com/t5/Power-Automate-Cookbook/Get-and-Remove-Duplicates/m-p/1662426) - if you need to quickly filter duplicates without apply to each
 [Solved: Opposite of intersection exist in PA? - Power Platform Community](https://powerusers.microsoft.com/t5/Building-Flows/Opposite-of-intersection-exist-in-PA/td-p/1321317)
 [How to merge two arrays in Power Automate by a common property using the xpath expression. - YouTube](https://www.youtube.com/watch?v=QSF6dNkSKSA)
+[Connection References Dependency Missing in Solution - Power Automate Flow - YouTube](https://www.youtube.com/watch?v=S_0o1q-uSBw)
+[How to Install / Update / Uninstall SharePoint Online PowerShell Module? - SharePoint Diary](https://www.sharepointdiary.com/2018/12/install-update-uninstall-sharepoint-online-powershell-module.html)
