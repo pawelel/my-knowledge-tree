@@ -23,3 +23,6 @@ up:: [[coding/general/Coding\|Coding]]
 | -------------------------------------------------------------------------------------------------------- | -------------------------------------- |
 | [Programowanie C#](http://kaj.uniwersytetradom.pl/cshn.html)                                             | Opisany problem plecakowy              |
 | [Programowanie dynamiczne 2 - Algorytmy dla początkujących](https://www.youtube.com/watch?v=kXEBc3d9ft4) | Ćwiczenia z programowania dynamicznego |
+
+## Others
+[c# - Error while setting a Datacontext for a UserControl in WPF - Stack Overflow](https://stackoverflow.com/questions/2094754/error-while-setting-a-datacontext-for-a-usercontrol-in-wpf)
