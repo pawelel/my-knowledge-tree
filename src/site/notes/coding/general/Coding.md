@@ -14,6 +14,7 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 
 | Title                                                                                                                                        | Language |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [[coding/CSharp/CSharp\|CSharp]]                                                                                                          | \-       |
 | [[coding/PowerAutomate/PowerAutomate\|PowerAutomate]]                                                                                     | en       |
 | [[coding/PowerApps/PowerApps\|PowerApps]]                                                                                                 | en       |
 | [[coding/Angular/Angular\|Angular]]                                                                                                       | en       |
@@ -26,7 +27,6 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 | [[coding/React/React\|React]]                                                                                                             | en       |
 | [[coding/PowerShell/PowerShell\|PowerShell]]                                                                                              | en       |
 | [[coding/general/Dependency Injection\|Dependency Injection]]                                                                             | \-       |
-| [[coding/CSharp/CSharp\|CSharp]]                                                                                                          | \-       |
 | [[coding/general/72 Tricks for .NET Developers\|72 Tricks for .NET Developers]]                                                           | en       |
 | [[coding/general/3 categories of projects to create for developer portfolio\|3 categories of projects to create for developer portfolio]] | en       |
 
