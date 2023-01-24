@@ -16,7 +16,6 @@ up:: [[coding/general/Coding\|Coding]]
 | [pinvoke.net: the interop wiki!](http://pinvoke.net/index.aspx)                                                       | A wiki for .NET developers that can be used as Visual Studio Add-in |
 | [DocuPanel tutorial](https://www.codeproject.com/Articles/1177702/Display-Your-Markdown-Documentation-using-DocuPane) | Display Your Markdown Documentation using DocuPanel - CodeProject   |
 
-
 ## PL
 
 | Website                                                                                                  | Purpose                                |
@@ -25,4 +24,13 @@ up:: [[coding/general/Coding\|Coding]]
 | [Programowanie dynamiczne 2 - Algorytmy dla początkujących](https://www.youtube.com/watch?v=kXEBc3d9ft4) | Ćwiczenia z programowania dynamicznego |
 
 ## Others
-[c# - Error while setting a Datacontext for a UserControl in WPF - Stack Overflow](https://stackoverflow.com/questions/2094754/error-while-setting-a-datacontext-for-a-usercontrol-in-wpf)
+[c# - Error while setting a Datacontext for a UserControl in WPF - Stack Overflow](https://stackoverflow.com/questions/2094754/error-while-setting-a-datacontext-for-a-usercontrol-in-wpf) - VS 22 IntelliSense can't see DataContext, but running application can.
+[c# - Binding objects defined in code-behind - Stack Overflow](https://stackoverflow.com/questions/1705322/binding-objects-defined-in-code-behind/1705354#1705354)
+The issue can be solved by adding the following line to the XAML file:
+
+```xaml
+xmlns:local="clr-namespace:MyNamespace" xmlns:core="clr-namespace:MyNamespace.Core;assembly=MyNamespace.Core" d:DataContext="{d:DesignInstance Type=core:MyViewModel}"
+```
+[Adding xUnit Test to your .NET MAUI Project | by Cedric Gabrang | Medium](https://cedricgabrang.medium.com/adding-xunit-test-to-your-net-maui-project-ee36c00a8542)
+[Use Windows Subsystem for Android in Windows 11 (non-US edition)](https://jkdev.me/use-windows-subsystem-for-android-in-windows-11/)
+[Creating Device-Specific Views in .NET MAUI - YouTube](https://www.youtube.com/watch?v=7oVrdUELuYA)
