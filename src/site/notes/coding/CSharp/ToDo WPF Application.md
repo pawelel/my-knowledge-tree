@@ -95,6 +95,7 @@ public class WorkTasksViewModel
     public DateTime CreatedDate { get; set; }
 }
 ```
+
 In the BaseViewModel.cs add the following code:
 
 ```csharp
