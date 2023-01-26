@@ -34,4 +34,4 @@ xmlns:local="clr-namespace:MyNamespace" xmlns:core="clr-namespace:MyNamespace.Co
 [Adding xUnit Test to your .NET MAUI Project | by Cedric Gabrang | Medium](https://cedricgabrang.medium.com/adding-xunit-test-to-your-net-maui-project-ee36c00a8542)
 [Use Windows Subsystem for Android in Windows 11 (non-US edition)](https://jkdev.me/use-windows-subsystem-for-android-in-windows-11/)
 [Creating Device-Specific Views in .NET MAUI - YouTube](https://www.youtube.com/watch?v=7oVrdUELuYA)
-[Foreign keys in local databases with SQLite-net and .NET MAUI - DEV Community 👩‍💻👨‍💻](https://dev.to/icebeam7/foreign-keys-in-local-databases-with-sqlite-net-and-net-maui-22a1)
+[Learn Live - Store local data with SQLite in a .NET MAUI app - YouTube](https://www.youtube.com/watch?v=nK0rtoU_D2Q)
