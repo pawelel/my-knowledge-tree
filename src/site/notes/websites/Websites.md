@@ -8,8 +8,8 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 
 | Title                                              | Language |
 | -------------------------------------------------- | -------- |
-| [[websites/Entertainment\|Entertainment]]       | \-       |
 | [[websites/YouTube Channels\|YouTube Channels]] | \-       |
+| [[websites/Entertainment\|Entertainment]]       | \-       |
 | [[websites/Online Tools\|Online Tools]]         | en       |
 | [[websites/Science\|Science]]                   | en       |
 | [[websites/Languages\|Languages]]               | \-       |
