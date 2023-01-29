@@ -24,8 +24,8 @@ up:: [[coding/general/Coding\|Coding]]
 | [[coding/PowerAutomate/Extract Date From File Name\|Extract Date From File Name]]                                               | en       |
 | [[coding/PowerAutomate/Get Excel column names\|Get Excel column names]]                                                         | en       |
 | [[coding/PowerAutomate/Pass date to SharePoint list using json\|Pass date to SharePoint list using json]]                       | en       |
-| [[coding/PowerAutomate/Test number as string\|Test number as string]]                                                           | en       |
 | [[coding/PowerAutomate/Update locked properties of a file\|Update locked properties of a file]]                                 | en       |
+| [[coding/PowerAutomate/Test number as string\|Test number as string]]                                                           | en       |
 
 ## Additional Links
 
