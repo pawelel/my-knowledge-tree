@@ -16,10 +16,10 @@ This category contains definitions, theories and advices connected with producti
 | [[productivity/Turn Your Life into a Game\|Turn Your Life into a Game]]                               | en       |
 | [[productivity/SMART Goals\|SMART Goals]]                                                             | en       |
 | [[productivity/Parkinson's Law\|Parkinson's Law]]                                                     | \-       |
+| [[productivity/How to learn faster\|How to learn faster]]                                             | en       |
 | [[productivity/Locke's Goal-Setting Theory\|Locke's Goal-Setting Theory]]                             | en       |
 | [[productivity/Jak studiować przy pracy na pełnym etacie\|Jak studiować przy pracy na pełnym etacie]] | pl       |
 | [[productivity/IKIGAI Your Purpose of Life\|IKIGAI Your Purpose of Life]]                             | \-       |
-| [[productivity/How to learn faster\|How to learn faster]]                                             | en       |
 | [[productivity/How to Feel Less Anxious\|How to Feel Less Anxious]]                                   | en       |
 | [[productivity/Conquer Prokrastination\|Conquer Prokrastination]]                                     | en       |
 
