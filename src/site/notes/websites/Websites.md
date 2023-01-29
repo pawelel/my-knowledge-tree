@@ -10,8 +10,8 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 | -------------------------------------------------- | -------- |
 | [[websites/YouTube Channels\|YouTube Channels]] | \-       |
 | [[websites/Entertainment\|Entertainment]]       | \-       |
-| [[websites/Online Tools\|Online Tools]]         | en       |
 | [[websites/Science\|Science]]                   | en       |
-| [[websites/Languages\|Languages]]               | \-       |
 | [[websites/Drawing\|Drawing]]                   | en       |
+| [[websites/Online Tools\|Online Tools]]         | en       |
+| [[websites/Languages\|Languages]]               | \-       |
 
