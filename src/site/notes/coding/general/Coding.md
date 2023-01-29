@@ -21,14 +21,14 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 | [[coding/TypeScript/TypeScript\|TypeScript]]                                                                                              | en       |
 | [[coding/general/SPA\|SPA]]                                                                                                               | en       |
 | [[coding/general/Programming Languages Based On Interests\|Programming Languages Based On Interests]]                                     | en       |
-| [[coding/general/Markdown\|Markdown]]                                                                                                     | en       |
 | [[coding/general/C4 Model\|C4 Model]]                                                                                                     | en       |
+| [[coding/general/Markdown\|Markdown]]                                                                                                     | en       |
 | [[coding/general/SOLID\|SOLID]]                                                                                                           | \-       |
-| [[coding/React/React\|React]]                                                                                                             | en       |
-| [[coding/PowerShell/PowerShell\|PowerShell]]                                                                                              | en       |
+| [[coding/general/3 categories of projects to create for developer portfolio\|3 categories of projects to create for developer portfolio]] | en       |
 | [[coding/general/Dependency Injection\|Dependency Injection]]                                                                             | \-       |
 | [[coding/general/72 Tricks for .NET Developers\|72 Tricks for .NET Developers]]                                                           | en       |
-| [[coding/general/3 categories of projects to create for developer portfolio\|3 categories of projects to create for developer portfolio]] | en       |
+| [[coding/PowerShell/PowerShell\|PowerShell]]                                                                                              | en       |
+| [[coding/React/React\|React]]                                                                                                             | en       |
 
 
 ## Additional Links
