@@ -14,6 +14,7 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 
 | Title                                                                                                                                       | Language |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [[coding/PowerShell/PowerShell\|PowerShell]]                                                                                             | en       |
 | [[coding/coding/My Projects\|My Projects]]                                                                                               | en       |
 | [[coding/CSharp/CSharp\|CSharp]]                                                                                                         | \-       |
 | [[coding/PowerAutomate/PowerAutomate\|PowerAutomate]]                                                                                    | en       |
@@ -22,14 +23,13 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 | [[coding/TypeScript/TypeScript\|TypeScript]]                                                                                             | en       |
 | [[coding/coding/SPA\|SPA]]                                                                                                               | en       |
 | [[coding/coding/Programming Languages Based On Interests\|Programming Languages Based On Interests]]                                     | en       |
-| [[coding/coding/Markdown\|Markdown]]                                                                                                     | en       |
 | [[coding/coding/C4 Model\|C4 Model]]                                                                                                     | en       |
+| [[coding/coding/Markdown\|Markdown]]                                                                                                     | en       |
 | [[coding/coding/SOLID\|SOLID]]                                                                                                           | \-       |
-| [[coding/React/React\|React]]                                                                                                            | en       |
-| [[coding/PowerShell/PowerShell\|PowerShell]]                                                                                             | en       |
-| [[coding/coding/Dependency Injection\|Dependency Injection]]                                                                             | \-       |
-| [[coding/coding/72 Tricks for .NET Developers\|72 Tricks for .NET Developers]]                                                           | en       |
 | [[coding/coding/3 categories of projects to create for developer portfolio\|3 categories of projects to create for developer portfolio]] | en       |
+| [[coding/coding/72 Tricks for .NET Developers\|72 Tricks for .NET Developers]]                                                           | en       |
+| [[coding/coding/Dependency Injection\|Dependency Injection]]                                                                             | \-       |
+| [[coding/React/React\|React]]                                                                                                            | en       |
 
 
 ## Additional Links
