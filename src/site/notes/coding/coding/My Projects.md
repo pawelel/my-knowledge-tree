@@ -34,6 +34,6 @@ The purpose of this plugin was to improve the efficiency of the first line of su
 -   Fill out a form
 -   Filter by certain conditions
 -   Locate assets based on various parameters
--   Automatic localization (Polish/English) based on browser settings
+-   Automatic localization of the interface (Polish/English) based on browser settings
 -   Export filtered data to the xlsx format
 -   Export all data
