@@ -2,17 +2,17 @@
 {"title":"Power Apps MOC","dg-publish":true,"tags":["coding"],"language":"en","permalink":"/coding/power-apps/power-apps/","dgPassFrontmatter":true}
 ---
 
-up:: [[coding/general/Coding\|Coding]]
+up:: [[coding/coding/Coding\|Coding]]
 
 ## Articles
 
 | Title                                                                                                                                                        | Language |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
 | [[coding/PowerApps/Better forms in Power Apps\|Better forms in Power Apps]]                                                                               | en       |
-| [[coding/PowerApps/Export and import SharePoint customized form between environments\|Export and import SharePoint customized form between environments]] | en       |
 | [[coding/PowerApps/Microsoft Power Platform Functional Consultant\|Microsoft Power Platform Functional Consultant]]                                       | pl       |
-| [[coding/PowerApps/With syntax\|With syntax]]                                                                                                             | en       |
 | [[coding/PowerApps/Person or Group in Power Apps\|Person or Group in Power Apps]]                                                                         | en       |
+| [[coding/PowerApps/With syntax\|With syntax]]                                                                                                             | en       |
+| [[coding/PowerApps/Export and import SharePoint customized form between environments\|Export and import SharePoint customized form between environments]] | en       |
 
 
 ## Additional Links
