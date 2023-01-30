@@ -2,7 +2,7 @@
 {"title":"Angular MOC","dg-publish":true,"tags":["coding"],"language":"en","permalink":"/coding/angular/angular/","dgPassFrontmatter":true}
 ---
 
-up:: [[coding/general/Coding\|Coding]]
+up:: [[coding/coding/Coding\|Coding]]
 
 Angular is a component-based UI framework build with [[coding/TypeScript/TypeScript\|TypeScript]] by Google.
 It features:
@@ -19,8 +19,8 @@ Angular also supports server side rendering (SSR).
 
 | Title                                                                                                              | Language |
 | ------------------------------------------------------------------------------------------------------------------ | -------- |
-| [[coding/Angular/Cannot find name Input\|Cannot find name Input]]                                               | en       |
 | [[coding/Angular/Angular for beginners Course by Santosh Yadav\|Angular for beginners Course by Santosh Yadav]] | en       |
+| [[coding/Angular/Cannot find name Input\|Cannot find name Input]]                                               | en       |
 
 
 ## Installation
