@@ -14,7 +14,7 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 
 | Title                                                                                                                                       | Language |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [[coding/coding/Projects\|Projects]]                                                                                                     | en       |
+| [[coding/coding/My Projects\|My Projects]]                                                                                               | en       |
 | [[coding/CSharp/CSharp\|CSharp]]                                                                                                         | \-       |
 | [[coding/PowerAutomate/PowerAutomate\|PowerAutomate]]                                                                                    | en       |
 | [[coding/PowerApps/PowerApps\|PowerApps]]                                                                                                | en       |
