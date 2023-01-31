@@ -2,7 +2,7 @@
 {"title":"Power Apps MOC","dg-publish":true,"tags":["coding"],"language":"en","permalink":"/coding/power-apps/power-apps/","dgPassFrontmatter":true}
 ---
 
-up:: [[coding/coding/Coding\|Coding]]
+up:: [[coding/Coding\|Coding]]
 
 ## Articles
 
