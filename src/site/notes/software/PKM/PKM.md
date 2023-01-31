@@ -12,6 +12,6 @@ Personal Knowledge Management Software can improve your [[productivity/Productiv
 | Title                                                                                                              | Language |
 | ------------------------------------------------------------------------------------------------------------------ | -------- |
 | [[software/PKM/Obsidian - Exclude Template Tags from Tag List\|Obsidian - Exclude Template Tags from Tag List]] | en       |
-| [[software/PKM/Logseq\|Logseq]]                                                                                 | en       |
 | [[software/PKM/Obsidian\|Obsidian]]                                                                             | en       |
+| [[software/PKM/Logseq\|Logseq]]                                                                                 | en       |
 
