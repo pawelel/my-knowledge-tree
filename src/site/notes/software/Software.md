@@ -13,15 +13,15 @@ Here you can find tips, links to tutorials about software I use, sometimes revie
 | Title                                                                                                              | Language |
 | ------------------------------------------------------------------------------------------------------------------ | -------- |
 | [[software/SharePoint\|SharePoint]]                                                                             | en       |
-| [[software/Visual Studio Code\|Visual Studio Code]]                                                             | en       |
 | [[software/PowerToys\|PowerToys]]                                                                               | en       |
 | [[software/PowerPoint\|PowerPoint]]                                                                             | en       |
 | [[software/Excel\|Excel]]                                                                                       | en       |
 | [[software/Affinity Designer\|Affinity Designer]]                                                               | en       |
-| [[software/PKM/PKM\|PKM]]                                                                                       | en       |
 | [[software/PKM/Obsidian - Exclude Template Tags from Tag List\|Obsidian - Exclude Template Tags from Tag List]] | en       |
-| [[software/PKM/Logseq\|Logseq]]                                                                                 | en       |
+| [[software/PKM/PKM\|PKM]]                                                                                       | en       |
 | [[software/PKM/Obsidian\|Obsidian]]                                                                             | en       |
+| [[software/PKM/Logseq\|Logseq]]                                                                                 | en       |
+| [[software/Visual Studio Code\|Visual Studio Code]]                                                             | en       |
 
 
 ## Additional Links
