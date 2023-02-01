@@ -14,8 +14,8 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 
 | Title                                                                                                                                | Language |
 | ------------------------------------------------------------------------------------------------------------------------------------ | -------- |
-| [[coding/PowerShell/PowerShell\|PowerShell]]                                                                                      | en       |
 | [[coding/CSharp/CSharp\|CSharp]]                                                                                                  | \-       |
+| [[coding/PowerShell/PowerShell\|PowerShell]]                                                                                      | en       |
 | [[coding/PowerAutomate/PowerAutomate\|PowerAutomate]]                                                                             | en       |
 | [[coding/PowerApps/PowerApps\|PowerApps]]                                                                                         | en       |
 | [[coding/Angular/Angular\|Angular]]                                                                                               | en       |
