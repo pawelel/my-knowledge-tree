@@ -6,6 +6,7 @@ up:: [[coding/Coding\|Coding]]
 
 | Title                                                             | Language |
 | ----------------------------------------------------------------- | -------- |
+| [[coding/CSharp/ASP .NET Boilrtplate\|ASP .NET Boilrtplate]]   | en       |
 | [[coding/CSharp/Speed Up Async Tasks\|Speed Up Async Tasks]]   | en       |
 | [[coding/CSharp/ToDo WPF Application\|ToDo WPF Application]]   | en       |
 | [[coding/CSharp/NuGet Packages\|NuGet Packages]]               | en       |
