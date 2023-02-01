@@ -22,13 +22,13 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 | [[coding/TypeScript/TypeScript\|TypeScript]]                                                                                      | en       |
 | [[coding/SPA\|SPA]]                                                                                                               | en       |
 | [[coding/Programming Languages Based On Interests\|Programming Languages Based On Interests]]                                     | en       |
-| [[coding/Markdown\|Markdown]]                                                                                                     | en       |
 | [[coding/C4 Model\|C4 Model]]                                                                                                     | en       |
+| [[coding/Markdown\|Markdown]]                                                                                                     | en       |
 | [[coding/SOLID/SOLID\|SOLID]]                                                                                                     | \-       |
-| [[coding/PowerShell/React/React\|React]]                                                                                          | en       |
-| [[coding/Dependency Injection\|Dependency Injection]]                                                                             | \-       |
-| [[coding/72 Tricks for .NET Developers\|72 Tricks for .NET Developers]]                                                           | en       |
 | [[coding/3 categories of projects to create for developer portfolio\|3 categories of projects to create for developer portfolio]] | en       |
+| [[coding/72 Tricks for .NET Developers\|72 Tricks for .NET Developers]]                                                           | en       |
+| [[coding/Dependency Injection\|Dependency Injection]]                                                                             | \-       |
+| [[coding/PowerShell/React/React\|React]]                                                                                          | en       |
 
 
 ## Additional Links
