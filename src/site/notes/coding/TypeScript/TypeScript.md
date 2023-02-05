@@ -144,9 +144,8 @@ const cc: ColorfulCircle = {
 ```
 
 ## Articles
-| Title                                                               | Language |
-| ------------------------------------------------------------------- | -------- |
-| [[coding/TypeScript/Typescript questions\|Typescript questions]] | en       |
+| Title | Language |
+| ----- | -------- |
 
 ## Additional Links
 [TypeScript: The starting point for learning TypeScript](https://www.typescriptlang.org/docs/)
