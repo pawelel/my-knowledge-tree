@@ -25,10 +25,10 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 | [[coding/Markdown\|Markdown]]                                                                                                     | en       |
 | [[coding/C4 Model\|C4 Model]]                                                                                                     | en       |
 | [[coding/SOLID/SOLID\|SOLID]]                                                                                                     | \-       |
-| [[coding/PowerShell/React/React\|React]]                                                                                          | en       |
+| [[coding/3 categories of projects to create for developer portfolio\|3 categories of projects to create for developer portfolio]] | en       |
 | [[coding/Dependency Injection\|Dependency Injection]]                                                                             | \-       |
 | [[coding/72 Tricks for .NET Developers\|72 Tricks for .NET Developers]]                                                           | en       |
-| [[coding/3 categories of projects to create for developer portfolio\|3 categories of projects to create for developer portfolio]] | en       |
+| [[coding/PowerShell/React/React\|React]]                                                                                          | en       |
 
 
 ## Additional Links
