@@ -6,7 +6,6 @@ up:: [[coding/CSharp/CSharp\|CSharp]]
 
 ## Additional Links
 
-
 [c# - how to map nested List to another List with AutoMapper - Stack Overflow](https://stackoverflow.com/questions/45832459/how-to-map-nested-list-to-another-list-with-automapper/45832760)
 
 [c# - Disposing of context in the Unit Of Work / Repository pattern - Stack Overflow](https://stackoverflow.com/questions/52939617/disposing-of-context-in-the-unit-of-work-repository-pattern)
