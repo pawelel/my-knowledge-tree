@@ -1,18 +1,18 @@
 ---
-{"title":"Delete In EF7","dg-publish":true,"tags":["coding/CSharp"],"language":"en","permalink":"/coding/c-sharp/changes-in-ef-7/","dgPassFrontmatter":true}
+{"title":"Changes In EF7","dg-publish":true,"tags":["coding/CSharp"],"language":"en","permalink":"/coding/c-sharp/changes-in-ef-7/","dgPassFrontmatter":true}
 ---
 
 up:: [[coding/CSharp/CSharp\|CSharp]]
 
 ## Delete
 
-If you need to delete some record from the SQL DB using EF7 and get optimized result like:
+If you need to delete a record from the SQL DB using EF7 and get optimized result like:
 
 ```sql
 DELETE FROM [Users]
 WHERE [Id] = @p0;
 ```
-you can use this syntax:
+You can use this syntax:
 
 ```cs
 app.MapPut("delete", async (Guid id)=>
