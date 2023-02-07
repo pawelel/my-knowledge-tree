@@ -6,11 +6,12 @@ up:: [[coding/Coding\|Coding]]
 
 | Title                                                             | Language |
 | ----------------------------------------------------------------- | -------- |
+| [[coding/CSharp/Changes In EF7\|Changes In EF7]]               | en       |
+| [[coding/CSharp/Entity Framework Core\|Entity Framework Core]] | en       |
 | [[coding/CSharp/ASP .NET Boilrtplate\|ASP .NET Boilrtplate]]   | en       |
 | [[coding/CSharp/Speed Up Async Tasks\|Speed Up Async Tasks]]   | en       |
 | [[coding/CSharp/ToDo WPF Application\|ToDo WPF Application]]   | en       |
 | [[coding/CSharp/NuGet Packages\|NuGet Packages]]               | en       |
-| [[coding/CSharp/Entity Framework Core\|Entity Framework Core]] | en       |
 | [[coding/CSharp/Blazor\|Blazor]]                               | en       |
 
 
