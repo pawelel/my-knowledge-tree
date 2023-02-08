@@ -9,6 +9,6 @@ up:: [[software/PKM/PKM\|PKM]]
 	Details
     </summary>
     
-    Main content or other things
+## Main content or other things
 
 </details>
