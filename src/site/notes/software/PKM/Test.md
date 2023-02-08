@@ -5,15 +5,15 @@
 up:: [[software/PKM/PKM\|PKM]]
 
 # Bug-report
-## My h2
-paragraph
-#### My h4
-paragraph
-##### My h5
-paragraph
-### My h3
-paragraph
-#### Another h4
-paragraph
-### Another h3
-paragraph
+
+## Topic 2
+text 2
+
+#### Topic 4
+text 4
+
+### Topic 3
+text 3
+
+#### Topic 4 the second
+text the second topic 4
