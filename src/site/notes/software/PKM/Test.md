@@ -3,12 +3,7 @@
 ---
 
 up:: [[software/PKM/PKM\|PKM]]
-
->[!Note]
->hello
-
-> hello
-
+# Header primary
 
 ## Topic2
 
