@@ -4,8 +4,6 @@
 
 up:: [[software/PKM/PKM\|PKM]]
 
-# bug-report
-
 ## my h2
 
 paragraph
