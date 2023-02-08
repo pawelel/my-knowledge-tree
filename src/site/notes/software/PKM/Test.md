@@ -5,12 +5,11 @@
 up:: [[software/PKM/PKM\|PKM]]
 
 <details>
-    <summary class="style" >
-    
-## Details
-   
+    <summary>
+## Second level of heading
 </summary>
     
-## Main content or other things
+### Third level of heading
+Some content or other things
 
 </details>
