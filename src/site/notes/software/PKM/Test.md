@@ -7,7 +7,7 @@ up:: [[software/PKM/PKM\|PKM]]
 <details>
     <summary class="style" >
     
-	Details
+## Details
    
 </summary>
     
