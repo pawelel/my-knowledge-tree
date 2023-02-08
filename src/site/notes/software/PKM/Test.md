@@ -5,10 +5,10 @@
 up:: [[software/PKM/PKM\|PKM]]
 
 <details>
-    <summary> 
+    <summary class="style" > 
     
-## Details
+Details
     
     </summary>
-    Something small enough to escape casual notice.
+    Main content or other things
 </details>
