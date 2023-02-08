@@ -4,16 +4,16 @@
 
 up:: [[software/PKM/PKM\|PKM]]
 
-# bug-report
-## my h2
+# Bug-report
+## My h2
 paragraph
-#### my h4
+#### My h4
 paragraph
-##### my h5
+##### My h5
 paragraph
-### my h3
+### My h3
 paragraph
-#### another h4
+#### Another h4
 paragraph
-### another h3
+### Another h3
 paragraph
