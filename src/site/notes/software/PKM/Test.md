@@ -5,6 +5,10 @@
 up:: [[software/PKM/PKM\|PKM]]
 
 <details>
-    <summary>Details</summary>
+    <summary> 
+    
+## Details
+    
+    </summary>
     Something small enough to escape casual notice.
 </details>
