@@ -10,7 +10,6 @@ This base is organized with categories - productivity, coding, software and usef
 
 | Tag               | Title                                                                                              | Updated     |
 | ----------------- | -------------------------------------------------------------------------------------------------- | ----------- |
-| software/PKM      | [[software/PKM/Test\|Test]] (en)                                                                | 2023/Feb/08 |
 | coding/CSharp     | [[coding/CSharp/Changes In EF7 For Minimal Api\|Changes In EF7 For Minimal Api]] (en)           | 2023/Feb/07 |
 | coding/CSharp     | [[coding/CSharp/Entity Framework Core\|Entity Framework Core]] (en)                             | 2023/Feb/07 |
 | coding/TypeScript | [[coding/TypeScript/Type Never\|Type Never]] (en)                                               | 2023/Feb/05 |
@@ -20,6 +19,7 @@ This base is organized with categories - productivity, coding, software and usef
 | coding/CSharp     | [[coding/CSharp/Speed Up Async Tasks\|Speed Up Async Tasks]] (en)                               | 2023/Feb/01 |
 | coding/CSharp     | [[coding/CSharp/CSharp\|CSharp]]                                                                | 2023/Feb/01 |
 | coding            | [[coding/My Projects\|My Projects]] (en)                                                        | 2023/Jan/31 |
+| coding/PowerShell | [[coding/PowerShell/PowerShell\|PowerShell]] (en)                                               | 2023/Jan/30 |
 
 
 ## My Projects
@@ -52,7 +52,7 @@ This base is organized with categories - productivity, coding, software and usef
 | Tags         | Title                                                                                                                                                                                                                                                                                                                       | Updated                                                                                                                           |
 | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | [[software/Software\|software]] | <ul><li>[[software/Visual Studio Code.md\\|Visual Studio Code]]</li><li>[[software/SharePoint.md\\|SharePoint]]</li><li>[[software/PowerToys.md\\|PowerToys]]</li><li>[[software/PowerPoint.md\\|PowerPoint]]</li><li>[[software/Excel.md\\|Excel]]</li><li>[[software/Affinity Designer.md\\|Affinity Designer]]</li></ul> | <ul><li>2023/Jan/12</li><li>2023/Jan/08</li><li>2023/Jan/01</li><li>2023/Jan/01</li><li>2023/Jan/01</li><li>2023/Jan/01</li></ul> |
-| [[software/PKM/PKM\|PKM]]      | <ul><li>[[software/PKM/Test.md\\|Test]]</li><li>[[software/PKM/Obsidian - Exclude Template Tags from Tag List.md\\|Obsidian - Exclude Template Tags from Tag List]]</li><li>[[software/PKM/Logseq.md\\|Logseq]]</li><li>[[software/PKM/Obsidian.md\\|Obsidian]]</li></ul>                                                   | <ul><li>2023/Feb/08</li><li>2023/Jan/04</li><li>2022/Dec/23</li><li>2022/Dec/23</li></ul>                                         |
+| [[software/PKM/PKM\|PKM]]      | <ul><li>[[software/PKM/Obsidian - Exclude Template Tags from Tag List.md\\|Obsidian - Exclude Template Tags from Tag List]]</li><li>[[software/PKM/Logseq.md\\|Logseq]]</li><li>[[software/PKM/Obsidian.md\\|Obsidian]]</li></ul>                                                                                           | <ul><li>2023/Jan/04</li><li>2022/Dec/23</li><li>2022/Dec/23</li></ul>                                                             |
 
 
 ## Websites
