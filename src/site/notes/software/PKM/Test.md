@@ -4,14 +4,28 @@
 
 up:: [[software/PKM/PKM\|PKM]]
 
-<details>
-    <summary>
-    
-## Second level of heading
+# bug-report
 
-</summary>
-    
-### Third level of heading
-Some content or other things
+## my h2
 
-</details>
+paragraph
+
+#### my h4
+
+paragraph
+
+##### my h5
+
+paragraph
+
+### my h3
+
+paragraph
+
+#### another h4
+
+paragraph
+
+### another h3
+
+paragraph
