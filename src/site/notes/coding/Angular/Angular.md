@@ -19,8 +19,8 @@ Angular also supports server side rendering (SSR).
 
 | Title                                                                                                              | Language |
 | ------------------------------------------------------------------------------------------------------------------ | -------- |
-| [[coding/Angular/Angular for beginners Course by Santosh Yadav\|Angular for beginners Course by Santosh Yadav]] | en       |
 | [[coding/Angular/Cannot find name Input\|Cannot find name Input]]                                               | en       |
+| [[coding/Angular/Angular for beginners Course by Santosh Yadav\|Angular for beginners Course by Santosh Yadav]] | en       |
 
 
 ## Installation
