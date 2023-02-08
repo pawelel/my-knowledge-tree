@@ -8,11 +8,11 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 
 | Title                                              | Language |
 | -------------------------------------------------- | -------- |
-| [[websites/Watchlist\|Watchlist]]               | en       |
 | [[websites/YouTube Channels\|YouTube Channels]] | \-       |
-| [[websites/Entertainment\|Entertainment]]       | \-       |
+| [[websites/Watchlist\|Watchlist]]               | en       |
 | [[websites/Science\|Science]]                   | en       |
-| [[websites/Languages\|Languages]]               | \-       |
 | [[websites/Online Tools\|Online Tools]]         | en       |
+| [[websites/Languages\|Languages]]               | \-       |
+| [[websites/Entertainment\|Entertainment]]       | \-       |
 | [[websites/Drawing\|Drawing]]                   | en       |
 
