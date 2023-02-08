@@ -8,5 +8,7 @@ up:: [[software/PKM/PKM\|PKM]]
     <summary class="style" >
 	Details
     </summary>
+    
     Main content or other things
+
 </details>
