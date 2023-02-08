@@ -22,6 +22,7 @@ Here you can find tips, links to tutorials about software I use, sometimes revie
 | [[software/PKM/Obsidian - Exclude Template Tags from Tag List\|Obsidian - Exclude Template Tags from Tag List]] | en       |
 | [[software/PKM/Logseq\|Logseq]]                                                                                 | en       |
 | [[software/Affinity Designer\|Affinity Designer]]                                                               | en       |
+| [[software/PKM/Test\|Test]]                                                                                     | en       |
 
 
 ## Additional Links
