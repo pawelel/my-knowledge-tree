@@ -14,8 +14,8 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 
 | Title                                                                                                                                | Language |
 | ------------------------------------------------------------------------------------------------------------------------------------ | -------- |
-| [[coding/Markdown\|Markdown]]                                                                                                     | en       |
 | [[coding/CSharp/CSharp\|CSharp]]                                                                                                  | \-       |
+| [[coding/Markdown\|Markdown]]                                                                                                     | en       |
 | [[coding/PowerShell/PowerShell\|PowerShell]]                                                                                      | en       |
 | [[coding/PowerAutomate/PowerAutomate\|PowerAutomate]]                                                                             | en       |
 | [[coding/PowerApps/PowerApps\|PowerApps]]                                                                                         | en       |
@@ -27,8 +27,8 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 | [[coding/SOLID/SOLID\|SOLID]]                                                                                                     | \-       |
 | [[coding/3 categories of projects to create for developer portfolio\|3 categories of projects to create for developer portfolio]] | en       |
 | [[coding/72 Tricks for .NET Developers\|72 Tricks for .NET Developers]]                                                           | en       |
-| [[coding/Dependency Injection\|Dependency Injection]]                                                                             | \-       |
 | [[coding/PowerShell/React/React\|React]]                                                                                          | en       |
+| [[coding/Dependency Injection\|Dependency Injection]]                                                                             | \-       |
 
 
 ## Additional Links
