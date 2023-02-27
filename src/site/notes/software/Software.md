@@ -14,6 +14,7 @@ Here you can find tips, links to tutorials about software I use, sometimes revie
 | ------------------------------------------------------------------------------------------------------------------ | -------- |
 | [[software/Visual Studio Code\|Visual Studio Code]]                                                             | en       |
 | [[software/SharePoint\|SharePoint]]                                                                             | en       |
+| [[software/Affinity Designer\|Affinity Designer]]                                                               | en       |
 | [[software/PowerToys\|PowerToys]]                                                                               | en       |
 | [[software/PowerPoint\|PowerPoint]]                                                                             | en       |
 | [[software/PKM/Test\|Test]]                                                                                     | en       |
@@ -22,7 +23,6 @@ Here you can find tips, links to tutorials about software I use, sometimes revie
 | [[software/PKM/Obsidian - Exclude Template Tags from Tag List\|Obsidian - Exclude Template Tags from Tag List]] | en       |
 | [[software/PKM/Logseq\|Logseq]]                                                                                 | en       |
 | [[software/Excel\|Excel]]                                                                                       | en       |
-| [[software/Affinity Designer\|Affinity Designer]]                                                               | en       |
 
 
 ## Additional Links
