@@ -46,3 +46,4 @@ xmlns:local="clr-namespace:MyNamespace" xmlns:core="clr-namespace:MyNamespace.Co
 [Use Windows Subsystem for Android in Windows 11 (non-US edition)](https://jkdev.me/use-windows-subsystem-for-android-in-windows-11/)
 [Creating Device-Specific Views in .NET MAUI - YouTube](https://www.youtube.com/watch?v=7oVrdUELuYA)
 [Learn Live - Store local data with SQLite in a .NET MAUI app - YouTube](https://www.youtube.com/watch?v=nK0rtoU_D2Q)
+[user controls - WPF Howto create a reusable composite component with configurable content? - Stack Overflow](https://stackoverflow.com/questions/16670626/wpf-howto-create-a-reusable-composite-component-with-configurable-content)
