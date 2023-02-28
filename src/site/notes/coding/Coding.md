@@ -27,8 +27,8 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 | [[coding/SOLID/SOLID\|SOLID]]                                                                                                     | \-       |
 | [[coding/3 categories of projects to create for developer portfolio\|3 categories of projects to create for developer portfolio]] | en       |
 | [[coding/72 Tricks for .NET Developers\|72 Tricks for .NET Developers]]                                                           | en       |
-| [[coding/PowerShell/React/React\|React]]                                                                                          | en       |
 | [[coding/Dependency Injection\|Dependency Injection]]                                                                             | \-       |
+| [[coding/PowerShell/React/React\|React]]                                                                                          | en       |
 
 
 ## Additional Links
