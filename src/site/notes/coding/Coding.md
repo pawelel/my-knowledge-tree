@@ -61,3 +61,6 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 | [Forum Pasja Informatyki](https://forum.pasja-informatyki.pl/)            | Forum Mirosława Zelenta - wiele dziedzin IT        |
 | [POLSKI SPOJ: test your programming skills on-line](https://pl.spoj.com/) | Zadania z programowania                            |
 |                                                                           |                                                    |
+
+## External Sources
+["Clean" Code, Horrible Performance - YouTube](https://www.youtube.com/watch?v=tD5NrevFtbU)
