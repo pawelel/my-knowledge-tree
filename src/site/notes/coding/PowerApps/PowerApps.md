@@ -8,10 +8,10 @@ up:: [[coding/Coding\|Coding]]
 
 | Title                                                                                                                                                        | Language |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
-| [[coding/PowerApps/Microsoft Power Platform Functional Consultant\|Microsoft Power Platform Functional Consultant]]                                       | pl       |
 | [[coding/PowerApps/Better forms in Power Apps\|Better forms in Power Apps]]                                                                               | en       |
 | [[coding/PowerApps/Export and import SharePoint customized form between environments\|Export and import SharePoint customized form between environments]] | en       |
 | [[coding/PowerApps/Person or Group in Power Apps\|Person or Group in Power Apps]]                                                                         | en       |
+| [[coding/PowerApps/Microsoft Power Platform Functional Consultant\|Microsoft Power Platform Functional Consultant]]                                       | pl       |
 | [[coding/PowerApps/With syntax\|With syntax]]                                                                                                             | en       |
 
 
