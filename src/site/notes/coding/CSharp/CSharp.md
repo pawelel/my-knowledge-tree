@@ -6,6 +6,7 @@ up:: [[coding/Coding\|Coding]]
 
 | Title                                                                               | Language |
 | ----------------------------------------------------------------------------------- | -------- |
+| [[coding/CSharp/Get Voivodeship from OSM\|Get Voivodeship from OSM]]             | en       |
 | [[coding/CSharp/Changes In EF7 For Minimal Api\|Changes In EF7 For Minimal Api]] | en       |
 | [[coding/CSharp/Entity Framework Core\|Entity Framework Core]]                   | en       |
 | [[coding/CSharp/ASP .NET Boilrtplate\|ASP .NET Boilrtplate]]                     | en       |
