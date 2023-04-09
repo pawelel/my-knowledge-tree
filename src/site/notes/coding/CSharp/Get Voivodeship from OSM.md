@@ -40,3 +40,33 @@ return null;
 return string.Empty;  
 }
 ```
+
+## Get Train stations from geojson
+
+```csharp
+internal static List<Station> SeedStations()  
+{  
+var options = new JsonSerializerOptions { PropertyNameCaseInsensitive = true };  
+// get root path of repository  
+var rootPath = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, "..\\..\\..\\..\\..\\"));  
+// get path to stations.json Slp\src  
+var stationsPath = Path.Combine(rootPath, "stations.geojson");  
+// read stations.json  
+var geoJson = File.ReadAllText(stationsPath);  
+var featureCollection = new GeoJsonReader().Read<FeatureCollection>(geoJson);  
+var stations = new List<Station>();  
+foreach (var feature in featureCollection)  
+{  
+var properties = feature.Attributes;  
+var coordinates = feature.Geometry.Coordinate;  
+var station = new Station  
+{  
+Name = (string)properties["name"],  
+Latitude = coordinates.Y,  
+Longitude = coordinates.X  
+};  
+stations.Add(station);  
+}  
+return stations;  
+}
+```
