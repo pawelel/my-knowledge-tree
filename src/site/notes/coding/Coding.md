@@ -25,8 +25,8 @@ up:: [[My Knowledge Tree\|My Knowledge Tree]]
 | [[coding/Programming Languages Based On Interests\|Programming Languages Based On Interests]]                                     | en       |
 | [[coding/C4 Model\|C4 Model]]                                                                                                     | en       |
 | [[coding/SOLID/SOLID\|SOLID]]                                                                                                     | \-       |
-| [[coding/72 Tricks for .NET Developers\|72 Tricks for .NET Developers]]                                                           | en       |
 | [[coding/3 categories of projects to create for developer portfolio\|3 categories of projects to create for developer portfolio]] | en       |
+| [[coding/72 Tricks for .NET Developers\|72 Tricks for .NET Developers]]                                                           | en       |
 | [[coding/Dependency Injection\|Dependency Injection]]                                                                             | \-       |
 | [[coding/PowerShell/React/React\|React]]                                                                                          | en       |
 
